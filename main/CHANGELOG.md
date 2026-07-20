@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.3](https://github.com/Sannity/teamgf-official-modpack/compare/main-v3.0.2...main-v3.0.3) (2026-07-20)
+
+
+### ♻ Bug Fixes
+
+* **main:** add pack description and publish 3.0.3 ([6a777b3](https://github.com/Sannity/teamgf-official-modpack/commit/6a777b3b738f9c3272a0e213c61f231d5899f6fa))
+
 ## 3.0.2 (2026-07-20)
 
 
