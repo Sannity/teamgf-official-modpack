@@ -1,6 +1,7 @@
 name = "teamGF Official Modpack"
 author = "Sannity"
-version = "3.0.2"
+description = "Modpack of the teamGF Gaming Community, Feel free to stop into our Server!"
+version = "3.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
