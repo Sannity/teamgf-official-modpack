@@ -1,0 +1,11 @@
+{
+  "id": "conductive_alloy_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.conductive_alloy_blocks",
+    "fallback": "Conductive Alloy Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/conductive_alloy"
+  }
+}

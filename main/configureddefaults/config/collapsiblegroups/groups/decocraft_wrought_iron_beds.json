@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_wrought_iron_beds",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wrought_iron_beds",
+    "fallback": "Decocraft Wrought Iron Beds"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_bed_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_bed_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_bed_white"
+      }
+    ]
+  }
+}

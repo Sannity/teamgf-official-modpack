@@ -1,0 +1,11 @@
+{
+  "id": "limestone",
+  "name": {
+    "translate": "collapsible_groups.group.limestone",
+    "fallback": "Limestone"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "create:stone_type/limestone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "modern_industrialization_fluid_pipes",
+  "name": {
+    "translate": "collapsible_groups.group.modern_industrialization_fluid_pipes",
+    "fallback": "Modern Industrialization Fluid Pipes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "modern_industrialization:fluid_pipes"
+  }
+}

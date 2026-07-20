@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_adventsljusstakes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_adventsljusstakes",
+    "fallback": "Decocraft Adventsljusstakes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:adventsljusstake_white_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:adventsljusstake_red_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:adventsljusstake_green_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:adventsljusstake_blue_flipbook"
+      }
+    ]
+  }
+}

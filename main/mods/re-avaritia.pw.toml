@@ -1,0 +1,13 @@
+name = "Re:Avaritia[Forge/Fabric/Neoforge]"
+filename = "Re-Avaritia-neoforge-1.21.1-1.3.9.9-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f8f8f63c7b26769f7ee4503cc5fb38085d0a0ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8099035
+project-id = 623969

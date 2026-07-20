@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_rectangular_mirrors",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rectangular_mirrors",
+    "fallback": "Decocraft Rectangular Mirrors"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rectangular_mirror_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rectangular_mirror_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rectangular_mirror_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rectangular_mirror_black"
+      }
+    ]
+  }
+}

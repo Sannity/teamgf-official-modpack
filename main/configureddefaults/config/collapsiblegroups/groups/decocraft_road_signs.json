@@ -1,0 +1,80 @@
+{
+  "id": "decocraft_road_signs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_road_signs",
+    "fallback": "Decocraft Road Signs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:stop_sign"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_5"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_6"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_7"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_8"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_9"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_10"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_12"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_13"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_14"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_15"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:circle_sign_11"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bus_stop_sign"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_medieval_high_bed_kings",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_medieval_high_bed_kings",
+    "fallback": "Decocraft Medieval High Bed Kings"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:medieval_high_canopy_bed_king_pink"
+      }
+    ]
+  }
+}

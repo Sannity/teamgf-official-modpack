@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_arch_mirrors",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_arch_mirrors",
+    "fallback": "Decocraft Arch Mirrors"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:arch_mirror_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arch_mirror_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arch_mirror_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arch_mirror_black"
+      }
+    ]
+  }
+}

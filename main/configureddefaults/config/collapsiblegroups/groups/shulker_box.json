@@ -1,0 +1,12 @@
+{
+  "id": "shulker_box",
+  "name": {
+    "translate": "collapsible_groups.group.shulker_box",
+    "fallback": "Shulker Box"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "sophisticatedstorage:shulker_box"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "sulfur_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.sulfur_blocks",
+    "fallback": "Sulfur Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/sulfur"
+  }
+}

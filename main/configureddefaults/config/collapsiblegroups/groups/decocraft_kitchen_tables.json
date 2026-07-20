@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_kitchen_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_kitchen_tables",
+    "fallback": "Decocraft Kitchen Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_table_black"
+      }
+    ]
+  }
+}

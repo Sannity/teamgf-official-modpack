@@ -1,0 +1,104 @@
+{
+  "id": "decocraft_holiday_lights",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_holiday_lights",
+    "fallback": "Decocraft Holiday Lights"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:light_tree_rainbow_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:light_tree_white_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:deer_lights_buck_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:deer_lights_doe_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:deer_lights_fawn_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ornament_large_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ornament_small_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ornament_pair_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:string_light_stars_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:string_light_stars_rainbow_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:string_light_stars_white_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lights_ground"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lights_ground_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lights_ground_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lights_ground_edge"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lights_ground_edge_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lights_ground_edge_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:meteor_lights_white_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:meteor_lights_white_2_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:meteor_lights_yellow_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:meteor_lights_yellow_2_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:meteor_lights_rainbow_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:meteor_lights_rainbow_2_flipbook"
+      }
+    ]
+  }
+}

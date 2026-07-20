@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_fancy_clocks",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_fancy_clocks",
+    "fallback": "Bibliocraft Fancy Clocks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:fancy_clocks"
+  }
+}

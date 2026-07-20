@@ -1,0 +1,28 @@
+{
+  "id": "purpur_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.purpur_blocks",
+    "fallback": "Purpur Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:purpur_block"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:purpur_pillar"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:purpur_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:purpur_slab"
+      }
+    ]
+  }
+}

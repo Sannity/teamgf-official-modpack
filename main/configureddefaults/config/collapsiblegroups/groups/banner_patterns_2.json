@@ -1,0 +1,12 @@
+{
+  "id": "banner_patterns_2",
+  "name": {
+    "translate": "collapsible_groups.group.banner_patterns_2",
+    "fallback": "Banner Patterns"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "c:loom_patterns"
+  }
+}

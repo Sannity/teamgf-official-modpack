@@ -1,0 +1,396 @@
+{
+  "id": "decocraft_single_beds",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_single_beds",
+    "fallback": "Decocraft Single Beds"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_birch_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_black_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_palm_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_spruce_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_white_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:single_bed_oak_light_gray"
+      }
+    ]
+  }
+}

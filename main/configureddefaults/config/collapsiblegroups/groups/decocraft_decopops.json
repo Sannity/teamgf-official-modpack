@@ -1,0 +1,584 @@
+{
+  "id": "decocraft_decopops",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_decopops",
+    "fallback": "Decocraft DecoPops"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:000_dpop_razz"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:001_dpop_profmobius"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:002_dpop_girafi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:003_dpop_bevolj"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:004_dpop_bulletphase"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:005_dpop_revstrom"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:006_dpop_coffee2002"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:007_dpop_rckymtnrfc"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:008_dpop_fergcraft"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:009_dpop_saice"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:010_dpop_taelnia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:011_dpop_chjees"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:012_dpop_xaw4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:013_dpop_duskmoon"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:014_dpop_judgegrimm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:015_dpop_jakimfett"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:016_dpop_tmzasz"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:017_dpop_haggle1996"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:018_dpop_gellegbs"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:019_dpop_carrieexmachina"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:020_dpop_zerokazuma"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:021_dpop_seriiiously"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:022_dpop_gennaln"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:023_dpop_daycarn"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:024_dpop_onyxdarkknight"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:026_dpop_openkerley"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:027_dpop_beanxxbot"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:028_dpop_lividcoffee"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:029_dpop_davexx100"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:030_dpop_trustinlies"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:031_dpop_iarinu_tatsu"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:032_dpop_thejays"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:033_dpop_skuli"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:034_dpop_convict999"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:035_dpop_meepmeep"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:036_dpop_foxingtonfox"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:037_dpop_mikanpachi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:038_dpop_viesis"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:039_dpop_hazzar"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:040_dpop_donald108"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:041_dpop_beroos_wain"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:042_dpop_rojo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:043_dpop_mistysugarpup"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:044_dpop_thegreatorator"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:045_dpop_tuglowz"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:046_dpop_strange_penguin"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:047_dpop_sarsum33"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:048_dpop_crueldog"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:049_dpop_oddles"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:050_dpop_hazardrar"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:051_dpop_cottonballer"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:052_dpop_thatdesiree"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:053_dpop_momibelle"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:054_dpop_sirsammyi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:055_dpop_adasusi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:056_dpop_stacyplays"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:057_dpop_cymosa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:058_dpop_jikanusagi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:059_dpop_gold172"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:060_dpop_atarikafa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:061_dpop_zachary_qiun"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:062_dpop_chestboy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:063_dpop_estranged42"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:064_dpop_kittycarrot2505"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:065_dpop_sora_zealon"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:066_dpop_ltwind"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:067_dpop_purplehel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:068_dpop_masterrose88"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:069_dpop_johnny215"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:070_dpop_scottradish"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:071_dpop_canadiancreep"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:072_dpop_sotmead"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:073_dpop_queensis"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:074_dpop_danny_nl"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:075_dpop_jewelzdevone"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:076_dpop_mcenderdragon"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:077_dpop_quixy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:078_dpop_arcticjr"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:079_dpop_dusty21134"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:080_dpop_freyjadono"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:081_dpop_karmagick"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:082_dpop_hugstoall"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:083_dpop_texaswriter"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:084_dpop_flossy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:085_dpop_writeescape"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:086_dpop_thecodymaverick"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:087_dpop_sirbonycus"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:088_dpop_h2odeliriousyt"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:089_dpop_cartoonz_yt"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:090_dpop_deadsquirrel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:091_dpop_ohmwrecker"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:092_dpop_gorillaphent"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:093_dpop_bubbles"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:094_dpop_thecreeper2007"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:095_dpop_justjakl"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:096_dpop_hulkbr"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:097_dpop_prosidu"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:098_dpop_minguado"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:099_dpop_animationspirit"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:100_dpop_reeseriverson"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:101_dpop_lunathewoffle"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:102_dpop_silvio"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:103_dpop_flex"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:104_dpop_splixx"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:105_dpop_tilera"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:106_dpop_phiidelity"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:107_dpop_boxic"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:108_dpop_papilaw"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:109_dpop_princekross"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:110_dpop_tschipp"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:111_dpop_ryan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:112_dpop_therealm18"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:113_dpop_tacoredneck"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:114_dpop_woofie"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:115_dpop_almarod"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:116_dpop_albens"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:117_dpop_ralnick"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:118_dpop_dreamrealms"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:119_dpop_mlgmagichoodini"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:120_dpop_technopearl"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:121_dpop_damolition"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:122_dpop_funnkles"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:123_dpop_radicalrainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:124_dpop_benlikessharks"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:125_dpop_momoko"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:126_dpop_eyuphanmandiraci"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:127_dpop_mimi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:128_dpop_vincent"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:129_dpop_kulfonek"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:130_dpop_denkisimps4skit"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:131_dpop_jigarbov"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:132_dpop_omar_tuareg"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:133_dpop_theanonghoul"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:134_dpop_rowan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:135_dpop_mimichu"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:136_dpop_redracc"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:137_dpop_panedwards"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:138_dpop_clau5"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:139_dpop_thesinicanempire"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:142_dpop_cicihoneybee"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:141_dpop_darkcakekingcz"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:140_dpop_paigeyp0p"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:025_dpop_latvianmodder"
+      }
+    ]
+  }
+}

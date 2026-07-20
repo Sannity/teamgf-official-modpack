@@ -1,0 +1,44 @@
+{
+  "id": "copper_door",
+  "name": {
+    "translate": "collapsible_groups.group.copper_door",
+    "fallback": "Copper Doors"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:copper_door"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:exposed_copper_door"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:weathered_copper_door"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:oxidized_copper_door"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_copper_door"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_exposed_copper_door"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_weathered_copper_door"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_oxidized_copper_door"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "corals",
+  "name": {
+    "translate": "collapsible_groups.group.corals",
+    "fallback": "Corals"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "create:corals"
+      },
+      {
+        "block_tag": "minecraft:corals"
+      },
+      {
+        "block_tag": "biomesoplenty:dead_corals"
+      },
+      {
+        "block_tag": "biomesoplenty:dead_wall_corals"
+      },
+      {
+        "block_tag": "minecraft:wall_corals"
+      },
+      {
+        "block_tag": "minecraft:coral_blocks"
+      },
+      {
+        "block_tag": "minecraft:coral_plants"
+      },
+      {
+        "block_tag": "biomesoplenty:dead_coral_blocks"
+      },
+      {
+        "block_tag": "biomesoplenty:dead_coral_plants"
+      }
+    ]
+  }
+}

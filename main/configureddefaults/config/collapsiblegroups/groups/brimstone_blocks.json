@@ -1,0 +1,42 @@
+{
+  "id": "brimstone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.brimstone_blocks",
+    "fallback": "Brimstone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "biomesoplenty:brimstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:brimstone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:brimstone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:brimstone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:brimstone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:chiseled_brimstone_bricks"
+      },
+      {
+        "block_tag": "stonezone:biomesoplenty/brimstone"
+      },
+      {
+        "block_tag": "biomesoplenty:stone_type/brimstone"
+      }
+    ]
+  }
+}

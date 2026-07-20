@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_jewelry_boxes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_jewelry_boxes",
+    "fallback": "Decocraft Jewelry Boxes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:jewelry_box_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jewelry_box_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jewelry_box_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jewelry_box_pink"
+      }
+    ]
+  }
+}

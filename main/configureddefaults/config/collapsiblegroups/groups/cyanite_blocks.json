@@ -1,0 +1,11 @@
+{
+  "id": "cyanite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.cyanite_blocks",
+    "fallback": "Cyanite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "bigreactors:metal_type/cyanite"
+  }
+}

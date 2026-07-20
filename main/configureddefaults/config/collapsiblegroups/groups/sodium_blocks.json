@@ -1,0 +1,11 @@
+{
+  "id": "sodium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.sodium_blocks",
+    "fallback": "Sodium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/sodium"
+  }
+}

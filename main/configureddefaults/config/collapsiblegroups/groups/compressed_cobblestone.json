@@ -1,0 +1,76 @@
+{
+  "id": "compressed_cobblestone",
+  "name": {
+    "translate": "collapsible_groups.group.compressed_cobblestone",
+    "fallback": "Compressed Cobblestone"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_1"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_2"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_3"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_4"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_5"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_6"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_7"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_8"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_9"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_10"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_11"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_12"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_14"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_13"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_15"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobblestone_16"
+      }
+    ]
+  }
+}

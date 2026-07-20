@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_bedside_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bedside_tables",
+    "fallback": "Decocraft Bedside Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bedside_table_black"
+      }
+    ]
+  }
+}

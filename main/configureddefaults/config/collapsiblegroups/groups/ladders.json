@@ -1,0 +1,52 @@
+{
+  "id": "ladders",
+  "name": {
+    "translate": "collapsible_groups.group.ladders",
+    "fallback": "Ladders"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:ladder"
+      },
+      {
+        "type": "item",
+        "id": "create:andesite_ladder"
+      },
+      {
+        "type": "item",
+        "id": "create:brass_ladder"
+      },
+      {
+        "type": "item",
+        "id": "create:copper_ladder"
+      },
+      {
+        "type": "item",
+        "id": "enderio:dark_steel_ladder"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_ladder"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:metal_ladder_none"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:metal_ladder_alu"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:metal_ladder_steel"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:iron_ladder"
+      }
+    ]
+  }
+}

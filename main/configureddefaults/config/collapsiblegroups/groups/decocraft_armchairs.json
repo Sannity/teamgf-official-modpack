@@ -1,0 +1,88 @@
+{
+  "id": "decocraft_armchairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_armchairs",
+    "fallback": "Decocraft Armchairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:armchair_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_leather_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_leather_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_dark_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_ocean_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armchair_light_blue"
+      }
+    ]
+  }
+}

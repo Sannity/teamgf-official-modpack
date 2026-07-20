@@ -1,0 +1,11 @@
+{
+  "id": "le_mox_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.le_mox_blocks",
+    "fallback": "Le Mox Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/le_mox"
+  }
+}

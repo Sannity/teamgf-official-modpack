@@ -1,0 +1,88 @@
+{
+  "id": "decocraft_couch_lefts",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_couch_lefts",
+    "fallback": "Decocraft Couch Lefts"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_ocean_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_dark_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_leather_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_left_leather_brown"
+      }
+    ]
+  }
+}

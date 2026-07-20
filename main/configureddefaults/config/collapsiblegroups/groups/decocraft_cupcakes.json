@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_cupcakes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cupcakes",
+    "fallback": "Decocraft Cupcakes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:cupcake_bone"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cupcake_eye"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cupcake_candy_corn"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cupcake_gravestone"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cupcake_witch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tray_cupcakes_halloween"
+      }
+    ]
+  }
+}

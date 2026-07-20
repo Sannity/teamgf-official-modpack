@@ -1,0 +1,44 @@
+{
+  "id": "copper_trapdoors",
+  "name": {
+    "translate": "collapsible_groups.group.copper_trapdoors",
+    "fallback": "Copper Trapdoors"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:copper_trapdoor"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:exposed_copper_trapdoor"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:weathered_copper_trapdoor"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:oxidized_copper_trapdoor"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_copper_trapdoor"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_exposed_copper_trapdoor"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_weathered_copper_trapdoor"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_oxidized_copper_trapdoor"
+      }
+    ]
+  }
+}

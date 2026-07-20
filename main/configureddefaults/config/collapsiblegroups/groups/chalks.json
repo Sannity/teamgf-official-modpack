@@ -1,0 +1,96 @@
+{
+  "id": "chalks",
+  "name": {
+    "translate": "collapsible_groups.group.chalks",
+    "fallback": "Chalks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "witchery:ritual_chalk"
+      },
+      {
+        "type": "item",
+        "id": "witchery:golden_chalk"
+      },
+      {
+        "type": "item",
+        "id": "witchery:infernal_chalk"
+      },
+      {
+        "type": "item",
+        "id": "witchery:otherwhere_chalk"
+      },
+      {
+        "type": "item",
+        "id": "witchery:binding_chalk"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_white"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_orange"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_magenta"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_yellow"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_lime"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_pink"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_gray"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_cyan"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_blue"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_brown"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_green"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_red"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_black"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:chalk_purple"
+      }
+    ]
+  }
+}

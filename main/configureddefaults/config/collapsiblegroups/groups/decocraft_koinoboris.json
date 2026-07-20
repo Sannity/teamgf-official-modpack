@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_koinoboris",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_koinoboris",
+    "fallback": "Decocraft Koinoboris"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:koinobori_pole"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:koinobori_top"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:koinobori_parents"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:koinobori_children_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:koinobori_children_2"
+      }
+    ]
+  }
+}

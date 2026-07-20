@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_curved_pendant_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_curved_pendant_lamps",
+    "fallback": "Decocraft Curved Pendant Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:curved_pendant_lamp_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:curved_pendant_lamp_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:curved_pendant_lamp_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:curved_pendant_lamp_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:curved_pendant_lamp_black"
+      }
+    ]
+  }
+}

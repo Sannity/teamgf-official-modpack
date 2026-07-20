@@ -1,0 +1,11 @@
+{
+  "id": "soularium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.soularium_blocks",
+    "fallback": "Soularium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/soularium"
+  }
+}

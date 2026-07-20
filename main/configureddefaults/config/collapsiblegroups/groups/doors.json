@@ -1,0 +1,11 @@
+{
+  "id": "doors",
+  "name": {
+    "translate": "collapsible_groups.group.doors",
+    "fallback": "Doors"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "minecraft:doors"
+  }
+}

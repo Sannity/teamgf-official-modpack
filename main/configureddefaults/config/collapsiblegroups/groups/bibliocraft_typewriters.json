@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_typewriters",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_typewriters",
+    "fallback": "Bibliocraft Typewriters"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:typewriters"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_robot_vacuums",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_robot_vacuums",
+    "fallback": "Decocraft Robot Vacuums"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:robo_vacuum_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:robo_vacuum_white"
+      }
+    ]
+  }
+}

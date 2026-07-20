@@ -1,0 +1,76 @@
+{
+  "id": "compressed_deepslate",
+  "name": {
+    "translate": "collapsible_groups.group.compressed_deepslate",
+    "fallback": "Compressed Deepslate"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_1"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_2"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_3"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_4"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_5"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_6"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_7"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_8"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_9"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_10"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_11"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_12"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_13"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_16"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_15"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_cobbled_deepslate_14"
+      }
+    ]
+  }
+}

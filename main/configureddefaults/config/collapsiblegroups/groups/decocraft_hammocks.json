@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_hammocks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_hammocks",
+    "fallback": "Decocraft Hammocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:hammock_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hammock_rainbow"
+      }
+    ]
+  }
+}

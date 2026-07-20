@@ -1,0 +1,11 @@
+{
+  "id": "brass_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.brass_blocks",
+    "fallback": "Brass Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "create:metal_type/brass"
+  }
+}

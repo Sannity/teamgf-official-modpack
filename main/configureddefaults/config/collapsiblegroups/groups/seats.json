@@ -1,0 +1,12 @@
+{
+  "id": "seats",
+  "name": {
+    "translate": "collapsible_groups.group.seats",
+    "fallback": "Seats"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "create:seats"
+  }
+}

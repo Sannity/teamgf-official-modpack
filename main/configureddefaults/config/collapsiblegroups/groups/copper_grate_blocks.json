@@ -1,0 +1,44 @@
+{
+  "id": "copper_grate_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.copper_grate_blocks",
+    "fallback": "Copper Grate Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:copper_grate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:exposed_copper_grate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:weathered_copper_grate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:oxidized_copper_grate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_copper_grate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_exposed_copper_grate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_weathered_copper_grate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_oxidized_copper_grate"
+      }
+    ]
+  }
+}

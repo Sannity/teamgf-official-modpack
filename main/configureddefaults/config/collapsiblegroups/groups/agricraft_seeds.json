@@ -1,0 +1,20 @@
+{
+  "id": "agricraft_seeds",
+  "name": {
+    "translate": "collapsible_groups.group.agricraft_seeds",
+    "fallback": "Agricraft Seeds"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "agricraft"
+      },
+      {
+        "type": "item",
+        "tag": "agricraft:seeds"
+      }
+    ]
+  }
+}

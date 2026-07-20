@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_wall_sinks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wall_sinks",
+    "fallback": "Decocraft Wall Sinks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_aqua"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wall_sink_lavender"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_notebooks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_notebooks",
+    "fallback": "Decocraft Notebooks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:notebook_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:notebook_white"
+      }
+    ]
+  }
+}

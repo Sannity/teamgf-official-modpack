@@ -1,0 +1,11 @@
+{
+  "id": "kanthal_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.kanthal_blocks",
+    "fallback": "Kanthal Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/kanthal"
+  }
+}

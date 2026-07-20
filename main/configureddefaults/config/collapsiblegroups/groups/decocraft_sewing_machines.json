@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_sewing_machines",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_sewing_machines",
+    "fallback": "Decocraft Sewing Machines"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:sewing_machine_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sewing_machine_coral"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sewing_machine_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sewing_machine_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sewing_machine_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sewing_machine_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sewing_machine_lavender"
+      }
+    ]
+  }
+}

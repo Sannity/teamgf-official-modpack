@@ -1,0 +1,80 @@
+{
+  "id": "pam_s_donuts",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_donuts",
+    "fallback": "Pam\u0027s Donuts"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:plaindonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chocolatedonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:powdereddonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sprinklesdonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:appledonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chorusdonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberrydonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melondonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberrydonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carameldonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carrotdonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:powdereddonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimedonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:frosteddonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cinnamonsugardonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:pumpkindonutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:honeyglazeddonutitem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_christmas_trees",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_christmas_trees",
+    "fallback": "Decocraft Christmas Trees"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:christmas_tree_1_white_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:christmas_tree_1_rainbow_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:christmas_tree_antique_flipbook"
+      }
+    ]
+  }
+}

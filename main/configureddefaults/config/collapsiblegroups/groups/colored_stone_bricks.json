@@ -1,0 +1,37 @@
+{
+  "id": "colored_stone_bricks",
+  "name": {
+    "translate": "collapsible_groups.group.colored_stone_bricks",
+    "fallback": "Colored Stone Bricks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "excessive_utilities:paintbrush_stone_bricks"
+      },
+      {
+        "not": {
+          "any": [
+            {
+              "type": "item",
+              "id": "minecraft:stone_bricks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:cracked_stone_bricks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:chiseled_stone_bricks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:mossy_stone_bricks"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "colored_redstone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.colored_redstone_blocks",
+    "fallback": "Colored Redstone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "excessive_utilities:paintbrush_redstone_blocks"
+      },
+      {
+        "not": {
+          "type": "item",
+          "id": "minecraft:redstone_block"
+        }
+      }
+    ]
+  }
+}

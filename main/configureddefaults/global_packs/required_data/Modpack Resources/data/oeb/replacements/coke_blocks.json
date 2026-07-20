@@ -1,0 +1,8 @@
+[
+  {
+    "matchBlock": [
+        "immersiveengineering:coke"
+    ],
+    "resultBlock": "modern_industrialization:coke_block"
+  }
+]

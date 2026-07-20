@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_hanging_lamps_2",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_hanging_lamps_2",
+    "fallback": "Decocraft Hanging Lamps 2"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:hanging_lamp_2_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_lamp_2_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_lamp_2_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_lamp_2_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_lamp_2_black"
+      }
+    ]
+  }
+}

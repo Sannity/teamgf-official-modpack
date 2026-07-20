@@ -1,0 +1,148 @@
+{
+  "id": "pam_s_soup_stew",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_soup_stew",
+    "fallback": "Pam\u0027s Soup \u0026 Stew"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:noodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chickennoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:beefnoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:porknoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:fishnoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:muttonnoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:rabbitnoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:potatosoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carrotsoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:vegetablenoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:pumpkinsoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chickennoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cactussoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:creamedbroccolisoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:creamofavocadosoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:driedsoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gardensoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hotandsoursoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lambbarleysoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:leekbaconsoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:misosoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:oldworldveggiesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peaandhamsoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pizzasoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:potatoandleeksoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:seedsoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:splitpeasoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:tomatosoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:vegetablesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:wontonsoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:rottennoodlesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:spidereyesoupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:stewitem"
+      }
+    ]
+  }
+}

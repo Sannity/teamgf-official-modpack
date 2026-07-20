@@ -1,0 +1,24 @@
+{
+  "id": "energy_cells_2",
+  "name": {
+    "translate": "collapsible_groups.group.energy_cells_2",
+    "fallback": "Energy Cells"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2:energy_cell"
+      },
+      {
+        "type": "item",
+        "id": "ae2:dense_energy_cell"
+      },
+      {
+        "type": "item",
+        "id": "ae2:creative_energy_cell"
+      }
+    ]
+  }
+}

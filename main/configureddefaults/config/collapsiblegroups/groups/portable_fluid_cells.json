@@ -1,0 +1,32 @@
+{
+  "id": "portable_fluid_cells",
+  "name": {
+    "translate": "collapsible_groups.group.portable_fluid_cells",
+    "fallback": "Portable Fluid Cells"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2:portable_fluid_cell_1k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_fluid_cell_4k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_fluid_cell_16k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_fluid_cell_64k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_fluid_cell_256k"
+      }
+    ]
+  }
+}

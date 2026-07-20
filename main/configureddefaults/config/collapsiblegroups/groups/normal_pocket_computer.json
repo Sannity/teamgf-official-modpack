@@ -1,0 +1,12 @@
+{
+  "id": "normal_pocket_computer",
+  "name": {
+    "translate": "collapsible_groups.group.normal_pocket_computer",
+    "fallback": "Normal Pocket Computer"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "computercraft:pocket_computer_normal"
+  }
+}

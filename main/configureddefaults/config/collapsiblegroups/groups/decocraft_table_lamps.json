@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_table_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_table_lamps",
+    "fallback": "Decocraft Table Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_clay"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_white"
+      }
+    ]
+  }
+}

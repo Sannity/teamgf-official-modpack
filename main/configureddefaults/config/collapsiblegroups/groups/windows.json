@@ -1,0 +1,168 @@
+{
+  "id": "windows",
+  "name": {
+    "translate": "collapsible_groups.group.windows",
+    "fallback": "Windows"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:oak_window"
+      },
+      {
+        "type": "item",
+        "id": "create:spruce_window"
+      },
+      {
+        "type": "item",
+        "id": "create:birch_window"
+      },
+      {
+        "type": "item",
+        "id": "create:jungle_window"
+      },
+      {
+        "type": "item",
+        "id": "create:acacia_window"
+      },
+      {
+        "type": "item",
+        "id": "create:dark_oak_window"
+      },
+      {
+        "type": "item",
+        "id": "create:weathered_iron_window"
+      },
+      {
+        "type": "item",
+        "id": "create:industrial_iron_window"
+      },
+      {
+        "type": "item",
+        "id": "create:ornate_iron_window"
+      },
+      {
+        "type": "item",
+        "id": "create:bamboo_window"
+      },
+      {
+        "type": "item",
+        "id": "create:cherry_window"
+      },
+      {
+        "type": "item",
+        "id": "create:warped_window"
+      },
+      {
+        "type": "item",
+        "id": "create:crimson_window"
+      },
+      {
+        "type": "item",
+        "id": "create:mangrove_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/mangrove_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/sorting_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/palm_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/pine_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/jacaranda_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/hellbark_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/fir_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/time_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/witchery/alder_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/redwood_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/willow_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/witchery/rowan_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/transformation_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/empyreal_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/umbran_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/twilight_oak_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/mahogany_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/dark_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/magic_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/mining_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/witchery/hawthorn_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/dead_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/maple_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/silentgear/netherwood_window"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/wispwillow/willow_window"
+      }
+    ]
+  }
+}

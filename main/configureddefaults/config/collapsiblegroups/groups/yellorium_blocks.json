@@ -1,0 +1,11 @@
+{
+  "id": "yellorium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.yellorium_blocks",
+    "fallback": "Yellorium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "bigreactors:metal_type/yellorium"
+  }
+}

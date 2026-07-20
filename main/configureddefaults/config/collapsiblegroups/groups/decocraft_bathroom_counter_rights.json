@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_bathroom_counter_rights",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bathroom_counter_rights",
+    "fallback": "Decocraft Bathroom Counter Rights"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_right_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_right_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_right_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_right_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_right_white"
+      }
+    ]
+  }
+}

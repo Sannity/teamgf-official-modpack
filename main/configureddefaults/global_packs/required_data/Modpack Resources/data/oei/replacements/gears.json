@@ -1,0 +1,43 @@
+[
+  {
+    "matchItems": [
+      "buildcraft:wooden_gear"
+    ],
+    "resultItems": "hammerlib:gears/wooden"
+  },
+  {
+    "matchItems": [
+      "buildcraft:stone_gear"
+    ],
+    "resultItems": "hammerlib:gears/stone"
+  },
+  {
+    "matchItems": [
+      "buildcraft:stone_gear"
+    ],
+    "resultItems": "hammerlib:gears/stone"
+  },
+  {
+    "matchItems": [
+      "buildcraft:iron_gear",
+      "hammerlib:gears/iron",
+      "industrialforegoing:iron_gear"
+    ],
+    "resultItems": "modern_industrialization:iron_gear"
+  },
+  {
+    "matchItems": [
+      "buildcraft:gold_gear",
+      "hammerlib:gears/gold",
+      "industrialforegoing:gold_gear"
+    ],
+    "resultItems": "modern_industrialization:iron_gear"
+  },
+  {
+    "matchItems": [
+      "buildcraft:diamond_gear",
+      "industrialforegoing:diamond_gear"
+    ],
+    "resultItems": "hammerlib:gears/diamond"
+  }
+]

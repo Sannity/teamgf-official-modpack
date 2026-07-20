@@ -1,0 +1,60 @@
+{
+  "id": "addons_range",
+  "name": {
+    "translate": "collapsible_groups.group.addons_range",
+    "fallback": "Addons: Range"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_0\",\"components\":{\"titanium:augments\":{\"Range\":0.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_1\",\"components\":{\"titanium:augments\":{\"Range\":1.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_2\",\"components\":{\"titanium:augments\":{\"Range\":2.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_3\",\"components\":{\"titanium:augments\":{\"Range\":3.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_4\",\"components\":{\"titanium:augments\":{\"Range\":4.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_5\",\"components\":{\"titanium:augments\":{\"Range\":5.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_6\",\"components\":{\"titanium:augments\":{\"Range\":6.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_7\",\"components\":{\"titanium:augments\":{\"Range\":7.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_8\",\"components\":{\"titanium:augments\":{\"Range\":8.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_9\",\"components\":{\"titanium:augments\":{\"Range\":9.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_10\",\"components\":{\"titanium:augments\":{\"Range\":10.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:range_addon_tier_11\",\"components\":{\"titanium:augments\":{\"Range\":11.0}}}"
+      }
+    ]
+  }
+}

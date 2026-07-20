@@ -1,0 +1,11 @@
+{
+  "id": "neodymium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.neodymium_blocks",
+    "fallback": "Neodymium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/neodymium"
+  }
+}

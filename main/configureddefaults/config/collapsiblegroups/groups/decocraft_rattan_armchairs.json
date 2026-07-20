@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_rattan_armchairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rattan_armchairs",
+    "fallback": "Decocraft Rattan Armchairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rattan_armchair_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_armchair_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_armchair_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_armchair_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_armchair_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_armchair_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_armchair_light_gray"
+      }
+    ]
+  }
+}

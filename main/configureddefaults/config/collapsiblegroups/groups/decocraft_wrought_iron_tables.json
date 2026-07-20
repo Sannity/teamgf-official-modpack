@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_wrought_iron_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wrought_iron_tables",
+    "fallback": "Decocraft Wrought Iron Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_table_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_table_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_table_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_table_small_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_table_small_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wrought_iron_table_small_white"
+      }
+    ]
+  }
+}

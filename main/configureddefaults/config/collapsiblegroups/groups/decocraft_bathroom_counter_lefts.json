@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_bathroom_counter_lefts",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bathroom_counter_lefts",
+    "fallback": "Decocraft Bathroom Counter Lefts"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_left_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_left_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_left_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_left_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_left_white"
+      }
+    ]
+  }
+}

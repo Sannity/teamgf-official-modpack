@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_shelves",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_shelves",
+    "fallback": "Bibliocraft Shelves"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:shelves"
+  }
+}

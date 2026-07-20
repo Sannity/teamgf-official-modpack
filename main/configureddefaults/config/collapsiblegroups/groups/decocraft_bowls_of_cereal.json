@@ -1,0 +1,112 @@
+{
+  "id": "decocraft_bowls_of_cereal",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bowls_of_cereal",
+    "fallback": "Decocraft Bowls of Cereal"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_alphabits"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_capncrunch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_cheerios"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_cookiecrisp"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_cornflakes"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_cornpops"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_frosties"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_goldencrisp"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_goldengrahams"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_honeycomb"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_honeynutcheerios"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_honeysmacks"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_hoops"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_kix"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_life"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_luckycharms"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_minecraft"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_ricekrispies"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_specialk"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_total"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_ciniminis"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_trix"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_raisinbran"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_fruitypebbles"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bowl_of_cereal_countchocula"
+      }
+    ]
+  }
+}

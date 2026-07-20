@@ -1,0 +1,18 @@
+{
+  "id": "buds",
+  "name": {
+    "translate": "collapsible_groups.group.buds",
+    "fallback": "Buds \u0026 Clusters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:buds"
+      },
+      {
+        "block_tag": "c:clusters"
+      }
+    ]
+  }
+}

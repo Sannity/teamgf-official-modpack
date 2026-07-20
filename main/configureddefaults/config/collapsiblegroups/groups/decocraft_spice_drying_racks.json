@@ -1,0 +1,52 @@
+{
+  "id": "decocraft_spice_drying_racks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_spice_drying_racks",
+    "fallback": "Decocraft Spice Drying Racks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_chains_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_chains_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_drying_rack_chains_black"
+      }
+    ]
+  }
+}

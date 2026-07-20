@@ -1,0 +1,56 @@
+{
+  "id": "decocraft_lifeguard_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_lifeguard_chairs",
+    "fallback": "Decocraft Lifeguard Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lifeguard_chair_white"
+      }
+    ]
+  }
+}

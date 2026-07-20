@@ -1,0 +1,12 @@
+{
+  "id": "opinium_cores",
+  "name": {
+    "translate": "collapsible_groups.group.opinium_cores",
+    "fallback": "Opinium Cores"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "excessive_utilities:opinium_core"
+  }
+}

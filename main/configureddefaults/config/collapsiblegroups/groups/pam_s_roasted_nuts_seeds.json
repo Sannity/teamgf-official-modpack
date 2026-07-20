@@ -1,0 +1,56 @@
+{
+  "id": "pam_s_roasted_nuts_seeds",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_roasted_nuts_seeds",
+    "fallback": "Pam\u0027s Roasted Nuts/Seeds"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2crops:roastedpeanutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedchestnutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedhazelnutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedwalnutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedpinenutitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedalmonditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedcashewitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedpecanitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedacornitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:roastedpistachioitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:roastedsunflowerseedsitem"
+      }
+    ]
+  }
+}

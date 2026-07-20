@@ -1,0 +1,28 @@
+{
+  "id": "copper_tier_upgrades",
+  "name": {
+    "translate": "collapsible_groups.group.copper_tier_upgrades",
+    "fallback": "Copper Tier Upgrades"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:copper_to_iron_tier_upgrade"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:copper_to_gold_tier_upgrade"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:copper_to_diamond_tier_upgrade"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:copper_to_netherite_tier_upgrade"
+      }
+    ]
+  }
+}

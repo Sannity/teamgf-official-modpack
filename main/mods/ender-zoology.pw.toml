@@ -1,0 +1,13 @@
+name = "Ender Zoology"
+filename = "EnderZoology-v21.1.4-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1de45da2fb7672d3b6f9313082c237546cdf7f3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7021585
+project-id = 857968

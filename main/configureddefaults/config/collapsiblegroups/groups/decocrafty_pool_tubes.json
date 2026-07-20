@@ -1,0 +1,60 @@
+{
+  "id": "decocrafty_pool_tubes",
+  "name": {
+    "translate": "collapsible_groups.group.decocrafty_pool_tubes",
+    "fallback": "Decocrafty Pool Tubes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pool_tube_light_blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "deadrock_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.deadrock_blocks",
+    "fallback": "Deadrock Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "stonezone:twilightforest/deadrock"
+      },
+      {
+        "block_tag": "twilightforest:deadrock"
+      },
+      {
+        "block_tag": "twilightforest:stone_type/deadrock"
+      }
+    ]
+  }
+}

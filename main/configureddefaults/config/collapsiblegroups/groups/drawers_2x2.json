@@ -1,0 +1,12 @@
+{
+  "id": "drawers_2x2",
+  "name": {
+    "translate": "collapsible_groups.group.drawers_2x2",
+    "fallback": "Drawers 2x2"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "functionalstorage:drawer_2x2"
+  }
+}

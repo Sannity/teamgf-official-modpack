@@ -1,0 +1,312 @@
+{
+  "id": "pam_s_juice",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_juice",
+    "fallback": "Pam\u0027s Drinks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blackberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blueberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cactusfruitjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:candleberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cranberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:elderberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:huckleberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:juniperberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mulberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:raspberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cantaloupejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:greengrapejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:kiwijuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pineapplejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:orangejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peachjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pearjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:plumjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pawpawjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soursopjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:apricotjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bananajuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:datejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dragonfruitjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:figjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapefruitjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mangojuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:papayajuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:persimmonjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pomegranatejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:starfruitjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:breadfruitjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:jackfruitjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:guavajuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lycheejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:passionfruitjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rambutanjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:tamarindjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gooseberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:durianjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:limejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:carrotjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carrotjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:p8juiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberryjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melonjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chorusjuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:applejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimejuiceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonaideitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:fruitpunchitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chocolatemilkitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chocolatemilkshakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chocolatemilkitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookiesandmilkitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:freshmilkitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soymilkitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:hotcoffeeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hazelnutcoffeeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:hotteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:hotnettleteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chaiteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dandelionteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:earlgreyteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:greenteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sweetteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sundayhighteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:freshwateritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rosepetalteaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:hotchocolateitem"
+      }
+    ]
+  }
+}

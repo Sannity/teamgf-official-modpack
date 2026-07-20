@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_lunch_boxes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_lunch_boxes",
+    "fallback": "Decocraft Lunch Boxes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lunch_box_black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Create: Springs"
+filename = "createsprings-1.2.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "277fda11b39673e74c9b5b9f1187051f6a95a731"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8450442
+project-id = 1403841

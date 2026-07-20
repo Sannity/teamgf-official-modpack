@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_bamboo_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bamboo_chairs",
+    "fallback": "Decocraft Bamboo Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_chair_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_chair_yellow"
+      }
+    ]
+  }
+}

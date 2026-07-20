@@ -1,0 +1,12 @@
+{
+  "id": "crushed_materials",
+  "name": {
+    "translate": "collapsible_groups.group.crushed_materials",
+    "fallback": "Crushed Materials"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "create:crushed_raw_materials"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_blenders",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_blenders",
+    "fallback": "Decocraft Blenders"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:blender_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:blender_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:blender_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:blender_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:blender_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:blender_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:blender_black"
+      }
+    ]
+  }
+}

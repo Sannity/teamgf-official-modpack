@@ -1,0 +1,11 @@
+{
+  "id": "platinum_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.platinum_blocks",
+    "fallback": "Platinum Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/platinum"
+  }
+}

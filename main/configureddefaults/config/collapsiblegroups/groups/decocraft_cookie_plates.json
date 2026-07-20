@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_cookie_plates",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cookie_plates",
+    "fallback": "Decocraft Cookie Plates"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:cookie_plate_chocolate_chip"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cookie_plate_raisins"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cookie_plate_mmm"
+      }
+    ]
+  }
+}

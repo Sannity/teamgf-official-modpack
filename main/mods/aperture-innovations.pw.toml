@@ -1,0 +1,13 @@
+name = "Aperture Innovations - Portal Gun"
+filename = "aperture_innovations-neoforge-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38568a44bfc3d20dfc2815a15cca955d8c926293"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8386975
+project-id = 1403821

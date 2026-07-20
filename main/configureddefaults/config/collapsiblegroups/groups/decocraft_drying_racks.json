@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_drying_racks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_drying_racks",
+    "fallback": "Decocraft Drying Racks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:drying_rack_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drying_rack_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drying_rack_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drying_rack_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drying_rack_black"
+      }
+    ]
+  }
+}

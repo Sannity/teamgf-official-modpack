@@ -1,0 +1,412 @@
+{
+  "id": "window_panes",
+  "name": {
+    "translate": "collapsible_groups.group.window_panes",
+    "fallback": "Window Panes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:oak_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:spruce_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:birch_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:jungle_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:acacia_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:dark_oak_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:mangrove_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:crimson_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:warped_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:cherry_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:bamboo_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:ornate_iron_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:industrial_iron_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "create:weathered_iron_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/transformation_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/willow_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/silentgear/netherwood_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/mahogany_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/witchery/hawthorn_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/magic_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/sorting_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/palm_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/twilight_oak_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/hellbark_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/empyreal_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/witchery/rowan_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/dark_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/mining_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/umbran_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/maple_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/fir_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/mangrove_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/dead_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/pine_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/wispwillow/willow_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/twilightforest/time_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/redwood_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/witchery/alder_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "everycomp:c/biomesoplenty/jacaranda_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:canopy_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_end_steel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_soularium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_dark_steel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_pulsating_alloy_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_redstone_alloy_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_vibrant_alloy_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_energetic_alloy_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/enderio/ornate_conductive_alloy_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_tungsten_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_iridium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_kanthal_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_platinum_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_he_mox_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_le_mox_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_plutonium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_he_uranium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_le_uranium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_uranium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_uranium_238_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_uranium_235_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_annealed_copper_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_beryllium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_chromium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_stainless_steel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_silicon_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_electrum_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_titanium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_silver_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_nickel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_antimony_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_cupronickel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_invar_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_battery_alloy_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_lead_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_aluminum_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_steel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_tin_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/modern_industrialization/ornate_bronze_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_insanite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_inanite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_ridiculite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_ludicrite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_magentite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_blutonium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_graphite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_cyanite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/bigreactors/ornate_yellorium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/draconicevolution/ornate_awakened_draconium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/draconicevolution/ornate_draconium_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/wispwillow/ornate_astralite_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/silentgear/ornate_tyrian_steel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/silentgear/ornate_azure_electrum_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/silentgear/ornate_azure_silver_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/silentgear/ornate_blaze_gold_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/silentgear/ornate_crimson_steel_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/silentgear/ornate_crimson_iron_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/twilightforest/ornate_steeleaf_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/twilightforest/ornate_fiery_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/twilightforest/ornate_ironwood_window_pane"
+      },
+      {
+        "type": "item",
+        "id": "gemsrealm:c/twilightforest/ornate_knightmetal_window_pane"
+      }
+    ]
+  }
+}

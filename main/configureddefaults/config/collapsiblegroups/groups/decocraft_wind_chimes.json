@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_wind_chimes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wind_chimes",
+    "fallback": "Decocraft Wind Chimes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:wind_chime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wind_chime_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wind_chime_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wind_chime_2_rainbow"
+      }
+    ]
+  }
+}

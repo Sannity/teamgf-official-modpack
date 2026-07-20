@@ -1,0 +1,296 @@
+{
+  "id": "decocraft_balloons",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_balloons",
+    "fallback": "Decocraft Balloons"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:balloon_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_p_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_berry_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_cyan_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_orange_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_pink_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_indie"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_halloween"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_pastel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_indie"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_halloween"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_valentines"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_p_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_p_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_p_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloons_small_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_arch_b_indie"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_arch_b_wedding"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_arch_b_halloween"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_arch_a_valentines"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_arch_a_stpaddy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_arch_a_pastel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_arch_a_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_p_purple_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_p_pink_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_p_lime_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_p_cyan_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_p_blue_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_yellow_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_hearts_purple_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_berry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_p_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:balloon_heart_green"
+      }
+    ]
+  }
+}

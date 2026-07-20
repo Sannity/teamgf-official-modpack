@@ -1,0 +1,108 @@
+{
+  "id": "decocraft_vanities",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_vanities",
+    "fallback": "Decocraft Vanities"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_center_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_right_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanity_left_birch"
+      }
+    ]
+  }
+}

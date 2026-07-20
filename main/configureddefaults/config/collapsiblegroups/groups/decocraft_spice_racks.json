@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_spice_racks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_spice_racks",
+    "fallback": "Decocraft Spice Racks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:spice_rack_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_rack_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_rack_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_rack_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_rack_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_rack_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spice_rack_white"
+      }
+    ]
+  }
+}

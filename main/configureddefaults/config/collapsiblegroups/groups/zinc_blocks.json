@@ -1,0 +1,11 @@
+{
+  "id": "zinc_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zinc_blocks",
+    "fallback": "Zinc Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "create:metal_type/zinc"
+  }
+}

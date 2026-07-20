@@ -1,0 +1,21 @@
+{
+  "id": "colored_cobblestones",
+  "name": {
+    "translate": "collapsible_groups.group.colored_cobblestones",
+    "fallback": "Colored Cobblestones"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "excessive_utilities:paintbrush_cobblestones"
+      },
+      {
+        "not": {
+          "type": "item",
+          "id": "minecraft:cobblestone"
+        }
+      }
+    ]
+  }
+}

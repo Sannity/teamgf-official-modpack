@@ -1,0 +1,11 @@
+{
+  "id": "he_mox_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.he_mox_blocks",
+    "fallback": "He Mox Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/he_mox"
+  }
+}

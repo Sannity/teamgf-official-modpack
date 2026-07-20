@@ -1,0 +1,60 @@
+{
+  "id": "decocraft_drum_sets",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_drum_sets",
+    "fallback": "Decocraft Drum Sets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:drum_set_purple"
+      }
+    ]
+  }
+}

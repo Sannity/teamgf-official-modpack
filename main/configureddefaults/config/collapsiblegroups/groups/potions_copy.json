@@ -1,0 +1,72 @@
+{
+  "id": "potions_copy",
+  "name": {
+    "translate": "collapsible_groups.group.potions_copy",
+    "fallback": "Potions"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:potion"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_the_depths"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_sleeping"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_soul_severance"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_the_grotesque"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_love"
+      },
+      {
+        "type": "item",
+        "id": "witchery:redstone_soup"
+      },
+      {
+        "type": "item",
+        "id": "witchery:flying_ointment"
+      },
+      {
+        "type": "item",
+        "id": "witchery:happenstance_oil"
+      },
+      {
+        "type": "item",
+        "id": "witchery:ghost_of_the_light"
+      },
+      {
+        "type": "item",
+        "id": "witchery:soul_of_the_world"
+      },
+      {
+        "type": "item",
+        "id": "witchery:infernal_animus"
+      },
+      {
+        "type": "item",
+        "id": "witchery:spirit_of_otherwhere"
+      },
+      {
+        "type": "item",
+        "id": "witchery:necromantic_soulbind"
+      },
+      {
+        "type": "item",
+        "id": "witchery:taglock"
+      }
+    ]
+  }
+}

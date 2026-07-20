@@ -1,0 +1,228 @@
+{
+  "id": "pam_s_yogurt",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_yogurt",
+    "fallback": "Pam\u0027s Yogurt"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blackberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blueberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cactusfruityogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:candleberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cranberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:elderberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:huckleberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:juniperberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mulberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:raspberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cantaloupeyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapeyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:greengrapeyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:kiwiyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pineappleyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:orangeyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peachyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pearyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:plumyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pawpawyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soursopyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:apricotyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bananayogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dateyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dragonfruityogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:figyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapefruityogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mangoyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:papayayogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:persimmonyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pomegranateyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:starfruityogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:breadfruityogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:jackfruityogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:guavayogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lycheeyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:passionfruityogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rambutanyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:tamarindyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gooseberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:durianyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:limeyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:yogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chocolateyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:appleyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melonyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberryyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:pumpkinyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:caramelyogurtitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chorusyogurtitem"
+      }
+    ]
+  }
+}

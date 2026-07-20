@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_snowglobes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_snowglobes",
+    "fallback": "Decocraft Snowglobes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:snowglobe_igloo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:snowglobe_tree"
+      }
+    ]
+  }
+}

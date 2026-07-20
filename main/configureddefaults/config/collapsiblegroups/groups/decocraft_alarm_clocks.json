@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_alarm_clocks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_alarm_clocks",
+    "fallback": "Decocraft Alarm Clocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alarm_clock_yellow"
+      }
+    ]
+  }
+}

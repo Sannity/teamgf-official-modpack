@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_pc_towers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_pc_towers",
+    "fallback": "Decocraft PC Towers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:pc_tower_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pc_tower_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pc_tower_black"
+      }
+    ]
+  }
+}

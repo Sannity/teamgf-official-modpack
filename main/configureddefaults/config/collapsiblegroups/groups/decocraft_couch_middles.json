@@ -1,0 +1,88 @@
+{
+  "id": "decocraft_couch_middles",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_couch_middles",
+    "fallback": "Decocraft Couch Middles"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_ocean_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_dark_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_leather_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_middle_leather_brown"
+      }
+    ]
+  }
+}

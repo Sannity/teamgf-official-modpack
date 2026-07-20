@@ -1,0 +1,11 @@
+{
+  "id": "vibrant_alloy_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.vibrant_alloy_blocks",
+    "fallback": "Vibrant Alloy Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/vibrant_alloy"
+  }
+}

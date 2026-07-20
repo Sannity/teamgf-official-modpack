@@ -1,0 +1,52 @@
+{
+  "id": "sandstone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.sandstone_blocks",
+    "fallback": "Sandstone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:sandstone_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cut_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cut_sandstone_slab"
+      }
+    ]
+  }
+}

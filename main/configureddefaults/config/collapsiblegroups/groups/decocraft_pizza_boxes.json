@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_pizza_boxes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_pizza_boxes",
+    "fallback": "Decocraft Pizza Boxes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:pizza_box_pepperoni"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pizza_box_mushroom"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pizza_box_cheese"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pizza_box_hawaiian"
+      }
+    ]
+  }
+}

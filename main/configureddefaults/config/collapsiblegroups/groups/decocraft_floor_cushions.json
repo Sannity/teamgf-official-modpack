@@ -1,0 +1,64 @@
+{
+  "id": "decocraft_floor_cushions",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_floor_cushions",
+    "fallback": "Decocraft Floor Cushions"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_cushion_white"
+      }
+    ]
+  }
+}

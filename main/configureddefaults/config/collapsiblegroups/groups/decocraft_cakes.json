@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_cakes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cakes",
+    "fallback": "Decocraft Cakes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:cake_candy_corn"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cake_pumpkin"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cake_birthday_chocolate_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cake_birthday_vanilla_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cake_birthday_strawberry_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cake_gingerbread"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cake_wreath"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_grave_markers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_grave_markers",
+    "fallback": "Decocraft Grave Markers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:gravestone_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gravestone_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gravestone_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gravestone_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gravestone_5"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:unmarked_grave"
+      }
+    ]
+  }
+}

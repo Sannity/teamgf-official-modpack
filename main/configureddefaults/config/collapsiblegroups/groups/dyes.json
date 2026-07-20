@@ -1,0 +1,12 @@
+{
+  "id": "dyes",
+  "name": {
+    "translate": "collapsible_groups.group.dyes",
+    "fallback": "Dyes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "c:dyes"
+  }
+}

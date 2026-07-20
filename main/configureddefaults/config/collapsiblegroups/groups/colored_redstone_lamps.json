@@ -1,0 +1,11 @@
+{
+  "id": "colored_redstone_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.colored_redstone_lamps",
+    "fallback": "Colored Redstone Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "excessive_utilities:paintbrush_redstone_lamps"
+  }
+}

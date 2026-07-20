@@ -1,0 +1,11 @@
+{
+  "id": "lapis_caelestis",
+  "name": {
+    "translate": "collapsible_groups.group.lapis_caelestis",
+    "fallback": "Lapis Caelestis"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "excessive_utilities:paintbrush_lapis_caelesti"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "decocraft_gaming_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_gaming_chairs",
+    "fallback": "Decocraft Gaming Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_pink_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_violet_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gaming_chair_orange"
+      }
+    ]
+  }
+}

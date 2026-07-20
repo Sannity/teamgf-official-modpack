@@ -1,0 +1,11 @@
+{
+  "id": "yttrium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.yttrium_blocks",
+    "fallback": "Yttrium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/yttrium"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "modern_industrialization_item_pipes",
+  "name": {
+    "translate": "collapsible_groups.group.modern_industrialization_item_pipes",
+    "fallback": "Modern Industrialization Item Pipes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "modern_industrialization:item_pipes"
+  }
+}

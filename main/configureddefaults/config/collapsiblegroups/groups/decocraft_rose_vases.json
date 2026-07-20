@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_rose_vases",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rose_vases",
+    "fallback": "Decocraft Rose Vases"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rose_vase_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rose_vase_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rose_vase_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rose_vase_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rose_vase_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rose_vase_white"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "tyrian_steel_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.tyrian_steel_blocks",
+    "fallback": "Tyrian Steel Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "silentgear:metal_type/tyrian_steel"
+  }
+}

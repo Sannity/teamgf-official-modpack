@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_cafe_signs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cafe_signs",
+    "fallback": "Decocraft Cafe Signs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:cafe_sign"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:discount_50_sign"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:discount_25_sign"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_pinwheels",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_pinwheels",
+    "fallback": "Decocraft Pinwheels"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_7"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_6"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pinwheel_5"
+      }
+    ]
+  }
+}

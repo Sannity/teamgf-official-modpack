@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_welcome_mats",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_welcome_mats",
+    "fallback": "Decocraft Welcome Mats"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:welcome_mat_spring"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:welcome_mat"
+      }
+    ]
+  }
+}

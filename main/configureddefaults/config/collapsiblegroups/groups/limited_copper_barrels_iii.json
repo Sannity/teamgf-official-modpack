@@ -1,0 +1,56 @@
+{
+  "id": "limited_copper_barrels_iii",
+  "name": {
+    "translate": "collapsible_groups.group.limited_copper_barrels_iii",
+    "fallback": "Limited Copper Barrels III"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"acacia\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"birch\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"crimson\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"dark_oak\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"jungle\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"oak\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"spruce\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"warped\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"cherry\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"mangrove\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_copper_barrel_3\",\"components\":{\"sophisticatedstorage:wood_type\":\"bamboo\"}}"
+      }
+    ]
+  }
+}

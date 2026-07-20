@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_casino_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_casino_chairs",
+    "fallback": "Decocraft Casino Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:casino_chair_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:casino_chair_red"
+      }
+    ]
+  }
+}

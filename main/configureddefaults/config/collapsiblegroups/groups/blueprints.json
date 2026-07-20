@@ -1,0 +1,21 @@
+{
+  "id": "blueprints",
+  "name": {
+    "translate": "collapsible_groups.group.blueprints",
+    "fallback": "Blueprints"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "tag": "silentgear:blueprints"
+      },
+      {
+        "not": {
+          "item_path_ends_with": "template"
+        }
+      }
+    ]
+  }
+}

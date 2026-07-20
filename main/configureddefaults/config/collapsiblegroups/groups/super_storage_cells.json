@@ -1,0 +1,48 @@
+{
+  "id": "super_storage_cells",
+  "name": {
+    "translate": "collapsible_groups.group.super_storage_cells",
+    "fallback": "Super Storage Cells"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_1k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_4k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_16k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_64k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_256k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_1024k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_4096k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_16m"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:super_cell_65m"
+      }
+    ]
+  }
+}

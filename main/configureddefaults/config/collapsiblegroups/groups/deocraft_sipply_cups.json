@@ -1,0 +1,56 @@
+{
+  "id": "deocraft_sipply_cups",
+  "name": {
+    "translate": "collapsible_groups.group.deocraft_sipply_cups",
+    "fallback": "Deocraft Sipply Cups"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_berry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_ocean"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_peach"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sipply_cup_yellow"
+      }
+    ]
+  }
+}

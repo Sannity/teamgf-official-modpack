@@ -1,0 +1,92 @@
+{
+  "id": "sheetmetal_chutes",
+  "name": {
+    "translate": "collapsible_groups.group.sheetmetal_chutes",
+    "fallback": "Sheetmetal Chutes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_iron"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_steel"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_aluminum"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_copper"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_white"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_orange"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_magenta"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_yellow"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_lime"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_pink"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_gray"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_cyan"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_purple"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_green"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_red"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_black"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_blue"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:chute_colored_brown"
+      }
+    ]
+  }
+}

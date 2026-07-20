@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_wooden_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wooden_blocks",
+    "fallback": "Decocraft Wooden Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:wooden_blocks_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_blocks_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_blocks_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_blocks_4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_globes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_globes",
+    "fallback": "Decocraft Globes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:globe"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:globe_antique"
+      }
+    ]
+  }
+}

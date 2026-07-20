@@ -45,4 +45,4 @@ jobs:
           skip_dirty_check: true
           commit_message: |
             chore(${{ steps.branch.outputs.branch }}): release ${{ inputs.release-tag }}
-            Release-As: ${{ inputs.release-tag }}}
+            Release-As: ${{ inputs.release-tag }}

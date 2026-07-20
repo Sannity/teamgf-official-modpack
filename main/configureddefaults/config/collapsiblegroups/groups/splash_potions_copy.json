@@ -1,0 +1,52 @@
+{
+  "id": "splash_potions_copy",
+  "name": {
+    "translate": "collapsible_groups.group.splash_potions_copy",
+    "fallback": "Splash Potions"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:splash_potion"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_ink"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_revealing"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_erosion"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_webs"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_oblivion"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_wasting"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_frost"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_raising"
+      },
+      {
+        "type": "item",
+        "id": "witchery:brew_of_flowing_spirit"
+      }
+    ]
+  }
+}

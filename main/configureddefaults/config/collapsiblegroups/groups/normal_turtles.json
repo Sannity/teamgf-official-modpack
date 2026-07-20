@@ -1,0 +1,12 @@
+{
+  "id": "normal_turtles",
+  "name": {
+    "translate": "collapsible_groups.group.normal_turtles",
+    "fallback": "Normal Turtles"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "computercraft:turtle_normal"
+  }
+}

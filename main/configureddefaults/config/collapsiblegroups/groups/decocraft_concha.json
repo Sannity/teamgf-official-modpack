@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_concha",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_concha",
+    "fallback": "Decocraft Concha"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:concha_sugar"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:concha_vanilla"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:concha_chocolate"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:concha_strawberry"
+      }
+    ]
+  }
+}

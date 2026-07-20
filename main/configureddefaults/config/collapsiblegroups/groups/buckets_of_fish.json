@@ -1,0 +1,12 @@
+{
+  "id": "buckets_of_fish",
+  "name": {
+    "translate": "collapsible_groups.group.buckets_of_fish",
+    "fallback": "Buckets of Fish"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "c:buckets/entity_water"
+  }
+}

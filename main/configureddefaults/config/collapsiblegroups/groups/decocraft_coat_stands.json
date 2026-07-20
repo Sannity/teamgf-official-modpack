@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_coat_stands",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_coat_stands",
+    "fallback": "Decocraft Coat Stands"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:coat_stand_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coat_stand_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coat_stand_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coat_stand_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coat_stand_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coat_stand_black"
+      }
+    ]
+  }
+}

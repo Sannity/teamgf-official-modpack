@@ -1,0 +1,68 @@
+{
+  "id": "decocraft_double_diner_seats",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_double_diner_seats",
+    "fallback": "Decocraft Double Diner Seats"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_seat_double_purple"
+      }
+    ]
+  }
+}

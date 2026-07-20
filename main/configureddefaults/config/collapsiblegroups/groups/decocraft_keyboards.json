@@ -1,0 +1,64 @@
+{
+  "id": "decocraft_keyboards",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_keyboards",
+    "fallback": "Decocraft Keyboards"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:keyboard_purple"
+      }
+    ]
+  }
+}

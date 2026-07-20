@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_school_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_school_chairs",
+    "fallback": "Decocraft School Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:school_chair_white"
+      }
+    ]
+  }
+}

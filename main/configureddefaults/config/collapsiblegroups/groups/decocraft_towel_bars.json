@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_towel_bars",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_towel_bars",
+    "fallback": "Decocraft Towel Bars"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:towel_bar_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:towel_bar_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:towel_bar_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:towel_bar_black"
+      }
+    ]
+  }
+}

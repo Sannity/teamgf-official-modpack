@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_casino_stools",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_casino_stools",
+    "fallback": "Decocraft Casino Stools"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:casino_stool_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:casino_stool_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:casino_stool_black"
+      }
+    ]
+  }
+}

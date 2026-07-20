@@ -1,0 +1,48 @@
+{
+  "id": "basalt_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.basalt_blocks",
+    "fallback": "Basalt Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:basalt"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_basalt"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_basalt"
+      },
+      {
+        "type": "item",
+        "id": "projectred_exploration:basalt"
+      },
+      {
+        "type": "item",
+        "id": "projectred_exploration:basalt_cobble"
+      },
+      {
+        "type": "item",
+        "id": "projectred_exploration:basalt_brick"
+      },
+      {
+        "type": "item",
+        "id": "projectred_exploration:basalt_wall"
+      },
+      {
+        "type": "item",
+        "id": "projectred_exploration:basalt_cobble_wall"
+      },
+      {
+        "type": "item",
+        "id": "projectred_exploration:basalt_brick_wall"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "soldering_alloy_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.soldering_alloy_blocks",
+    "fallback": "Soldering Alloy Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/soldering_alloy"
+  }
+}

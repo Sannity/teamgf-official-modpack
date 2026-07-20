@@ -1,0 +1,160 @@
+{
+  "id": "decocraft_signs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_signs",
+    "fallback": "Decocraft Signs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:hanging_apothecary"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_armorer"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_baker"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_bank"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_blacksmith"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_bomb"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_books"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_butcher"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_camping"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_candy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_carpenter"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_cartographer"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_cobbler"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_farming"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_fishery"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_fletcher"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_florist"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_furniture"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_general_store"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_honey"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_inn"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_jail"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_jeweler"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_lumber"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_magic"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_mines"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_music"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_pastry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_pet"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_produce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_pub"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_shield"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_stables"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_swords"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_tailor"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_toys"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hanging_winery"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_seats",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_seats",
+    "fallback": "Bibliocraft Seats"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:seats"
+  }
+}

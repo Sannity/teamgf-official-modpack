@@ -1,0 +1,13 @@
+name = "Kibe Utilities"
+filename = "kibe-2.3.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc7fa973b6a1a326a2bec2e27b4c8b1e06db8f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7131212
+project-id = 388832

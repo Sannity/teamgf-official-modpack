@@ -1,0 +1,11 @@
+{
+  "id": "chromium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.chromium_blocks",
+    "fallback": "Chromium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/chromium"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "buttons",
+  "name": {
+    "translate": "collapsible_groups.group.buttons",
+    "fallback": "Buttons"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "minecraft:buttons"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_button"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_stone_button"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_large_button"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_large_stone_button"
+      }
+    ]
+  }
+}

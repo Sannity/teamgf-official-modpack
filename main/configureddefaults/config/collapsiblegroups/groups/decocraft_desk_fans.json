@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_desk_fans",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_desk_fans",
+    "fallback": "Decocraft Desk Fans"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:desk_fan_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_fan_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_fan_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_fan_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_fan_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_fan_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_fan_black"
+      }
+    ]
+  }
+}

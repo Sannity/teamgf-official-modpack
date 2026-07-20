@@ -1,0 +1,36 @@
+{
+  "id": "dripstone",
+  "name": {
+    "translate": "collapsible_groups.group.dripstone",
+    "fallback": "Dripstone"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:small_dripstone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_dripstone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_dripstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_dripstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:pointed_dripstone"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/dripstone"
+      }
+    ]
+  }
+}

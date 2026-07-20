@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_top_cabinets_3",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_top_cabinets_3",
+    "fallback": "Decocraft Top Cabinets 3"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_3_black"
+      }
+    ]
+  }
+}

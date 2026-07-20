@@ -1,0 +1,80 @@
+{
+  "id": "decocraft_pendant_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_pendant_lamps",
+    "fallback": "Decocraft Pendant Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pendant_lamp_purple"
+      }
+    ]
+  }
+}

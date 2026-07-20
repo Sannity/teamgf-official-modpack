@@ -1,0 +1,19 @@
+{
+  "id": "signs",
+  "name": {
+    "translate": "collapsible_groups.group.signs",
+    "fallback": "Signs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "tag": "minecraft:signs"
+      },
+      {
+        "block_tag": "minecraft:signs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Every Compat (Gems Realm)"
+filename = "gemsrealm-1.21-2.11.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5103b91488597ccc856aa85285f9ec6958f34bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8020040
+project-id = 1289099

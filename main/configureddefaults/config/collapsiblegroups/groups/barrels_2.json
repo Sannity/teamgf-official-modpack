@@ -1,0 +1,11 @@
+{
+  "id": "barrels_2",
+  "name": {
+    "translate": "collapsible_groups.group.barrels_2",
+    "fallback": "Barrels"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:barrels"
+  }
+}

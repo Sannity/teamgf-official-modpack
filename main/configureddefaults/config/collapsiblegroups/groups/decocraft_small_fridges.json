@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_small_fridges",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_small_fridges",
+    "fallback": "Decocraft Small Fridges"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:fridge_small_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fridge_small_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fridge_small_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fridge_small_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fridge_small_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fridge_small_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fridge_small_black"
+      }
+    ]
+  }
+}

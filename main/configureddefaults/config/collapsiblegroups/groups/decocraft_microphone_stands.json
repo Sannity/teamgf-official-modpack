@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_microphone_stands",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_microphone_stands",
+    "fallback": "Decocraft Microphone Stands"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:microphone_stand_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:microphone_stand_silver"
+      }
+    ]
+  }
+}

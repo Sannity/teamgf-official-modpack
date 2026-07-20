@@ -1,0 +1,11 @@
+{
+  "id": "bauxite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.bauxite_blocks",
+    "fallback": "Bauxite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/bauxite"
+  }
+}

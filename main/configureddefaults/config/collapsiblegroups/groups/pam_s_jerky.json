@@ -1,0 +1,88 @@
+{
+  "id": "pam_s_jerky",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_jerky",
+    "fallback": "Pam\u0027s Jerky"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chickenjerkyitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:beefjerkyitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:porkjerkyitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:fishjerkyitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:muttonjerkyitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:rabbitjerkyitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:rottenjerkyitem"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:beef_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:chicken_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:pork_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:mutton_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:rabbit_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:meef_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:venison_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:monster_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:cod_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:salmon_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:tropical_fish_jerky"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:fugu_jerky"
+      }
+    ]
+  }
+}

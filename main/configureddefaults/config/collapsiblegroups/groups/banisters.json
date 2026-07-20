@@ -1,0 +1,11 @@
+{
+  "id": "banisters",
+  "name": {
+    "translate": "collapsible_groups.group.banisters",
+    "fallback": "Banisters"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "twilightforest:banisters"
+  }
+}

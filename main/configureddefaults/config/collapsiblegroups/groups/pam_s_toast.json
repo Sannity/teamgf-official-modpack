@@ -1,0 +1,240 @@
+{
+  "id": "pam_s_toast",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_toast",
+    "fallback": "Pam\u0027s Toast"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blackberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blueberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cactusfruitjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:candleberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cranberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:elderberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:huckleberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:juniperberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mulberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:raspberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cantaloupejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:greengrapejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:kiwijellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pineapplejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:orangejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peachjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pearjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:plumjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pawpawjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soursopjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:apricotjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bananajellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:datejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dragonfruitjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:figjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapefruitjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mangojellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:papayajellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:persimmonjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pomegranatejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:starfruitjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:breadfruitjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:jackfruitjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:guavajellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lycheejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:passionfruitjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rambutanjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:tamarindjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gooseberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:durianjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:limejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chorusjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melonjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cinnamontoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:beansontoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cheeseontoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:vegemiteontoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:avocadotoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberryjellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:applejellytoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:toastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimejellytoastitem"
+      }
+    ]
+  }
+}

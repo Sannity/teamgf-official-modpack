@@ -1,0 +1,12 @@
+{
+  "id": "modern_industrialization_me_wires",
+  "name": {
+    "translate": "collapsible_groups.group.modern_industrialization_me_wires",
+    "fallback": "Modern Industrialization ME Wires"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "modern_industrialization:me_wires"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "advanced_pocket_computer",
+  "name": {
+    "translate": "collapsible_groups.group.advanced_pocket_computer",
+    "fallback": "Advanced Pocket Computer"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "computercraft:pocket_computer_advanced"
+  }
+}

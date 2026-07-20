@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_rattan_couch_centers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rattan_couch_centers",
+    "fallback": "Decocraft Rattan Couch Centers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_center_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_center_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_center_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_center_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_center_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_center_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_center_light_gray"
+      }
+    ]
+  }
+}

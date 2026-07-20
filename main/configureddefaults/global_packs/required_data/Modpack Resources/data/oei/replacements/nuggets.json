@@ -1,0 +1,66 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_copper",
+      "create:copper_nugget",
+      "twilightforest:copper_nugget"
+    ],
+    "resultItems": "modern_industrialization:copper_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_lead"
+    ],
+    "resultItems": "modern_industrialization:lead_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_silver"
+    ],
+    "resultItems": "modern_industrialization:silver_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_nickel"
+    ],
+    "resultItems": "modern_industrialization:nickel_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_electrum"
+    ],
+    "resultItems": "modern_industrialization:electrum_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_steel"
+    ],
+    "resultItems": "modern_industrialization:steel_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_aluminum"
+    ],
+    "resultItems": "modern_industrialization:aluminum_nugget"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:nugget_uranium"
+    ],
+    "resultItems": "modern_industrialization:uranium_nugget"
+  },
+  {
+    "matchItems": [
+      "agricraft:emerald_shard"
+    ],
+    "resultItems": "silentgear:emerald_shard"
+  },
+  {
+    "matchItems": [
+      "agricraft:diamond_shard",
+      "translocators:diamond_nugget",
+      "silentgear:diamond_shard"
+    ],
+    "resultItems": "silentgear:diamond_shard"
+  }
+]

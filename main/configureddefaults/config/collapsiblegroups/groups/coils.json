@@ -1,0 +1,28 @@
+{
+  "id": "coils",
+  "name": {
+    "translate": "collapsible_groups.group.coils",
+    "fallback": "Coils"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ironjetpacks:basic_coil"
+      },
+      {
+        "type": "item",
+        "id": "ironjetpacks:advanced_coil"
+      },
+      {
+        "type": "item",
+        "id": "ironjetpacks:elite_coil"
+      },
+      {
+        "type": "item",
+        "id": "ironjetpacks:ultimate_coil"
+      }
+    ]
+  }
+}

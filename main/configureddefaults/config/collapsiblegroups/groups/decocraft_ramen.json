@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_ramen",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_ramen",
+    "fallback": "Decocraft Ramen"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:ramen_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ramen_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ramen_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ramen_blue"
+      }
+    ]
+  }
+}

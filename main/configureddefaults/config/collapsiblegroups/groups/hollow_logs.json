@@ -1,0 +1,11 @@
+{
+  "id": "hollow_logs",
+  "name": {
+    "translate": "collapsible_groups.group.hollow_logs",
+    "fallback": "Hollow Logs"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "twilightforest:hollow_logs"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "portable_item_cells",
+  "name": {
+    "translate": "collapsible_groups.group.portable_item_cells",
+    "fallback": "Portable Item Cells"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2:portable_item_cell_1k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_item_cell_4k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_item_cell_16k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_item_cell_64k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:portable_item_cell_256k"
+      }
+    ]
+  }
+}

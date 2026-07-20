@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_tool_racks",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_tool_racks",
+    "fallback": "Bibliocraft Tool Racks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:tool_racks"
+  }
+}

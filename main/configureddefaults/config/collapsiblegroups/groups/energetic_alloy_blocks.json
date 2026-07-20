@@ -1,0 +1,11 @@
+{
+  "id": "energetic_alloy_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.energetic_alloy_blocks",
+    "fallback": "Energetic Alloy Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/energetic_alloy"
+  }
+}

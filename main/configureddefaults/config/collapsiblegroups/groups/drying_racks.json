@@ -1,0 +1,11 @@
+{
+  "id": "drying_racks",
+  "name": {
+    "translate": "collapsible_groups.group.drying_racks",
+    "fallback": "Drying Racks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "twilightforest:drying_racks"
+  }
+}

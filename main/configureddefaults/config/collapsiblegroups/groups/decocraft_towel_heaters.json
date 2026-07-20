@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_towel_heaters",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_towel_heaters",
+    "fallback": "Decocraft Towel Heaters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:towel_heater_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:towel_heater_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:towel_heater_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:towel_heater_black"
+      }
+    ]
+  }
+}

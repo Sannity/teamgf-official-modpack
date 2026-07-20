@@ -1,0 +1,12 @@
+{
+  "id": "sleeping_bags",
+  "name": {
+    "translate": "collapsible_groups.group.sleeping_bags",
+    "fallback": "Sleeping Bags"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "kibe:sleeping_bags"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pam_s_tofu",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_tofu",
+    "fallback": "Pam\u0027s Tofu"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:silkentofuitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:firmtofuitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rawtofabbititem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rawtofaconitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rawtofeakitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rawtofickenitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rawtofishitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rawtofuttonitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cookedtofabbititem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cookedtofaconitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cookedtofeakitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cookedtofickenitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cookedtofishitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cookedtofuttonitem"
+      }
+    ]
+  }
+}

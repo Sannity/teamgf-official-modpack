@@ -1,0 +1,256 @@
+{
+  "id": "shaders",
+  "name": {
+    "translate": "collapsible_groups.group.shaders",
+    "fallback": "Shaders"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_rosequartz"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_argo"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_sunstrike"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_locus"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_felix"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_sharkface"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_dragonsbreath"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_hawk"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_eyas"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_magnum"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_fox"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_vaulttec"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_sponsor"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_lususnaturae"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_ikelos"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_massfusion"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_stormflower"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_milo"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_trident"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_chloris"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_crescentrose"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_qrow"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_vanguard"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_regal"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_harrowed"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_taken"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_angelsthesis"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_sutherland"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_exia"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_crimsonlotus"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_dominator"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_warbird"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_matrix"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_twili"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_usurper"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_ancient"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_glacis"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_phoenix"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_radiant"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_hollow"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_microshark"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_n7"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_normandy"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_omnitool"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_kindled"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_darkfire"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_erruption"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_waaagh"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_astartes"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_netherforged"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_transpride"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_enbypride"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_gaypride"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_lesbianpride"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_bipride"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_acepride"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_bag_rare"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_bag_common"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_bag_epic"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_bag_immersiveengineering_masterwork"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:shader_bag_uncommon"
+      }
+    ]
+  }
+}

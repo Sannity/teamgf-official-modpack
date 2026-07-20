@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_candy_bags",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_candy_bags",
+    "fallback": "Decocraft Candy Bags"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:candy_bag_ghost"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:candy_bag_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:candy_bag_pumpkin"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:candy_bag_spider"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:candy_bag_witch"
+      }
+    ]
+  }
+}

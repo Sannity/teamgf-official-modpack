@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_square_sinks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_square_sinks",
+    "fallback": "Decocraft Square Sinks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:square_sink_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:square_sink_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:square_sink_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:square_sink_black"
+      }
+    ]
+  }
+}

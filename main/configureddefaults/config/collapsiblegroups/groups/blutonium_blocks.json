@@ -1,0 +1,11 @@
+{
+  "id": "blutonium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.blutonium_blocks",
+    "fallback": "Blutonium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "bigreactors:metal_type/blutonium"
+  }
+}

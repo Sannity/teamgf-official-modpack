@@ -1,0 +1,88 @@
+{
+  "id": "decocraft_couch_edges",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_couch_edges",
+    "fallback": "Decocraft Couch Edges"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_ocean_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_leather_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_leather_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_dark_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_edge_magenta"
+      }
+    ]
+  }
+}

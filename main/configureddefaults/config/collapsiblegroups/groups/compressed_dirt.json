@@ -1,0 +1,76 @@
+{
+  "id": "compressed_dirt",
+  "name": {
+    "translate": "collapsible_groups.group.compressed_dirt",
+    "fallback": "Compressed Dirt"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_16"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_15"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_14"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_13"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_12"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_11"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_10"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_9"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_8"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_7"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_6"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_5"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_4"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_3"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_2"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_dirt_1"
+      }
+    ]
+  }
+}

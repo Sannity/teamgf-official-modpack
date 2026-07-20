@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_labels",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_labels",
+    "fallback": "Bibliocraft Labels"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:labels"
+  }
+}

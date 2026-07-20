@@ -1,0 +1,32 @@
+{
+  "id": "cobblestone_generators",
+  "name": {
+    "translate": "collapsible_groups.group.cobblestone_generators",
+    "fallback": "Cobblestone Generators"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "kibe:cobblestone_generator_mk1"
+      },
+      {
+        "type": "item",
+        "id": "kibe:cobblestone_generator_mk2"
+      },
+      {
+        "type": "item",
+        "id": "kibe:cobblestone_generator_mk3"
+      },
+      {
+        "type": "item",
+        "id": "kibe:cobblestone_generator_mk4"
+      },
+      {
+        "type": "item",
+        "id": "kibe:cobblestone_generator_mk5"
+      }
+    ]
+  }
+}

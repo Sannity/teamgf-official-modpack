@@ -1,0 +1,21 @@
+{
+  "id": "marble_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.marble_blocks",
+    "fallback": "Marble Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:stone/marble"
+      },
+      {
+        "block_tag": "projectred_exploration:stone_type/marble"
+      },
+      {
+        "block_tag": "stonezone:projectred_exploration/marble"
+      }
+    ]
+  }
+}

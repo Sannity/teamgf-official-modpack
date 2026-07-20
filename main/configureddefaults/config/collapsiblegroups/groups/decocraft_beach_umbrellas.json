@@ -1,0 +1,76 @@
+{
+  "id": "decocraft_beach_umbrellas",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_beach_umbrellas",
+    "fallback": "Decocraft Beach Umbrellas "
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_umbrella_red"
+      }
+    ]
+  }
+}

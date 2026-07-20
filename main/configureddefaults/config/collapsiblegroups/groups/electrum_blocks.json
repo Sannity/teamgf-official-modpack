@@ -1,0 +1,11 @@
+{
+  "id": "electrum_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.electrum_blocks",
+    "fallback": "Electrum Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/electrum"
+  }
+}

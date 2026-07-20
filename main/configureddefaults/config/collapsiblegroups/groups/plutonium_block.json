@@ -1,0 +1,11 @@
+{
+  "id": "plutonium_block",
+  "name": {
+    "translate": "collapsible_groups.group.plutonium_block",
+    "fallback": "Plutonium Block"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/plutonium"
+  }
+}

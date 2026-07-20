@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_pie_slices",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_pie_slices",
+    "fallback": "Decocraft Pie Slices"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:apple_pie_slice"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:blueberry_pie_slice"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pumpkin_pie_slice"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:raspberry_pie_slice"
+      }
+    ]
+  }
+}

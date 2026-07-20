@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_coin_piles",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_coin_piles",
+    "fallback": "Decocraft Coin Piles"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:coin_pile_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coin_pile_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coin_pile_copper"
+      }
+    ]
+  }
+}

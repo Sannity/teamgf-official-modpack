@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_easter_baskets",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_easter_baskets",
+    "fallback": "Decocraft Easter Baskets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:easter_basket_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:easter_basket_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:easter_basket_pink"
+      }
+    ]
+  }
+}

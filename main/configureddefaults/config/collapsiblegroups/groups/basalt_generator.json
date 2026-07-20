@@ -1,0 +1,32 @@
+{
+  "id": "basalt_generator",
+  "name": {
+    "translate": "collapsible_groups.group.basalt_generator",
+    "fallback": "Basalt Generator"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "kibe:basalt_generator_mk1"
+      },
+      {
+        "type": "item",
+        "id": "kibe:basalt_generator_mk2"
+      },
+      {
+        "type": "item",
+        "id": "kibe:basalt_generator_mk3"
+      },
+      {
+        "type": "item",
+        "id": "kibe:basalt_generator_mk4"
+      },
+      {
+        "type": "item",
+        "id": "kibe:basalt_generator_mk5"
+      }
+    ]
+  }
+}

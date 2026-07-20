@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_watering_can_flowers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_watering_can_flowers",
+    "fallback": "Decocraft Watering Can Flowers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:watering_can_tulips"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:watering_can_flowers_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:watering_can_flowers_2"
+      }
+    ]
+  }
+}

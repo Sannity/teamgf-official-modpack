@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_floor_mixer",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_floor_mixer",
+    "fallback": "Decocraft Floor Mixers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:floor_mixer_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_mixer_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_mixer_rosegold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_mixer_black"
+      }
+    ]
+  }
+}

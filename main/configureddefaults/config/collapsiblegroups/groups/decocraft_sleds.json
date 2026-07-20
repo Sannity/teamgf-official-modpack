@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_sleds",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_sleds",
+    "fallback": "Decocraft Sleds"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:sled_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sled_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sled_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sled_blue"
+      }
+    ]
+  }
+}

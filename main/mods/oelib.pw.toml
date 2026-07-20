@@ -1,0 +1,13 @@
+name = "One Enough Lib"
+filename = "OELib-neoforge-1.21.1-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8457b2423f62c896ef8c290ab511a0a71b442750"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7886017
+project-id = 1319210

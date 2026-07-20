@@ -1,0 +1,48 @@
+{
+  "id": "quartz_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.quartz_blocks",
+    "fallback": "Quartz Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:quartz_block"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:quartz_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:quartz_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_quartz_block"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:quartz_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:quartz_pillar"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_quartz"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_quartz_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_quartz_slab"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "leaves",
+  "name": {
+    "translate": "collapsible_groups.group.leaves",
+    "fallback": "Leaves"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "minecraft:leaves"
+      },
+      {
+        "block_tag": "witchery:leaves"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:giant_leaves"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:bramble_leaves"
+      }
+    ]
+  }
+}

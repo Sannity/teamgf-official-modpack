@@ -1,0 +1,24 @@
+{
+  "id": "stack_downgrades",
+  "name": {
+    "translate": "collapsible_groups.group.stack_downgrades",
+    "fallback": "Stack Downgrades"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_downgrade_tier_1"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_downgrade_tier_2"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_downgrade_tier_3"
+      }
+    ]
+  }
+}

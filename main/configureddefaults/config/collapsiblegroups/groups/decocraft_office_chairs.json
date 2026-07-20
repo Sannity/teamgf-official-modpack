@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_office_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_office_chairs",
+    "fallback": "Decocraft Office Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:office_chair_black"
+      }
+    ]
+  }
+}

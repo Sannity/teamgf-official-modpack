@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_waste_baskets",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_waste_baskets",
+    "fallback": "Decocraft Waste Baskets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:waste_basket_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:waste_basket_silver"
+      }
+    ]
+  }
+}

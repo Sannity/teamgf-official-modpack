@@ -1,0 +1,40 @@
+{
+  "id": "poppets",
+  "name": {
+    "translate": "collapsible_groups.group.poppets",
+    "fallback": "Poppets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "witchery:poppet"
+      },
+      {
+        "type": "item",
+        "id": "witchery:armor_protection_poppet"
+      },
+      {
+        "type": "item",
+        "id": "witchery:hunger_protection_poppet"
+      },
+      {
+        "type": "item",
+        "id": "witchery:death_protection_poppet"
+      },
+      {
+        "type": "item",
+        "id": "witchery:vampiric_poppet"
+      },
+      {
+        "type": "item",
+        "id": "witchery:voodoo_poppet"
+      },
+      {
+        "type": "item",
+        "id": "witchery:voodoo_protection_poppet"
+      }
+    ]
+  }
+}

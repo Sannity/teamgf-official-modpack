@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_cribs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cribs",
+    "fallback": "Decocraft Cribs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:crib_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:crib_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:crib_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:crib_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:crib_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:crib_black"
+      }
+    ]
+  }
+}

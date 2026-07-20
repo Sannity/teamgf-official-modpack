@@ -1,0 +1,11 @@
+{
+  "id": "dark_steel_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.dark_steel_blocks",
+    "fallback": "Dark Steel Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/dark_steel"
+  }
+}

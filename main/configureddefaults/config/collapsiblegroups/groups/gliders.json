@@ -1,0 +1,12 @@
+{
+  "id": "gliders",
+  "name": {
+    "translate": "collapsible_groups.group.gliders",
+    "fallback": "Gliders"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "kibe:gliders"
+  }
+}

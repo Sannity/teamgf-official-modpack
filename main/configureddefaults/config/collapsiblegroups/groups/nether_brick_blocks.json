@@ -1,0 +1,40 @@
+{
+  "id": "nether_brick_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.nether_brick_blocks",
+    "fallback": "Nether Brick Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:nether_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cracked_nether_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:nether_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:nether_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:nether_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:nether_brick_fence"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_nether_bricks"
+      }
+    ]
+  }
+}

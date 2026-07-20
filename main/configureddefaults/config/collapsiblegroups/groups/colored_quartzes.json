@@ -1,0 +1,11 @@
+{
+  "id": "colored_quartzes",
+  "name": {
+    "translate": "collapsible_groups.group.colored_quartzes",
+    "fallback": "Colored Quartzes"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "excessive_utilities:paintbrush_quartzes"
+  }
+}

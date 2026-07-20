@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_bamboo_torches",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bamboo_torches",
+    "fallback": "Decocraft Bamboo Torches"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_torch_green_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_torch_yellow_flipbook"
+      }
+    ]
+  }
+}

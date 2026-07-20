@@ -1,0 +1,36 @@
+{
+  "id": "pam_s_popsicles",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_popsicles",
+    "fallback": "Pam\u0027s Popsicles"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:applepopsicleitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:choruspopsicleitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melonpopsicleitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberrypopsicleitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberrypopsicleitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimepopsicleitem"
+      }
+    ]
+  }
+}

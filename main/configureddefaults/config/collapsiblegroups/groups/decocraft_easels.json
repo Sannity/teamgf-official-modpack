@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_easels",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_easels",
+    "fallback": "Decocraft Easels"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:easel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:easel_canvas"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:easel_painted_landscape_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:easel_painted_landscape_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:easel_painted_landscape_3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "pam_s_seeds",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_seeds",
+    "fallback": "Pam\u0027s Seeds"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2crops"
+          },
+          {
+            "type": "item",
+            "tag": "c:seeds"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:mustardseedsitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:sesameseedsitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:bokchoyseeditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:calabashseeditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:guaranaseeditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:papyrusseeditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:sunchokeseeditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sunflowerseedsitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:coffeebeanitem"
+      }
+    ]
+  }
+}

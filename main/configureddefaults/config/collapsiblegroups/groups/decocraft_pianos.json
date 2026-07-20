@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_pianos",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_pianos",
+    "fallback": "Decocraft Pianos"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:piano_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:piano_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:piano_spruce"
+      }
+    ]
+  }
+}

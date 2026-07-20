@@ -1,0 +1,68 @@
+{
+  "id": "decocraft_mailboxes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_mailboxes",
+    "fallback": "Decocraft Mailboxes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mailbox_blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "aluminum_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.aluminum_blocks",
+    "fallback": "Aluminum Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/aluminum"
+  }
+}

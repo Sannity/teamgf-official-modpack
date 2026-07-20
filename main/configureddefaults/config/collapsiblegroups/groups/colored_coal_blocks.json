@@ -1,0 +1,21 @@
+{
+  "id": "colored_coal_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.colored_coal_blocks",
+    "fallback": "Colored Coal Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "excessive_utilities:paintbrush_coal_blocks"
+      },
+      {
+        "not": {
+          "type": "item",
+          "id": "minecraft:coal_block"
+        }
+      }
+    ]
+  }
+}

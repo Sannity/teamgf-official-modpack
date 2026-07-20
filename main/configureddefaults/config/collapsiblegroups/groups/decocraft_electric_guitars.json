@@ -1,0 +1,56 @@
+{
+  "id": "decocraft_electric_guitars",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_electric_guitars",
+    "fallback": "Decocraft Electric Guitars"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:electric_guitar_purple"
+      }
+    ]
+  }
+}

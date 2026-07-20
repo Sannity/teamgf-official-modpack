@@ -1,0 +1,68 @@
+{
+  "id": "decocraft_round_diner_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_round_diner_tables",
+    "fallback": "Decocraft Round Diner Tables "
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_round_black"
+      }
+    ]
+  }
+}

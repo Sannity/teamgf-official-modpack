@@ -1,0 +1,11 @@
+{
+  "id": "rose_quartz_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.rose_quartz_blocks",
+    "fallback": "Rose Quartz Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "biomesoplenty:crystal_type/rose_quartz"
+  }
+}

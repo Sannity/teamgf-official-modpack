@@ -1,0 +1,44 @@
+{
+  "id": "pam_s_skewers",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_skewers",
+    "fallback": "Pam\u0027s Skewers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledchickenskeweritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledbeefskeweritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledporkskeweritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledfishskeweritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledmuttonskeweritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledrabbitskeweritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grilledskewersitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledveggieskeweritem"
+      }
+    ]
+  }
+}

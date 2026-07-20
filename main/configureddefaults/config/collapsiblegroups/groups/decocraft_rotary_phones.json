@@ -1,0 +1,64 @@
+{
+  "id": "decocraft_rotary_phones",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rotary_phones",
+    "fallback": "Decocraft Rotary Phones"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_coral"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_aqua"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rotary_phone_black"
+      }
+    ]
+  }
+}

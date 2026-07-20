@@ -1,0 +1,76 @@
+{
+  "id": "skystone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.skystone_blocks",
+    "fallback": "Skystone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_block"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_sky_stone_block"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_brick"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_small_brick"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_sky_stone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_small_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_sky_stone_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_small_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_sky_stone_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:sky_stone_small_brick_slab"
+      }
+    ]
+  }
+}

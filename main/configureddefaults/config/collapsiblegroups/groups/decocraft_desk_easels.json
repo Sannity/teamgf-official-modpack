@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_desk_easels",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_desk_easels",
+    "fallback": "Decocraft Desk Easels"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:desk_easel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_easel_canvas"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_easel_painted"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_easel_still_life_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_easel_still_life_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:desk_easel_still_life_3"
+      }
+    ]
+  }
+}

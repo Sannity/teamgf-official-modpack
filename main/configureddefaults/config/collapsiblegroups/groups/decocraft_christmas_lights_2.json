@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_christmas_lights_2",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_christmas_lights_2",
+    "fallback": "Decocraft Christmas Lights 2"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:christmas_lights_2_white_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:christmas_lights_2_color_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:christmas_lights_2_rainbow_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:christmas_lights_2_rainbow_2_flipbook"
+      }
+    ]
+  }
+}

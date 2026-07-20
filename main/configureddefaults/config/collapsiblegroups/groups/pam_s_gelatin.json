@@ -1,0 +1,36 @@
+{
+  "id": "pam_s_gelatin",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_gelatin",
+    "fallback": "Pam\u0027s Gelatin"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:applegelatinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:chorusgelatinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:glowberrygelatinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:melongelatinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:sweetberrygelatinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimegelatinitem"
+      }
+    ]
+  }
+}

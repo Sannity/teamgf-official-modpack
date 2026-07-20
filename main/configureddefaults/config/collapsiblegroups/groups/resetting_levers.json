@@ -1,0 +1,52 @@
+{
+  "id": "resetting_levers",
+  "name": {
+    "translate": "collapsible_groups.group.resetting_levers",
+    "fallback": "Resetting Levers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_five"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_five_inv"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_ten"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_ten_inv"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_thirty"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_thirty_inv"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_sixty"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_sixty_inv"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_three_hundred"
+      },
+      {
+        "type": "item",
+        "id": "enderio:resetting_lever_three_hundred_inv"
+      }
+    ]
+  }
+}

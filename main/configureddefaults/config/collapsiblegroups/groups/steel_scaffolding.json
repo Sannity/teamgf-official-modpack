@@ -1,0 +1,52 @@
+{
+  "id": "steel_scaffolding",
+  "name": {
+    "translate": "collapsible_groups.group.steel_scaffolding",
+    "fallback": "Steel Scaffolding"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:steel_scaffolding_standard"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:metal_ladder_steel"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_steel_scaffolding_standard"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_steel_scaffolding_standard"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:steel_scaffolding_grate_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_steel_scaffolding_grate_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_steel_scaffolding_grate_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:steel_scaffolding_wooden_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_steel_scaffolding_wooden_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_steel_scaffolding_wooden_top"
+      }
+    ]
+  }
+}

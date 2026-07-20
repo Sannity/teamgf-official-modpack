@@ -1,0 +1,45 @@
+{
+  "id": "colored_stone",
+  "name": {
+    "translate": "collapsible_groups.group.colored_stone",
+    "fallback": "Colored Stones"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "excessive_utilities:paintbrush_stones"
+      },
+      {
+        "not": {
+          "any": [
+            {
+              "type": "item",
+              "id": "minecraft:granite"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:stone"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:diorite"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:andesite"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:deepslate"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:tuff"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

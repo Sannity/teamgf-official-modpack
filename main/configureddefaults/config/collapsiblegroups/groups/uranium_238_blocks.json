@@ -1,0 +1,11 @@
+{
+  "id": "uranium_238_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.uranium_238_blocks",
+    "fallback": "Uranium 238 Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/uranium_238"
+  }
+}

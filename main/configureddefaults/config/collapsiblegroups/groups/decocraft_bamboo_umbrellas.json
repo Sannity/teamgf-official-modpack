@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_bamboo_umbrellas",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bamboo_umbrellas",
+    "fallback": "Decocraft Bamboo Umbrellas"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_umbrella_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_umbrella_yellow"
+      }
+    ]
+  }
+}

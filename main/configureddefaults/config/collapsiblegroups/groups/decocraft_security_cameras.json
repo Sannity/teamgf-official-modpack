@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_security_cameras",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_security_cameras",
+    "fallback": "Decocraft Security Cameras"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:security_camera_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:security_camera_silver"
+      }
+    ]
+  }
+}

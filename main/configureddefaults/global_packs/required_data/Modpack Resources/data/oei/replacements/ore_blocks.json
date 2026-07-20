@@ -1,0 +1,74 @@
+[
+  {
+    "matchItems": [
+        "immersiveengineering:ore_aluminum"
+    ],
+    "resultItems": "modern_industrialization:bauxite_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:deepslate_ore_aluminum"
+    ],
+    "resultItems": "modern_industrialization:deepslate_bauxite_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:ore_lead"
+    ],
+    "resultItems": "modern_industrialization:lead_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:deepslate_ore_lead"
+    ],
+    "resultItems": "modern_industrialization:deepslate_lead_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:ore_silver"
+    ],
+    "resultItems": "projectred_exploration:silver_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:deepslate_ore_silver"
+    ],
+    "resultItems": "projectred_exploration:deepslate_silver_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:ore_nickel"
+    ],
+    "resultItems": "modern_industrialization:nickel_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:deepslate_ore_nickel"
+    ],
+    "resultItems": "modern_industrialization:deepslate_nickel_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:ore_uranium"
+    ],
+    "resultItems": "modern_industrialization:uranium_ore"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:deepslate_ore_uranium"
+    ],
+    "resultItems": "modern_industrialization:deepslate_uranium_ore"
+  },
+  {
+    "matchItems": [
+        "projectred_exploration:tin_ore"
+    ],
+    "resultItems": "modern_industrialization:tin_ore"
+  },
+  {
+    "matchItems": [
+        "projectred_exploration:deepslate_tin_ore"
+    ],
+    "resultItems": "modern_industrialization:deepslate_tin_ore"
+  }
+]

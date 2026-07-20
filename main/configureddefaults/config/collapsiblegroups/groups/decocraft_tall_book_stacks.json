@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_tall_book_stacks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_tall_book_stacks",
+    "fallback": "Decocraft Tall Book Stacks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:tall_book_stack_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tall_book_stack_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tall_book_stack_messy_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tall_book_stack_messy_2"
+      }
+    ]
+  }
+}

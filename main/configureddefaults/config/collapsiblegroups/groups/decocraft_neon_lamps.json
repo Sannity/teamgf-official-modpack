@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_neon_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_neon_lamps",
+    "fallback": "Decocraft Neon Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_boba"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_cactus"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_dog_and_cat"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_flamingo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_ice_pop"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_music"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_open"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:neon_lamp_unicorn"
+      }
+    ]
+  }
+}

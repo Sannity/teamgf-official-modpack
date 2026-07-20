@@ -1,0 +1,48 @@
+{
+  "id": "pam_s_pancakes",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_pancakes",
+    "fallback": "Pam\u0027s Pancakes, Waffles, French Toast"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:maplesyruppancakesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pancakesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:baconpancakesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chocolatechippancakesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peanutbutterbananapancakesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:maplesyrupwafflesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:wafflesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chickenandwafflesitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:frenchtoastitem"
+      }
+    ]
+  }
+}

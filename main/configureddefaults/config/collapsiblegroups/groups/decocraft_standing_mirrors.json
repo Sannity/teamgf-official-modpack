@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_standing_mirrors",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_standing_mirrors",
+    "fallback": "Decocraft Standing Mirrors"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:standing_mirror_black"
+      }
+    ]
+  }
+}

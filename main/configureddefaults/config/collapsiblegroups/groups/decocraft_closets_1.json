@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_closets_1",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_closets_1",
+    "fallback": "Decocraft Closets 1"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:closet_1_black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_tvs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_tvs",
+    "fallback": "Decocraft TVs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:tv_small"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tv_wall_small"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tv_large"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tv_wall_large"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:crt_tv"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tv_old"
+      }
+    ]
+  }
+}

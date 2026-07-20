@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_lockers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_lockers",
+    "fallback": "Decocraft Lockers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:locker_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:locker_black"
+      }
+    ]
+  }
+}

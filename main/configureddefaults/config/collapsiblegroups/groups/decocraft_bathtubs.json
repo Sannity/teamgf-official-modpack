@@ -1,0 +1,84 @@
+{
+  "id": "decocraft_bathtubs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bathtubs",
+    "fallback": "Decocraft Bathtubs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_aqua"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_aqua"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathtub_water_blue"
+      }
+    ]
+  }
+}

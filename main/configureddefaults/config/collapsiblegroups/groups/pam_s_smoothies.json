@@ -1,0 +1,216 @@
+{
+  "id": "pam_s_smoothies",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_smoothies",
+    "fallback": "Pam\u0027s Smoothies"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blackberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blueberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cactusfruitsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:candleberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cranberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:elderberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:huckleberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:juniperberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mulberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:raspberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cantaloupesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:greengrapesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:kiwismoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pineapplesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:orangesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peachsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pearsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:plumsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pawpawsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soursopsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:apricotsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bananasmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:datesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dragonfruitsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:figsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapefruitsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mangosmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:papayasmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:persimmonsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pomegranatesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:starfruitsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:breadfruitsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:jackfruitsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:guavasmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lycheesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:passionfruitsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rambutansmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:tamarindsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gooseberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:limesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:duriansmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:applesmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chorussmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melonsmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberrysmoothieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimesmoothieitem"
+      }
+    ]
+  }
+}

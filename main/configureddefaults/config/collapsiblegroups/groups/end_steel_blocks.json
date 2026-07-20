@@ -1,0 +1,11 @@
+{
+  "id": "end_steel_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.end_steel_blocks",
+    "fallback": "End Steel Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/end_steel"
+  }
+}

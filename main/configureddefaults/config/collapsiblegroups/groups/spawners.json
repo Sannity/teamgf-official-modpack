@@ -1,0 +1,72 @@
+{
+  "id": "spawners",
+  "name": {
+    "translate": "collapsible_groups.group.spawners",
+    "fallback": "Spawners"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:spawner"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:trial_spawner"
+      },
+      {
+        "type": "item",
+        "id": "draconicevolution:stabilized_spawner"
+      },
+      {
+        "type": "item",
+        "id": "enderio:powered_spawner"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:resturbed_mob_spawner"
+      },
+      {
+        "type": "item",
+        "id": "rftoolsutility:spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:naga_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:lich_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:minoshroom_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:hydra_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:knight_phantom_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:ur_ghast_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:alpha_yeti_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:snow_queen_boss_spawner"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:sinister_spawner"
+      }
+    ]
+  }
+}

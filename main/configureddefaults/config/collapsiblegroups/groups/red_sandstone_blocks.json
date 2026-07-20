@@ -1,0 +1,52 @@
+{
+  "id": "red_sandstone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.red_sandstone_blocks",
+    "fallback": "Red Sandstone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:red_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:red_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:red_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:red_sandstone_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_red_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_red_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_red_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_red_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cut_red_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cut_red_sandstone_slab"
+      }
+    ]
+  }
+}

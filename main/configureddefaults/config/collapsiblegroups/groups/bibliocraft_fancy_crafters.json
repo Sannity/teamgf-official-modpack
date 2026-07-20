@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_fancy_crafters",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_fancy_crafters",
+    "fallback": "Bibliocraft Fancy Crafters"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:fancy_crafters"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "id": "pam_s_fruits",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_fruits",
+    "fallback": "Pam\u0027s Fruits"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2crops"
+          },
+          {
+            "type": "item",
+            "tag": "c:fruits"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2trees"
+          },
+          {
+            "type": "item",
+            "tag": "c:fruits"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamnutmeg"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamorange"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampeach"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampear"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamplum"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamwalnut"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamlemon"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamgooseberry"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamchestnut"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamspiderweb"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamhazelnut"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampawpaw"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamsoursop"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamacorn"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamalmond"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamapricot"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pambanana"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamcashew"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamcoconut"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamdate"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamdragonfruit"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamdurian"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamfig"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamgrapefruit"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamlime"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pammango"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamolive"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampapaya"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampecan"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampeppercorn"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampersimmon"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampistachio"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampomegranate"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamstarfruit"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamvanillabean"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pambreadfruit"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamguava"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamjackfruit"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamlychee"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampassionfruit"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamrambutan"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamtamarind"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pampinenut"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamapple"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamavocado"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamcandlenut"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:pamcherry"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2crops:agaveitem"
+      }
+    ]
+  }
+}

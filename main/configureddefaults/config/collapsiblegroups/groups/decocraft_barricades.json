@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_barricades",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_barricades",
+    "fallback": "Decocraft Barricades"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:barricade_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barricade_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barricade_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barricade_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barricade_5"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barricade_6"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barricade_7"
+      }
+    ]
+  }
+}

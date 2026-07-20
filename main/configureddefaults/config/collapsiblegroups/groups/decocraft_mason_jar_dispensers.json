@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_mason_jar_dispensers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_mason_jar_dispensers",
+    "fallback": "Decocraft Mason Jar Dispensers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:mason_jar_dispenser_horchata"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mason_jar_dispenser_jamaica"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mason_jar_dispenser_lemonade"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mason_jar_dispenser_lemonade_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mason_jar_dispenser_limeade"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mason_jar_dispenser_orangeade"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mason_jar_dispenser_tamarind"
+      }
+    ]
+  }
+}

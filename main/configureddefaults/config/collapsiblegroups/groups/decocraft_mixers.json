@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_mixers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_mixers",
+    "fallback": "Decocraft Mixers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:mixer_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mixer_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mixer_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mixer_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mixer_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mixer_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mixer_black"
+      }
+    ]
+  }
+}

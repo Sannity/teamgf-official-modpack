@@ -1,0 +1,108 @@
+{
+  "id": "decocraft_paper_lanterns",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_paper_lanterns",
+    "fallback": "Decocraft Paper Lanterns"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_light_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_1_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_pumpkin"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_bats"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_ghost"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_skeleton"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_cherry_blossom"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paper_lantern_chinese_new_year"
+      }
+    ]
+  }
+}

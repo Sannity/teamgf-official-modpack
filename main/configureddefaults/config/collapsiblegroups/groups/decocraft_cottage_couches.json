@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_cottage_couches",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cottage_couches",
+    "fallback": "Decocraft Cottage Couches"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:cottage_couch_right"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cottage_couch_middle"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cottage_couch_left"
+      }
+    ]
+  }
+}

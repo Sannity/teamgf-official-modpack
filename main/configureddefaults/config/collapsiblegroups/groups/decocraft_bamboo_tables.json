@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_bamboo_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bamboo_tables",
+    "fallback": "Decocraft Bamboo Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_coffee_table_round_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_coffee_table_round_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_coffee_table_square_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_coffee_table_square_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_side_table_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_side_table_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_table_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_table_yellow"
+      }
+    ]
+  }
+}

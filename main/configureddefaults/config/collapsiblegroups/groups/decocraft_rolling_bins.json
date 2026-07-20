@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_rolling_bins",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rolling_bins",
+    "fallback": "Decocraft Rolling Bins"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rolling_bin_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rolling_bin_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rolling_bin_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rolling_bin_blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "oreberries",
+  "name": {
+    "translate": "collapsible_groups.group.oreberries",
+    "fallback": "Oreberries"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "twilightforest:iron_oreberry"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:gold_oreberry"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:copper_oreberry"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:essence_oreberry"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:iron_berry"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:gold_berry"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:copper_berry"
+      }
+    ]
+  }
+}

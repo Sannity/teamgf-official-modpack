@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_table_settings",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_table_settings",
+    "fallback": "Decocraft Table Settings"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:table_setting_single"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_setting_double"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "decocraft_display_counters",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_display_counters",
+    "fallback": "Decocraft Display Counters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_bottom_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_bottom_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_bottom_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_bottom_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_bottom_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_doughnuts"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_cookies"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_pie"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_pie_slices"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_icecream_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_icecream_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_icecream_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_pastries"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_pizza"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_popsicles_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_popsicles_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:display_counter_top_popsicles_3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pam_s_cakes",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_cakes",
+    "fallback": "Pam\u0027s Cakes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chocolatecakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cheesecakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:pumpkincheesecakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carrotcakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chocolatesprinklecakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:fruitcakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:holidaycakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemondrizzlecakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mochicakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pineappleupsidedowncakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:redvelvetcupcakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sprinklescupcakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimecakeitem"
+      }
+    ]
+  }
+}

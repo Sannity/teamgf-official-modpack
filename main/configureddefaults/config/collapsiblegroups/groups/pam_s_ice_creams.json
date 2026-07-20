@@ -1,0 +1,56 @@
+{
+  "id": "pam_s_ice_creams",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_ice_creams",
+    "fallback": "Pam\u0027s Ice Creams"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:icecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chocolateicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:caramelicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherryicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mintchocolatechipicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mochaicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:neapolitanicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:nuttoppedicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:ricecakeitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:vanillaicecreamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimeicecreamitem"
+      }
+    ]
+  }
+}

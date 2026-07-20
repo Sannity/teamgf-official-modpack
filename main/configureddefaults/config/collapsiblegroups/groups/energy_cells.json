@@ -1,0 +1,68 @@
+{
+  "id": "energy_cells",
+  "name": {
+    "translate": "collapsible_groups.group.energy_cells",
+    "fallback": "Energy Cells"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:creative\",\"minecraft:rarity\":\"epic\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:wood\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:copper\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:stone\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:bronze\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:iron\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:silver\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:electrum\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:gold\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:invar\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:steel\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:diamond\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:platinum\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"ironjetpacks:cell\",\"components\":{\"ironjetpacks:jetpack_id\":\"ironjetpacks:emerald\"}}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_floor_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_floor_lamps",
+    "fallback": "Decocraft Floor Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:floor_lamp_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_lamp_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_lamp_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_lamp_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:floor_lamp_black"
+      }
+    ]
+  }
+}

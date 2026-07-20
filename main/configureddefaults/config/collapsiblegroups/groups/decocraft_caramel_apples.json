@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_caramel_apples",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_caramel_apples",
+    "fallback": "Decocraft Caramel Apples"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:caramel_apples"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:caramel_apples_sprinkles"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:caramel_apples_nuts"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:caramel_apples_sludge"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "salt_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.salt_blocks",
+    "fallback": "Salt Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/salt"
+  }
+}

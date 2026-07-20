@@ -1,0 +1,1092 @@
+{
+  "id": "decocraft_wall_flags",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wall_flags",
+    "fallback": "Decocraft Wall Flags"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:agender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ally"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:aromantic"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:asexual"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bigender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bisexual"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:demiboy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:demigirl"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:demisexual"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gay"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:intersex"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lesbian"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:nonbinary"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pansexual"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:polysexual"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pride"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:progress"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:genderfluid"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:progress_intersex"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:transgender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:afghanistan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:aland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:albania"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:algeria"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:american_samoa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:andorra"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:angola"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:anguilla"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:antigua_and_barbuda"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:argentina"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:armenia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:aruba"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ascension_island"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:australia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:austria"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:azerbaijan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:azores"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bahamas"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fiji"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:federated_states_of_micronesia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:faroe_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:falkland_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ethiopia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:eswatini"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:estonia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:eritrea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:equatorial_guinea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:england"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:egypt"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ecuador"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:easter_island"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:east_timor"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:dominican_republic"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:dominica"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:djibouti"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:denmark"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:democratic_republic_of_the_congo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:czechia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cyprus"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:curacao"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cuba"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:croatia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cote_d_ivoire"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:costa_rica"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cook_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:congo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:comoros"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:colombia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cocos_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:christmas_island"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chile"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chad"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:central_african_republic"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cayman_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cape_verde"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:canary_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:canada"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cameroon"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cambodia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:burundi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:burkina_faso"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bulgaria"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:brunei"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:british_virgin_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:brazil"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:botswana"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bosnia_and_herzegovina"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bonaire"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bolivia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bhutan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bermuda"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:benin"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:belize"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:belgium"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:belarus"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barbados"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bangladesh"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bahrain"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:finland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:france"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:french_polynesia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gabon"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gambia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:georgia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:germany"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ghana"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:gibraltar"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:greece"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:greenland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:grenada"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:guam"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:guatemala"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:guernesey"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:guinea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:guinea_bissau"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:guyana"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:haiti"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:honduras"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hong_kong"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hungary"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:iceland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:india"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:indonesia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:iran"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:iraq"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ireland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:isle_of_man"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:israel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:italy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jamaica"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:japan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jersey"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jordan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kazakhistan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kenya"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kiribati"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kosovo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kurdistan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kuwait"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kyrgyzstan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:laos"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:latvia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lebanon"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lesotho"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:liberia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:libya"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:liechtenstein"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lithuania"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:luxembourg"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:macau"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:madagascar"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:madeira"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:malawi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:malaysia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:maldives"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mali"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:malta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:marshall_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mauritania"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sint_eustatius"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:singapore"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sierra_leone"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:seychelles"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:serbia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:senegal"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scotland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:saudi_arabia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sao_tome_e_principe"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:santa_lucia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:san_marino"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:samoa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:salvador"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:saint_vincent_and_the_grenadines"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:saint_pierre_et_miquelon"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:saint_kitts_and_nevis"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:saint_helena_island"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:saint_barthelemy"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:saba"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rwanda"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:russia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:romania"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:qatar"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:puerto_rico"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:portugal"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:poland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pitcarin_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:philippines"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:peru"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:paraguay"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papua_new_guinea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:panama"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:palestine"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:palau"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:pakistan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:oman"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:norway"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:northern_ireland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:north_macedonia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:north_korea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:norfolk_island"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:niue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:nigeria"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:niger"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:nicaragua"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:new_zealand_aotearoa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:new_caledonia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:netherlands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:nepal"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:namibia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:myanmar"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mozambique"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:morocco"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:montenegro"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monserrat"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mongolia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monaco"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:moldova"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mexico"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mauritius"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:northern_mariana_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sint_maarten"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:slovakia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:slovenia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:solomon_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:somalia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:somaliland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:south_africa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:south_georgia_and_the_south_sandwich_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:south_korea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:south_sudan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spain"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sri_lanka"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sudan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:suriname"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sweden"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:switzerland"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:syria"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:taiwan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tajikistan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tanzania"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:thailand"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:togo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tokelau"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tonga"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:trinidad_and_tobago"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tristan_da_cunha_island"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tunisia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:turkey"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:turkmenistan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:turks_and_caicos_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tuvalu"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:uae"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:uganda"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ukraine"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:united_kingdom"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:united_states_virgin_islands"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:uruguay"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:usa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:uzbekistan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vanatu"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:venezuela"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vietnam"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wales"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wallis_and_futuna"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:zambia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:yemen"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:western_sahara"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:vatican"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:zimbabwe"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "decocraft_stained_glass_table_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_stained_glass_table_lamps",
+    "fallback": "Decocraft Stained Glass Table Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_dusk"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_embers"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_emerald"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_flamingo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_meadow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_monarch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_peacock"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_popsicle"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_raspberry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_sea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_sunrise"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_table_lamp_vineyard"
+      }
+    ]
+  }
+}

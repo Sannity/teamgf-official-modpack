@@ -1,0 +1,120 @@
+{
+  "id": "concretes",
+  "name": {
+    "translate": "collapsible_groups.group.concretes",
+    "fallback": "Concrete Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_brick_cracked"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_chiseled"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_pillar"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_tile"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_leaded"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_reinforced"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_sprayed"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_reinforced_tile"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:wall_concrete_leaded"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:wall_concrete_tile"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_sheet"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_quarter"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:concrete_three_quarter"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_concrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_concrete_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_concrete_tile"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_concrete_leaded"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_concrete_reinforced"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_concrete_reinforced_tile"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_concrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_concrete_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_concrete_tile"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_concrete_leaded"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:wall_concrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:wall_concrete_brick"
+      }
+    ]
+  }
+}

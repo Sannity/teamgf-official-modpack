@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_bathroom_signs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bathroom_signs",
+    "fallback": "Decocraft Bathroom Signs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_female"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_male"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_unisex"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_neutral"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_disabled"
+      }
+    ]
+  }
+}

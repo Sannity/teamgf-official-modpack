@@ -1,0 +1,11 @@
+{
+  "id": "blaze_gold_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.blaze_gold_blocks",
+    "fallback": "Blaze Gold Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "silentgear:metal_type/blaze_gold"
+  }
+}

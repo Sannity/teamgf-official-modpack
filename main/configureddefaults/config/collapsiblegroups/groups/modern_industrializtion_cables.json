@@ -1,0 +1,52 @@
+{
+  "id": "modern_industrializtion_cables",
+  "name": {
+    "translate": "collapsible_groups.group.modern_industrializtion_cables",
+    "fallback": "Modern Industrializtion Cables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "modern_industrialization:copper_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:silver_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:tin_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:cupronickel_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:electrum_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:aluminum_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:kanthal_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:annealed_copper_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:platinum_cable"
+      },
+      {
+        "type": "item",
+        "id": "modern_industrialization:superconductor_cable"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_tire_fences",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_tire_fences",
+    "fallback": "Decocraft Tire Fences"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tire_fence_gray"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Buildcraft-Legacy"
+filename = "buildcraft-1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ea4694377c383a97ee997ed1d317f9139cabf9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7202105
+project-id = 1140281

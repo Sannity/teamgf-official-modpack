@@ -1,0 +1,40 @@
+{
+  "id": "pam_s_pizzas",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_pizzas",
+    "fallback": "Pam\u0027s Pizzas"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:anchovypepperonipizzaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bbqchickenpizzaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hamandpineapplepizzaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:meatfeastpizzaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pepperonipizzaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pizzasliceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:supremepizzaitem"
+      }
+    ]
+  }
+}

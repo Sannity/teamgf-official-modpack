@@ -1,0 +1,40 @@
+{
+  "id": "prismarine_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.prismarine_blocks",
+    "fallback": "Prismarine Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:prismarine"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:prismarine_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:prismarine_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:prismarine_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:prismarine_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:prismarine_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:prismarine_brick_slab"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pam_s_salads",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_salads",
+    "fallback": "Pam\u0027s Salads"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:fruitsaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:fiestacornsaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:eggsaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:potatosaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:berryvinaigrettesaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:ceasarsaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:citrussaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mixedflowerssaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mixedsaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:nopalessaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:springsaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sunflowerbroccolisaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:threebeansaladitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:capresesaladitem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_rattan_couch_lefts",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rattan_couch_lefts",
+    "fallback": "Decocraft Rattan Couch Lefts"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_left_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_left_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_left_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_left_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_left_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_left_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_left_light_gray"
+      }
+    ]
+  }
+}

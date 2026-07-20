@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_scarecrows",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_scarecrows",
+    "fallback": "Decocraft Scarecrows"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:scarecrow_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scarecrow_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scarecrow_3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "potion_buckets",
+  "name": {
+    "translate": "collapsible_groups.group.potion_buckets",
+    "fallback": "Potion Buckets"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "immersiveengineering:potion_bucket"
+  }
+}

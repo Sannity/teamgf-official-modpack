@@ -1,0 +1,68 @@
+{
+  "id": "nagastones",
+  "name": {
+    "translate": "collapsible_groups.group.nagastones",
+    "fallback": "Nagastones"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "twilightforest:etched_nagastone"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:cracked_etched_nagastone"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:mossy_etched_nagastone"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:nagastone_pillar"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:cracked_nagastone_pillar"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:mossy_nagastone_pillar"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:nagastone_stairs_left"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:mossy_nagastone_stairs_left"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:cracked_nagastone_stairs_left"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:nagastone_stairs_right"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:cracked_nagastone_stairs_right"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:mossy_nagastone_stairs_right"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:nagastone_head"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:nagastone"
+      }
+    ]
+  }
+}

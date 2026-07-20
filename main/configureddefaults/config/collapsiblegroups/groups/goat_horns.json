@@ -1,0 +1,12 @@
+{
+  "id": "goat_horns",
+  "name": {
+    "translate": "collapsible_groups.group.goat_horns",
+    "fallback": "Goat Horns"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "minecraft:goat_horn"
+  }
+}

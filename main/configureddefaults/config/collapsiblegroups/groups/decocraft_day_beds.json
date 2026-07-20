@@ -1,0 +1,192 @@
+{
+  "id": "decocraft_day_beds",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_day_beds",
+    "fallback": "Decocraft Day Beds"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_black_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_silver_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:day_bed_gold_black"
+      }
+    ]
+  }
+}

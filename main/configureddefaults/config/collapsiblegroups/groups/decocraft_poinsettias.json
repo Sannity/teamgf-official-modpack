@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_poinsettias",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_poinsettias",
+    "fallback": "Decocraft Poinsettias"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:poinsettia_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:poinsettia_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:poinsettia_pink"
+      }
+    ]
+  }
+}

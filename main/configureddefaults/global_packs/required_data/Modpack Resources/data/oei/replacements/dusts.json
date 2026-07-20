@@ -1,0 +1,121 @@
+[
+  {
+    "matchItems": [
+      "enderio:powdered_coal"
+    ],
+    "resultItems": "modern_industrialization:coal_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_iron",
+      "enderio:powdered_iron"
+    ],
+    "resultItems": "modern_industrialization:iron_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_coke",
+      "modern_industrialization:coke_dust"
+    ],
+    "resultItems": "modern_industrialization:coke_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_copper",
+      "enderio:powdered_copper"
+    ],
+    "resultItems": "modern_industrialization:copper_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_aluminum"
+    ],
+    "resultItems": "modern_industrialization:aluminum_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_lead"
+    ],
+    "resultItems": "modern_industrialization:lead_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_silver"
+    ],
+    "resultItems": "modern_industrialization:silver_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_nickel"
+    ],
+    "resultItems": "modern_industrialization:nickel_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_uranium"
+    ],
+    "resultItems": "modern_industrialization:uranium_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_steel"
+    ],
+    "resultItems": "modern_industrialization:steel_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_gold",
+      "enderio:powdered_gold"
+    ],
+    "resultItems": "modern_industrialization:gold_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_sulfur"
+    ],
+    "resultItems": "modern_industrialization:sulfur_dust"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:dust_saltpeter",
+      "pamhc2foodcore:saltitem"
+    ],
+    "resultItems": "modern_industrialization:salt_dust"
+  },
+  {
+    "matchItems": [
+      "enderio:powdered_tin"
+    ],
+    "resultItems": "modern_industrialization:tin_dust"
+  },
+  {
+    "matchItems": [
+      "enderio:powdered_ender_pearl"
+    ],
+    "resultItems": "ae2:ender_dust"
+  },
+  {
+    "matchItems": [
+      "enderio:powdered_obsidian"
+    ],
+    "resultItems": "create:powdered_obsidian"
+  },
+  {
+    "matchItems": [
+      "enderio:powdered_lapis_lazuli"
+    ],
+    "resultItems": "modern_industrialization:lapis_dust"
+  },
+  {
+    "matchItems": [
+      "enderio:powdered_quartz"
+    ],
+    "resultItems": "modern_industrialization:quartz_dust"
+  },
+  {
+    "matchItems": [
+      "enderzoology:withering_dust"
+    ],
+    "resultItems": "enderio:withering_powder"
+  }
+]

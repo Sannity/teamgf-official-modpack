@@ -1,0 +1,11 @@
+{
+  "id": "insanite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.insanite_blocks",
+    "fallback": "Insanite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "bigreactors:metal_type/insanite"
+  }
+}

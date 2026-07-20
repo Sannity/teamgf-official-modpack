@@ -1,0 +1,48 @@
+{
+  "id": "banner_patterns",
+  "name": {
+    "translate": "collapsible_groups.group.banner_patterns",
+    "fallback": "Banner Patterns"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "twilightforest:naga_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:lich_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:minoshroom_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:hydra_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:knight_phantom_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:ur_ghast_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:quest_ram_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:snow_queen_banner_pattern"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:alpha_yeti_banner_pattern"
+      }
+    ]
+  }
+}

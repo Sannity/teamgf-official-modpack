@@ -1,0 +1,48 @@
+{
+  "id": "storage_components",
+  "name": {
+    "translate": "collapsible_groups.group.storage_components",
+    "fallback": "Storage Components"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2:cell_component_1k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:cell_component_4k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:cell_component_16k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:cell_component_64k"
+      },
+      {
+        "type": "item",
+        "id": "ae2:cell_component_256k"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:cell_component_1024"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:cell_component_4096"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:cell_component_16384"
+      },
+      {
+        "type": "item",
+        "id": "ae2additions:cell_component_65536"
+      }
+    ]
+  }
+}

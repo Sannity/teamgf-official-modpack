@@ -1,0 +1,24 @@
+{
+  "id": "decocrat_chandeliers_2",
+  "name": {
+    "translate": "collapsible_groups.group.decocrat_chandeliers_2",
+    "fallback": "Decocrat Chandeliers 2"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:chandelier_2_black_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chandelier_2_silver_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chandelier_2_gold_flipbook"
+      }
+    ]
+  }
+}

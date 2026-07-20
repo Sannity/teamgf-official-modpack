@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_fancy_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_fancy_lamps",
+    "fallback": "Bibliocraft Fancy Gold Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:fancy_lamps/gold"
+  }
+}

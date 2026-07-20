@@ -1,0 +1,44 @@
+{
+  "id": "infinity_trident",
+  "name": {
+    "translate": "collapsible_groups.group.infinity_trident",
+    "fallback": "Infinity Trident"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":0,\"industrialforegoing:infinity_item_special\":false,\"industrialforegoing:infinity_item_selected_tier\":\"poor\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":4000000,\"industrialforegoing:infinity_item_special\":false,\"industrialforegoing:infinity_item_selected_tier\":\"common\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":16000000,\"industrialforegoing:infinity_item_special\":false,\"industrialforegoing:infinity_item_selected_tier\":\"uncommon\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":80000000,\"industrialforegoing:infinity_item_special\":false,\"industrialforegoing:infinity_item_selected_tier\":\"rare\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":480000000,\"industrialforegoing:infinity_item_special\":false,\"industrialforegoing:infinity_item_selected_tier\":\"epic\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":3360000000,\"industrialforegoing:infinity_item_special\":false,\"industrialforegoing:infinity_item_selected_tier\":\"legendary\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":9223372036854775807,\"industrialforegoing:infinity_item_special\":true,\"industrialforegoing:infinity_item_selected_tier\":\"artifact\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:infinity_trident\",\"components\":{\"industrialforegoing:infinity_item_power\":9223372036854775807,\"industrialforegoing:infinity_item_special\":false,\"industrialforegoing:infinity_item_selected_tier\":\"artifact\",\"industrialforegoing:infinity_can_charge\":true,\"industrialforegoing:infinity_trident_loyalty\":0,\"industrialforegoing:infinity_trident_riptide\":0,\"industrialforegoing:infinity_trident_channeling\":false}}"
+      }
+    ]
+  }
+}

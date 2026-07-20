@@ -1,0 +1,11 @@
+{
+  "id": "fluix_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.fluix_blocks",
+    "fallback": "Fluix Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "ae2:dust_type/fluix"
+  }
+}

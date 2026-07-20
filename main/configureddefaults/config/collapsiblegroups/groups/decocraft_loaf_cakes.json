@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_loaf_cakes",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_loaf_cakes",
+    "fallback": "Decocraft Loaf Cakes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:blueberry_loaf_cake"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lemon_loaf_cake"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:strawberry_loaf_cake"
+      }
+    ]
+  }
+}

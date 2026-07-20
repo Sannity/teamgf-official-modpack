@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_bird_cages",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bird_cages",
+    "fallback": "Decocraft Bird Cages"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:birdcage_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:birdcage_gold"
+      }
+    ]
+  }
+}

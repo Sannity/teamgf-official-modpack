@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_expresso_machine",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_expresso_machine",
+    "fallback": "Decocraft Expresso Machine"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:expresso_machine_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:expresso_machine_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:expresso_machine_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:expresso_machine_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:expresso_machine_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:expresso_machine_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:expresso_machine_black"
+      }
+    ]
+  }
+}

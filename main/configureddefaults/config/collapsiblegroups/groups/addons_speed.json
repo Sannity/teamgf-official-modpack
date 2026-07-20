@@ -1,0 +1,20 @@
+{
+  "id": "addons_speed",
+  "name": {
+    "translate": "collapsible_groups.group.addons_speed",
+    "fallback": "Addons: Speed"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:speed_addon_tier_1\",\"components\":{\"titanium:augments\":{\"Speed\":2.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:speed_addon_tier_2\",\"components\":{\"titanium:augments\":{\"Speed\":3.0}}}"
+      }
+    ]
+  }
+}

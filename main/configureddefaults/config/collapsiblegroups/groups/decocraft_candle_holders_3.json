@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_candle_holders_3",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_candle_holders_3",
+    "fallback": "Decocraft Candle Holders 3"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:candle_holder_3_black_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:candle_holder_3_silver_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:candle_holder_3_gold_flipbook"
+      }
+    ]
+  }
+}

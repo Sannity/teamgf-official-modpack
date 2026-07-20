@@ -1,0 +1,12 @@
+{
+  "id": "nuggets",
+  "name": {
+    "translate": "collapsible_groups.group.nuggets",
+    "fallback": "Nuggets"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "c:nuggets"
+  }
+}

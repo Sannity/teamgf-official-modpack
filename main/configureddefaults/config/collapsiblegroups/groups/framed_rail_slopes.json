@@ -1,0 +1,44 @@
+{
+  "id": "framed_rail_slopes",
+  "name": {
+    "translate": "collapsible_groups.group.framed_rail_slopes",
+    "fallback": "Framed Rail Slopes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "framedblocks:framed_rail_slope"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_powered_rail_slope"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_detector_rail_slope"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_activator_rail_slope"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_rail_slope"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_powered_rail_slope"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_detector_rail_slope"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_activator_rail_slope"
+      }
+    ]
+  }
+}

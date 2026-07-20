@@ -1,0 +1,35 @@
+{
+  "id": "pressure_plates",
+  "name": {
+    "translate": "collapsible_groups.group.pressure_plates",
+    "fallback": "Pressure Plates"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "minecraft:pressure_plates"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_stone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_obsidian_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_gold_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_iron_pressure_plate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bort_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.bort_blocks",
+    "fallback": "Bort Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "silentgear:gem_type/bort"
+  }
+}

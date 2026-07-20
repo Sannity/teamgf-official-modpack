@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_scales",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_scales",
+    "fallback": "Decocraft Scales"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:scale_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scale_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scale_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scale_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scale_tilted_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scale_tilted_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scale_tilted_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:scale_tilted_brass"
+      }
+    ]
+  }
+}

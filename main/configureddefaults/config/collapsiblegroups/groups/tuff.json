@@ -1,0 +1,87 @@
+{
+  "id": "tuff",
+  "name": {
+    "translate": "collapsible_groups.group.tuff",
+    "fallback": "Tuff"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:cut_tuff_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_tuff_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_tuff_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_tuff_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:tuff_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:tuff_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:tuff_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_tuff"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_tuff"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_tuff_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_tuff_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:tuff_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_tuff_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:tuff_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:tuff_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:tuff_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_tuff_bricks"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/tuff"
+      },
+      {
+        "block_tag": "minecraft:stone_type/tuff"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dark_prismarine_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.dark_prismarine_blocks",
+    "fallback": "Dark Prismarine Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:dark_prismarine"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:dark_prismarine_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:dark_prismarine_slab"
+      }
+    ]
+  }
+}

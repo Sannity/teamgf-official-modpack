@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_tall_table_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_tall_table_lamps",
+    "fallback": "Decocraft Tall Table Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_tall_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_tall_clay"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_tall_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_tall_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_tall_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:table_lamp_tall_white"
+      }
+    ]
+  }
+}

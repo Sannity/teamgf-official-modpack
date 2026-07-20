@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_piano_benches",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_piano_benches",
+    "fallback": "Decocraft Piano Benches"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:piano_bench_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:piano_bench_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:piano_bench_spruce"
+      }
+    ]
+  }
+}

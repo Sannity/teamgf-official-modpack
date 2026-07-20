@@ -1,0 +1,28 @@
+{
+  "id": "framed_fancy_rails",
+  "name": {
+    "translate": "collapsible_groups.group.framed_fancy_rails",
+    "fallback": "Framed Fancy Rails"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_activator_rail"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_detector_rail"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_powered_rail"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fancy_rail"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_toilets",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_toilets",
+    "fallback": "Decocraft Toilets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:toilet_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_aqua"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_lavender"
+      }
+    ]
+  }
+}

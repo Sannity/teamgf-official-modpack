@@ -1,0 +1,60 @@
+{
+  "id": "decocraft_kotatsus",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_kotatsus",
+    "fallback": "Decocraft Kotatsus"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_kanagawa"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_blossom"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kotatsu_black"
+      }
+    ]
+  }
+}

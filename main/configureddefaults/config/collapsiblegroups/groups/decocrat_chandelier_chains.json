@@ -1,0 +1,28 @@
+{
+  "id": "decocrat_chandelier_chains",
+  "name": {
+    "translate": "collapsible_groups.group.decocrat_chandelier_chains",
+    "fallback": "Decocrat Chandelier Chains"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:chandelier_chain_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chandelier_chain_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chandelier_chain_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chandelier_chain_brass"
+      }
+    ]
+  }
+}

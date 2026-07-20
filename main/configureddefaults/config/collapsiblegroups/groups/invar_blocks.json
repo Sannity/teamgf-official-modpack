@@ -1,0 +1,11 @@
+{
+  "id": "invar_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.invar_blocks",
+    "fallback": "Invar Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/invar"
+  }
+}

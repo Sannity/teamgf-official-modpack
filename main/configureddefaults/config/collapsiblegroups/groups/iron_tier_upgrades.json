@@ -1,0 +1,24 @@
+{
+  "id": "iron_tier_upgrades",
+  "name": {
+    "translate": "collapsible_groups.group.iron_tier_upgrades",
+    "fallback": "Iron Tier Upgrades"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:iron_to_gold_tier_upgrade"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:iron_to_netherite_tier_upgrade"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:iron_to_diamond_tier_upgrade"
+      }
+    ]
+  }
+}

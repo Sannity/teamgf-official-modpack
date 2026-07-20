@@ -1,0 +1,76 @@
+{
+  "id": "decocraft_paper_picados",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_paper_picados",
+    "fallback": "Decocraft Paper Picados"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:papel_picado_black"
+      }
+    ]
+  }
+}

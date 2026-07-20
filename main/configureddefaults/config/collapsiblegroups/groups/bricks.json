@@ -1,0 +1,28 @@
+{
+  "id": "bricks",
+  "name": {
+    "translate": "collapsible_groups.group.bricks",
+    "fallback": "Bricks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:brick_wall"
+      }
+    ]
+  }
+}

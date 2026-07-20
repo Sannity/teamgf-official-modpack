@@ -1,0 +1,64 @@
+{
+  "id": "breads",
+  "name": {
+    "translate": "collapsible_groups.group.breads",
+    "fallback": "Breads"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carrotbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:pumpkinbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:garlicbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cornbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:banananutbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cinnamonbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:fairybreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:festivalbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:fruitcreamfestivalbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lavendershortbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sausageinbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:walnutraisinbreaditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:vanillaconchasbreaditem"
+      }
+    ]
+  }
+}

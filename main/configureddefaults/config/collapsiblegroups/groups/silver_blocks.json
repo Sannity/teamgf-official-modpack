@@ -1,0 +1,18 @@
+{
+  "id": "silver_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.silver_blocks",
+    "fallback": "Silver Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "modern_industrialization:metal_type/silver"
+      },
+      {
+        "block_tag": "projectred_exploration:metal_type/silver"
+      }
+    ]
+  }
+}

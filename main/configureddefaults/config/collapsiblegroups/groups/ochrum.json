@@ -1,0 +1,35 @@
+{
+  "id": "ochrum",
+  "name": {
+    "translate": "collapsible_groups.group.ochrum",
+    "fallback": "Ochrum"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:cut_ochrum_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_ochrum_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_ochrum_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_ochrum_brick_slab"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/ochrum"
+      },
+      {
+        "block_tag": "create:stone_type/ochrum"
+      }
+    ]
+  }
+}

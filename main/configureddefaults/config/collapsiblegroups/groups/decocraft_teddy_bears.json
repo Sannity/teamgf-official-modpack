@@ -1,0 +1,64 @@
+{
+  "id": "decocraft_teddy_bears",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_teddy_bears",
+    "fallback": "Decocraft Teddy Bears"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:teddy_bear_rainbow"
+      }
+    ]
+  }
+}

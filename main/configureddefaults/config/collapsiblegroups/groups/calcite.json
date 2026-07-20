@@ -1,0 +1,32 @@
+{
+  "id": "calcite",
+  "name": {
+    "translate": "collapsible_groups.group.calcite",
+    "fallback": "Calcite"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:cut_calcite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_calcite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_calcite_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_calcite_brick_slab"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/calcite"
+      }
+    ]
+  }
+}

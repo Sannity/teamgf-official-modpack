@@ -1,0 +1,24 @@
+{
+  "id": "flowers",
+  "name": {
+    "translate": "collapsible_groups.group.flowers",
+    "fallback": "Flowers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "minecraft:flowers"
+      },
+      {
+        "block_tag": "minecraft:small_flowers"
+      },
+      {
+        "block_tag": "minecraft:tall_flowers"
+      },
+      {
+        "block_tag": "witchery:torchflower"
+      }
+    ]
+  }
+}

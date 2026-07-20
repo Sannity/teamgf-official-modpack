@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_soda_machines",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_soda_machines",
+    "fallback": "Decocraft Soda Machines"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:soda_machine_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:soda_machine_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:soda_machine_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:soda_machine_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:soda_machine_black"
+      }
+    ]
+  }
+}

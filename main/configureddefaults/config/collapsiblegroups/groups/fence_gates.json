@@ -1,0 +1,25 @@
+{
+  "id": "fence_gates",
+  "name": {
+    "translate": "collapsible_groups.group.fence_gates",
+    "fallback": "Fence Gates"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:fence_gates"
+      },
+      {
+        "block_tag": "c:fence_gates/wooden"
+      },
+      {
+        "block_tag": "minecraft:fence_gates"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_fence_gate"
+      }
+    ]
+  }
+}

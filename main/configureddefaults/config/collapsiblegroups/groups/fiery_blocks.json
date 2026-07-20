@@ -1,0 +1,11 @@
+{
+  "id": "fiery_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.fiery_blocks",
+    "fallback": "Fiery Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "twilightforest:metal_type/fiery"
+  }
+}

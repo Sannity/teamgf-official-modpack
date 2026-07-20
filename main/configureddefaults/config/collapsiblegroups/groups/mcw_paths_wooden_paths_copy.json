@@ -1,0 +1,26 @@
+{
+  "id": "mcw_paths_wooden_paths_copy",
+  "name": {
+    "translate": "collapsible_groups.group.mcw_paths_wooden_paths_copy",
+    "fallback": "Macaw\u0027s Paths: Wooden Paths Copy"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "mcwpaths:wooden_paths"
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "path"
+          }
+        ]
+      }
+    ]
+  }
+}

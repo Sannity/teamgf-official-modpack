@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_display_case",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_display_case",
+    "fallback": "Bibliocraft Display Case"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:display_cases"
+  }
+}

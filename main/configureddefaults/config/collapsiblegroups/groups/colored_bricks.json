@@ -1,0 +1,21 @@
+{
+  "id": "colored_bricks",
+  "name": {
+    "translate": "collapsible_groups.group.colored_bricks",
+    "fallback": "Colored Bricks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "excessive_utilities:paintbrush_bricks"
+      },
+      {
+        "not": {
+          "type": "item",
+          "id": "minecraft:bricks"
+        }
+      }
+    ]
+  }
+}

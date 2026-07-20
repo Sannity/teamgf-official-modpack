@@ -1,0 +1,52 @@
+{
+  "id": "pam_s_nuts",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_nuts",
+    "fallback": "Pam\u0027s Nuts"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2crops"
+          },
+          {
+            "type": "item",
+            "tag": "c:nuts"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2trees"
+          },
+          {
+            "type": "item",
+            "tag": "c:nuts"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2foodextended"
+          },
+          {
+            "type": "item",
+            "tag": "c:nuts"
+          }
+        ]
+      },
+      {
+        "type": "item",
+        "id": "pamhc2trees:coconutitem"
+      }
+    ]
+  }
+}

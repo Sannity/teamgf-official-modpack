@@ -1,0 +1,300 @@
+{
+  "id": "pam_s_pie",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_pie",
+    "fallback": "Pam\u0027s Pie"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:limepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:durianpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gooseberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:tamarindpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rambutanpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:passionfruitpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lycheepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:guavapieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:jackfruitpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:breadfruitpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:starfruitpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pomegranatepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:persimmonpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:papayapieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mangopieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapefruitpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:figpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dragonfruitpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:datepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bananapieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:apricotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soursoppieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pawpawpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:plumpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pearpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peachpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:orangepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pineapplepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:kiwipieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:greengrapepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blackberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blueberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cactusfruitpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:candleberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cranberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:elderberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:huckleberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:juniperberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mulberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:raspberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cantaloupepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:applepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberrypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:caramelpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carrotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:choruspieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chocolatepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:honeypieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chickenpotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:beefpotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:porkpotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:fishpotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:muttonpotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:rabbitpotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:veggiepotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melonpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cottagepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:keylimepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:meatpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mincepieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pecanpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:shepardspieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:spinachpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberryrhubarbpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sweetpotatopieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:rottenpotpieitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimepieitem"
+      }
+    ]
+  }
+}

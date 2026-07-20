@@ -1,0 +1,44 @@
+{
+  "id": "bottom_cabinet_corner_outers_2",
+  "name": {
+    "translate": "collapsible_groups.group.bottom_cabinet_corner_outers_2",
+    "fallback": "Decocraft Bottom Cabinet Corner Outers 2"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_outer_2_black"
+      }
+    ]
+  }
+}

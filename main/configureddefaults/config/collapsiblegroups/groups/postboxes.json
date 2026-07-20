@@ -1,0 +1,12 @@
+{
+  "id": "postboxes",
+  "name": {
+    "translate": "collapsible_groups.group.postboxes",
+    "fallback": "Postboxes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "create:postboxes"
+  }
+}

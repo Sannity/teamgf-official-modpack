@@ -1,0 +1,19 @@
+{
+  "id": "ores",
+  "name": {
+    "translate": "collapsible_groups.group.ores",
+    "fallback": "Ores"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:ores"
+      },
+      {
+        "type": "item",
+        "id": "denseores:dense_nether_quartz_ore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "stone_bricks",
+  "name": {
+    "translate": "collapsible_groups.group.stone_bricks",
+    "fallback": "Stone Bricks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cracked_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:infested_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:infested_mossy_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:infested_chiseled_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:infested_cracked_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:edged_stone_bricks"
+      }
+    ]
+  }
+}

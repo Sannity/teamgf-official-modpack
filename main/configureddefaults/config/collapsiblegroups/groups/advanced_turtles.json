@@ -1,0 +1,12 @@
+{
+  "id": "advanced_turtles",
+  "name": {
+    "translate": "collapsible_groups.group.advanced_turtles",
+    "fallback": "Advanced Turtles"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "computercraft:turtle_advanced"
+  }
+}

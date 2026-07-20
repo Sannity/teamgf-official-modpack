@@ -1,0 +1,220 @@
+{
+  "id": "limited_barrels_i",
+  "name": {
+    "translate": "collapsible_groups.group.limited_barrels_i",
+    "fallback": "Limited Barrels I"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"acacia\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"birch\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"crimson\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"dark_oak\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"jungle\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"oak\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"spruce\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"warped\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"mangrove\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"cherry\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"bamboo\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:mahogany\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:mangrove\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:sorting\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:magic\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:time\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:pine\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:mining\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:canopy\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:transformation\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:twilight_oak\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:umbran\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:maple\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:empyreal\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"twilightforest:dark\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:jacaranda\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:fir\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"witchery:hawthorn\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:willow\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"witchery:alder\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"witchery:rowan\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:palm\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:hellbark\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:dead\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedstorage:wood_type\":\"biomesoplenty:redwood\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-393218,\"sophisticatedcore:accent_color\":-393218}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-425955,\"sophisticatedcore:accent_color\":-425955}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-3715395,\"sophisticatedcore:accent_color\":-3715395}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-12930086,\"sophisticatedcore:accent_color\":-12930086}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-75715,\"sophisticatedcore:accent_color\":-75715}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-8337633,\"sophisticatedcore:accent_color\":-8337633}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-816214,\"sophisticatedcore:accent_color\":-816214}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-12103854,\"sophisticatedcore:accent_color\":-12103854}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-6447721,\"sophisticatedcore:accent_color\":-6447721}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-15295332,\"sophisticatedcore:accent_color\":-15295332}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-7785800,\"sophisticatedcore:accent_color\":-7785800}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-12827478,\"sophisticatedcore:accent_color\":-12827478}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-8170446,\"sophisticatedcore:accent_color\":-8170446}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-10585066,\"sophisticatedcore:accent_color\":-10585066}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-5231066,\"sophisticatedcore:accent_color\":-5231066}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-14869215,\"sophisticatedcore:accent_color\":-14869215}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"sophisticatedstorage:limited_barrel_1\",\"components\":{\"sophisticatedcore:main_color\":-75715,\"sophisticatedcore:accent_color\":-8337633}}"
+      }
+    ]
+  }
+}

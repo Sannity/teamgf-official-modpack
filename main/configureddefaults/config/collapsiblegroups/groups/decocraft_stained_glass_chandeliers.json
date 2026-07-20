@@ -1,0 +1,60 @@
+{
+  "id": "decocraft_stained_glass_chandeliers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_stained_glass_chandeliers",
+    "fallback": "Decocraft Stained Glass Chandeliers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_dusk"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_embers"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_emerald"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_flamingo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_meadow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_monarch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_peacock"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_popsicle"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_raspberry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_sea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_vineyard"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_chandelier_sunrise"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_tinsels_1",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_tinsels_1",
+    "fallback": "Decocraft Tinsels"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_1_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_1_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_2_bg"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_2_rb"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_2_rg"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_2_sg"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tinsel_5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+name = "Agricraft Create Compat"
+filename = "agcraftcompat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "308991823a5d9ef806033d2e39a37ad2f2a28d8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8222919
+project-id = 1570163

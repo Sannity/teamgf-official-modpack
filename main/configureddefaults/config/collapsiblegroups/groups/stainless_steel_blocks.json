@@ -1,0 +1,11 @@
+{
+  "id": "stainless_steel_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.stainless_steel_blocks",
+    "fallback": "Stainless Steel Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/stainless_steel"
+  }
+}

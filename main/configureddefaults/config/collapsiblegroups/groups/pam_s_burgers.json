@@ -1,0 +1,72 @@
+{
+  "id": "pam_s_burgers",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_burgers",
+    "fallback": "Pam\u0027s Burgers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basichamburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basiccheeseburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:baconcheeseburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basicveggieburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:baconmushroomburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:deluxecheeseburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:beetburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:coleslawburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gourmetbeefburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gourmetmuttonburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gourmetporkburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:onionhamburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:paradiseburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:jalapenoburgeritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:rottenburgeritem"
+      }
+    ]
+  }
+}

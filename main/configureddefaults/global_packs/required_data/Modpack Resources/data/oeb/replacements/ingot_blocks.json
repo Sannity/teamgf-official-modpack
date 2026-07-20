@@ -1,0 +1,51 @@
+[
+  {
+    "matchBlock": [
+      "immersiveengineering:storage_aluminum"
+    ],
+    "resultBlock": "modern_industrialization:aluminum_block"
+  },
+  {
+    "matchBlock": [
+      "immersiveengineering:storage_lead"
+    ],
+    "resultBlock": "modern_industrialization:lead_block"
+  },
+  {
+    "matchBlock": [
+      "immersiveengineering:storage_silver",
+      "projectred_exploration:silver_block"
+    ],
+    "resultBlock": "modern_industrialization:silver_block"
+  },
+  {
+    "matchBlock": [
+      "immersiveengineering:storage_nickel"
+    ],
+    "resultBlock": "modern_industrialization:nickel_block"
+  },
+  {
+    "matchBlock": [
+      "immersiveengineering:storage_uranium"
+    ],
+    "resultBlock": "modern_industrialization:uranium_block"
+  },
+  {
+    "matchBlock": [
+      "immersiveengineering:storage_electrum"
+    ],
+    "resultBlock": "modern_industrialization:electrum_block"
+  },
+  {
+    "matchBlock": [
+      "immersiveengineering:storage_steel"
+    ],
+    "resultBlock": "modern_industrialization:steel_block"
+  },
+  {
+    "matchBlock": [
+      "projectred_exploration:tin_block"
+    ],
+    "resultBlock": "modern_industrialization:tin_block"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "matchItems": [
+        "immersiveengineering:raw_block_lead"
+    ],
+    "resultItems": "modern_industrialization:raw_lead_block"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:raw_block_silver",
+        "projectred_exploration:raw_silver_block"
+    ],
+    "resultItems": "modern_industrialization:raw_silver_block"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:raw_block_nickel"
+    ],
+    "resultItems": "modern_industrialization:raw_nickel_block"
+  },
+  {
+    "matchItems": [
+        "immersiveengineering:raw_block_uranium"
+    ],
+    "resultItems": "modern_industrialization:raw_uranium_block"
+  },
+  {
+    "matchItems": [
+        "projectred_exploration:raw_tin_block"
+    ],
+    "resultItems": "modern_industrialization:raw_tin_block"
+  }
+]

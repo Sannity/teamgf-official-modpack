@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_stockings",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_stockings",
+    "fallback": "Decocraft Stockings"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:stocking_1_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stocking_1_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stocking_1_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stocking_2_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stocking_2_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stocking_2_blue"
+      }
+    ]
+  }
+}

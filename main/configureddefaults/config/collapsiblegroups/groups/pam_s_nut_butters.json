@@ -1,0 +1,48 @@
+{
+  "id": "pam_s_nut_butters",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_nut_butters",
+    "fallback": "Pam\u0027s Nut Butters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:almondbutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cashewbutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:chestnutbutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hazelnutbutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peanutbutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pecanbutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pistachiobutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:walnutbutteritem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sunflowerseedsbutteritem"
+      }
+    ]
+  }
+}

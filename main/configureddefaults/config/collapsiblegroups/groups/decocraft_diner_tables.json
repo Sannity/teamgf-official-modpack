@@ -1,0 +1,68 @@
+{
+  "id": "decocraft_diner_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_diner_tables",
+    "fallback": "Decocraft Diner Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_table_black"
+      }
+    ]
+  }
+}

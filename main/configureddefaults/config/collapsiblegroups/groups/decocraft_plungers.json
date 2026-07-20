@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_plungers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_plungers",
+    "fallback": "Decocraft Plungers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:plunger_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:plunger_black"
+      }
+    ]
+  }
+}

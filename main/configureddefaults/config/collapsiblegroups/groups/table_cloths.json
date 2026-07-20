@@ -1,0 +1,12 @@
+{
+  "id": "table_cloths",
+  "name": {
+    "translate": "collapsible_groups.group.table_cloths",
+    "fallback": "Table Cloths"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "create:table_cloths"
+  }
+}

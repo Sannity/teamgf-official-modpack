@@ -1,0 +1,44 @@
+{
+  "id": "chiseled_copper_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.chiseled_copper_blocks",
+    "fallback": "Chiseled Copper Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_copper"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:exposed_chiseled_copper"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:weathered_chiseled_copper"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:oxidized_chiseled_copper"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_exposed_chiseled_copper"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_weathered_chiseled_copper"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_oxidized_chiseled_copper"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_chiseled_copper"
+      }
+    ]
+  }
+}

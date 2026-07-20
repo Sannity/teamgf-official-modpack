@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_backpacks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_backpacks",
+    "fallback": "Decocraft Backpacks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:backpack_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:backpack_black"
+      }
+    ]
+  }
+}

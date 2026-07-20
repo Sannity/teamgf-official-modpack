@@ -1,0 +1,19 @@
+{
+  "id": "hanging_signs",
+  "name": {
+    "translate": "collapsible_groups.group.hanging_signs",
+    "fallback": "Hanging Signs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "tag": "minecraft:hanging_signs"
+      },
+      {
+        "block_tag": "minecraft:all_hanging_signs"
+      }
+    ]
+  }
+}

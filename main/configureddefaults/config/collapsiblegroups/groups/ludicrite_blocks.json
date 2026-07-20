@@ -1,0 +1,11 @@
+{
+  "id": "ludicrite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.ludicrite_blocks",
+    "fallback": "Ludicrite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "bigreactors:metal_type/ludicrite"
+  }
+}

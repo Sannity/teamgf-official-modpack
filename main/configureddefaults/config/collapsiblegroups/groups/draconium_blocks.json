@@ -1,0 +1,11 @@
+{
+  "id": "draconium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.draconium_blocks",
+    "fallback": "Draconium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "draconicevolution:metal_type/draconium"
+  }
+}

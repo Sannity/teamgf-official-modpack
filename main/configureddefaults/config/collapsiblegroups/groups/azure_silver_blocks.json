@@ -1,0 +1,11 @@
+{
+  "id": "azure_silver_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.azure_silver_blocks",
+    "fallback": "Azure Silver Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "silentgear:metal_type/azure_silver"
+  }
+}

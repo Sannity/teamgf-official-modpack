@@ -1,0 +1,60 @@
+{
+  "id": "decocraft_typewriters",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_typewriters",
+    "fallback": "Decocraft Typewriters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:typewriter_magenta"
+      }
+    ]
+  }
+}

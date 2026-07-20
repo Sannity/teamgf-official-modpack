@@ -1,0 +1,11 @@
+{
+  "id": "bronze_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.bronze_blocks",
+    "fallback": "Bronze Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/bronze"
+  }
+}

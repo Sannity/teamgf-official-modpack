@@ -1,0 +1,35 @@
+{
+  "id": "scoria",
+  "name": {
+    "translate": "collapsible_groups.group.scoria",
+    "fallback": "Scoria"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:cut_scoria_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_scoria_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_scoria_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_scoria_brick_slab"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/scoria"
+      },
+      {
+        "block_tag": "create:stone_type/scoria"
+      }
+    ]
+  }
+}

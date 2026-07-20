@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_monitors",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_monitors",
+    "fallback": "Decocraft Monitors"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:monitor_1_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_1_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_1_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_2_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_2_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_2_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_3_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_3_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:monitor_3_black"
+      }
+    ]
+  }
+}

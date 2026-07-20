@@ -1,0 +1,11 @@
+{
+  "id": "crimson_iron_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.crimson_iron_blocks",
+    "fallback": "Crimson Iron Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "silentgear:metal_type/crimson_iron"
+  }
+}

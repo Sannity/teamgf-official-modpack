@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_bottom_cabinet_corner_inners",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bottom_cabinet_corner_inners",
+    "fallback": "Decocraft Bottom Cabinet Corner Inners"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_corner_inner_black"
+      }
+    ]
+  }
+}

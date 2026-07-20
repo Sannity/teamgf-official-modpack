@@ -1,0 +1,248 @@
+{
+  "id": "decocrat_presents",
+  "name": {
+    "translate": "collapsible_groups.group.decocrat_presents",
+    "fallback": "Decocrat Presents"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:present_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_long_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_round_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_11"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_10"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_9"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_8"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_7"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_6"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_5"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_trio_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:present_small_pink"
+      }
+    ]
+  }
+}

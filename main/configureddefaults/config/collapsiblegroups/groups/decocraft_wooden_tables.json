@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_wooden_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wooden_tables",
+    "fallback": "Decocraft Wooden Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wooden_table_black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "end_stone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.end_stone_blocks",
+    "fallback": "End Stone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:end_stone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:end_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:end_stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:end_stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:end_stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:algal_end_stone"
+      }
+    ]
+  }
+}

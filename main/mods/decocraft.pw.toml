@@ -1,0 +1,13 @@
+name = "Decocraft"
+filename = "decocraft-3.0.11-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6704940aa352d1acf3cf9362e5ef8dd4e65b563c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7899863
+project-id = 79616

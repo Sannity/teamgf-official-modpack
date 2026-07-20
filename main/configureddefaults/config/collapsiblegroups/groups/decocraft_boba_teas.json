@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_boba_teas",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_boba_teas",
+    "fallback": "Decocraft Boba Teas"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:boba_tea_matcha"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:boba_tea_oolong"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:boba_tea_strawberry"
+      }
+    ]
+  }
+}

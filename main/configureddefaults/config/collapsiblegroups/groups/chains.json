@@ -1,0 +1,23 @@
+{
+  "id": "chains",
+  "name": {
+    "translate": "collapsible_groups.group.chains",
+    "fallback": "Chains"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:chains"
+      },
+      {
+        "type": "item",
+        "id": "bibliocraft:gold_chain"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_chain"
+      }
+    ]
+  }
+}

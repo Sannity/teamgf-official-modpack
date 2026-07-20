@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_coffins",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_coffins",
+    "fallback": "Decocraft Coffins"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:coffin_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:coffin_2"
+      }
+    ]
+  }
+}

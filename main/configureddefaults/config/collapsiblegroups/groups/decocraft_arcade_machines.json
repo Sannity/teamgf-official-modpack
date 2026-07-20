@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_arcade_machines",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_arcade_machines",
+    "fallback": "Decocraft Arcade Machines"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:arcade_machine_dk"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arcade_machine_pacman"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arcade_machine_pong"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arcade_machine_race"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arcade_machine_snake"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arcade_machine_space_invaders"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arcade_machine_tetris"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "metal_bars",
+  "name": {
+    "translate": "collapsible_groups.group.metal_bars",
+    "fallback": "Metal Bars"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:iron_bars"
+      },
+      {
+        "type": "item",
+        "id": "create:andesite_bars"
+      },
+      {
+        "type": "item",
+        "id": "create:brass_bars"
+      },
+      {
+        "type": "item",
+        "id": "create:copper_bars"
+      },
+      {
+        "type": "item",
+        "id": "enderio:dark_steel_bars"
+      },
+      {
+        "type": "item",
+        "id": "enderio:end_steel_bars"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_bars"
+      }
+    ]
+  }
+}

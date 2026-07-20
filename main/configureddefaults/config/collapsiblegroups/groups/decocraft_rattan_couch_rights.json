@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_rattan_couch_rights",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rattan_couch_rights",
+    "fallback": "Decocraft Rattan Couch Rights"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_right_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_right_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_right_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_right_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_right_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_right_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_right_light_gray"
+      }
+    ]
+  }
+}

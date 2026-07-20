@@ -1,0 +1,48 @@
+{
+  "id": "cobblestone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.cobblestone_blocks",
+    "fallback": "Cobblestone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:cobblestone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cobblestone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cobblestone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cobblestone_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_cobblestone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_cobblestone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_cobblestone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:mossy_cobblestone_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:infested_cobblestone"
+      }
+    ]
+  }
+}

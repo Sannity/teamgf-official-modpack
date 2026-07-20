@@ -1,0 +1,66 @@
+{
+  "id": "black_sand_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.black_sand_blocks",
+    "fallback": "Black Sand Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "biomesoplenty:mossy_black_sand"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:black_sand"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:black_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:cut_black_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:cut_black_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:chiseled_black_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:smooth_black_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:smooth_black_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:smooth_black_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:black_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:black_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:black_sandstone_wall"
+      },
+      {
+        "block_tag": "stonezone:biomesoplenty/black_sandstone"
+      },
+      {
+        "block_tag": "biomesoplenty:stone_type/black_sandstone"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ridiculite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.ridiculite_blocks",
+    "fallback": "Ridiculite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "bigreactors:metal_type/ridiculite"
+  }
+}

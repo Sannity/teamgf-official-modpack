@@ -1,0 +1,60 @@
+{
+  "id": "pam_s_ground_meats",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_ground_meats",
+    "fallback": "Pam\u0027s Ground Meats"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:groundchickenitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookedgroundchickenitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:groundbeefitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookedgroundbeefitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:groundporkitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookedgroundporkitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:groundfishitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookedgroundfishitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:groundmuttonitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookedgroundmuttonitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:groundrabbititem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookedgroundrabbititem"
+      }
+    ]
+  }
+}

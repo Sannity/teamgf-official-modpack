@@ -1,0 +1,13 @@
+name = "Missing Mods Checker"
+filename = "missingmodschecker-neoforge-1.0.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c0f5646b8ffca8df77bbb658dd5b44fe642a54b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7688984
+project-id = 1464437

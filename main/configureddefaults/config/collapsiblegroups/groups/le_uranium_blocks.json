@@ -1,0 +1,11 @@
+{
+  "id": "le_uranium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.le_uranium_blocks",
+    "fallback": "Le Uranium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/le_uranium"
+  }
+}

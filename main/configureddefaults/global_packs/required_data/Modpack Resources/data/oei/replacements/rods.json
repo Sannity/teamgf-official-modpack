@@ -1,0 +1,20 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:stick_iron"
+    ],
+    "resultItems": "modern_industrialization:iron_rod"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:stick_steel"
+    ],
+    "resultItems": "modern_industrialization:steel_rod"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:stick_aluminum"
+    ],
+    "resultItems": "modern_industrialization:aluminum_rod"
+  }
+]

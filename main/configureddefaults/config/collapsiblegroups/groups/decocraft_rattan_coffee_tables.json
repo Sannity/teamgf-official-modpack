@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_rattan_coffee_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rattan_coffee_tables",
+    "fallback": "Decocraft Rattan Coffee Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rattan_coffee_table_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_coffee_table_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_coffee_table_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_coffee_table_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_coffee_table_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_coffee_table_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_coffee_table_light_gray"
+      }
+    ]
+  }
+}

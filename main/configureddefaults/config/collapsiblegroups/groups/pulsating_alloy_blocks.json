@@ -1,0 +1,11 @@
+{
+  "id": "pulsating_alloy_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.pulsating_alloy_blocks",
+    "fallback": "Pulsating Alloy Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/pulsating_alloy"
+  }
+}

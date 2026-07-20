@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_printer",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_printer",
+    "fallback": "Decocraft Printer"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:printer_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:printer_black"
+      }
+    ]
+  }
+}

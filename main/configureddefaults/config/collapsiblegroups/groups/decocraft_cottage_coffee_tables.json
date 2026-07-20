@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_cottage_coffee_tables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cottage_coffee_tables",
+    "fallback": "Decocraft Cottage Coffee Tables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:cottage_coffee_table"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cottage_coffee_table_long"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cottage_coffee_table_oval"
+      }
+    ]
+  }
+}

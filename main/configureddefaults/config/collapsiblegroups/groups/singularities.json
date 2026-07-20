@@ -1,0 +1,20 @@
+{
+  "id": "singularities",
+  "name": {
+    "translate": "collapsible_groups.group.singularities",
+    "fallback": "Singularities"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "avaritia:eternal_singularity"
+      },
+      {
+        "type": "item",
+        "tag": "avaritia:singularity"
+      }
+    ]
+  }
+}

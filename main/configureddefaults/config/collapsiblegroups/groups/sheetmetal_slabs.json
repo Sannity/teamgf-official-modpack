@@ -1,0 +1,120 @@
+{
+  "id": "sheetmetal_slabs",
+  "name": {
+    "translate": "collapsible_groups.group.sheetmetal_slabs",
+    "fallback": "Sheetmetal Slabs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_copper"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_aluminum"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_lead"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_silver"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_nickel"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_uranium"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_constantan"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_electrum"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_steel"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_iron"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_gold"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_white"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_orange"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_magenta"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_yellow"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_lime"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_pink"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_gray"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_cyan"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_purple"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_blue"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_brown"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_green"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_red"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_sheetmetal_colored_black"
+      }
+    ]
+  }
+}

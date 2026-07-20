@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_rattan_couch_corners",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rattan_couch_corners",
+    "fallback": "Decocraft Rattan Couch Corners"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_corner_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_corner_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_corner_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_corner_brown"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_corner_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_corner_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rattan_couch_corner_black"
+      }
+    ]
+  }
+}

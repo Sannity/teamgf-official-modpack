@@ -1,0 +1,44 @@
+{
+  "id": "bottom_cabinet_islands",
+  "name": {
+    "translate": "collapsible_groups.group.bottom_cabinet_islands",
+    "fallback": "Decocraft Bottom Cabinet Islands"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_island_black"
+      }
+    ]
+  }
+}

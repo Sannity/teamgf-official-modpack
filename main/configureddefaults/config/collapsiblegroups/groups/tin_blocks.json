@@ -1,0 +1,18 @@
+{
+  "id": "tin_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.tin_blocks",
+    "fallback": "Tin Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "modern_industrialization:metal_type/tin"
+      },
+      {
+        "block_tag": "projectred_exploration:metal_type/tin"
+      }
+    ]
+  }
+}

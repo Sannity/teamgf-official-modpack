@@ -1,0 +1,84 @@
+{
+  "id": "blackstone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.blackstone_blocks",
+    "fallback": "Blackstone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:blackstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:gilded_blackstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:blackstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:blackstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:blackstone_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_polished_blackstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_button"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cracked_polished_blackstone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_blackstone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "enderio:silent_polished_blackstone_pressure_plate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dream_catchers",
+  "name": {
+    "translate": "collapsible_groups.group.dream_catchers",
+    "fallback": "Dream Catchers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "witchery:dream_weaver"
+      },
+      {
+        "type": "item",
+        "id": "witchery:dream_weaver_of_fleet_foot"
+      },
+      {
+        "type": "item",
+        "id": "witchery:dream_weaver_of_intensity"
+      },
+      {
+        "type": "item",
+        "id": "witchery:dream_weaver_of_nightmares"
+      },
+      {
+        "type": "item",
+        "id": "witchery:dream_weaver_of_fasting"
+      },
+      {
+        "type": "item",
+        "id": "witchery:dream_weaver_of_iron_arm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:dream_catcher"
+      }
+    ]
+  }
+}

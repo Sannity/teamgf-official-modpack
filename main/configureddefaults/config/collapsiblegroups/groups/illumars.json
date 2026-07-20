@@ -1,0 +1,12 @@
+{
+  "id": "illumars",
+  "name": {
+    "translate": "collapsible_groups.group.illumars",
+    "fallback": "Illumars"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "projectred_core:illumars"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "decocraft_stained_glass_sconces",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_stained_glass_sconces",
+    "fallback": "Decocraft Stained Glass Sconces"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_dusk"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_embers"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_emerald"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_flamingo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_meadow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_monarch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_peacock"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_vineyard"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_sunrise"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_sea"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_raspberry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stained_glass_sconce_popsicle"
+      }
+    ]
+  }
+}

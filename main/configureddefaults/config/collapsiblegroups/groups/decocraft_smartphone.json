@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_smartphone",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_smartphone",
+    "fallback": "Decocraft Smartphones"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_teal"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_lavender"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:smartphone_black"
+      }
+    ]
+  }
+}

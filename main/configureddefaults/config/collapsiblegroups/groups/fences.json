@@ -1,0 +1,27 @@
+{
+  "id": "fences",
+  "name": {
+    "translate": "collapsible_groups.group.fences",
+    "fallback": "Fences"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "c:fences"
+      },
+      {
+        "block_tag": "c:fences/aluminum"
+      },
+      {
+        "block_tag": "c:fences/nether_brick"
+      },
+      {
+        "block_tag": "c:fences/steel"
+      },
+      {
+        "block_tag": "c:fences/wooden"
+      }
+    ]
+  }
+}

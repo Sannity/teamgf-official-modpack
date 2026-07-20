@@ -1,0 +1,88 @@
+{
+  "id": "castle_bricks",
+  "name": {
+    "translate": "collapsible_groups.group.castle_bricks",
+    "fallback": "Castle Bricks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "twilightforest:violet_castle_rune_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:blue_castle_rune_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:yellow_castle_rune_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:pink_castle_rune_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:bold_castle_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:encased_castle_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:mossy_castle_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:cracked_castle_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:worn_castle_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:castle_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:bold_castle_brick_tile"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:bold_castle_brick_pillar"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:encased_castle_brick_tile"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:encased_castle_brick_pillar"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:thick_castle_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:mossy_castle_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:cracked_castle_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:worn_castle_brick"
+      },
+      {
+        "type": "item",
+        "id": "twilightforest:castle_brick"
+      }
+    ]
+  }
+}

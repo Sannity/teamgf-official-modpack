@@ -1,0 +1,156 @@
+{
+  "id": "decocraft_lamp_cables",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_lamp_cables",
+    "fallback": "Decocraft Lamp Cables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_white_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_base_black_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_standalone_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lamp_cable_standalone_white"
+      }
+    ]
+  }
+}

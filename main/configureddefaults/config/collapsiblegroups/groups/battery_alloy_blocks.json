@@ -1,0 +1,11 @@
+{
+  "id": "battery_alloy_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.battery_alloy_blocks",
+    "fallback": "Battery Alloy Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/battery_alloy"
+  }
+}

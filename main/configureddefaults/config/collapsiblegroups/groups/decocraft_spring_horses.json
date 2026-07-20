@@ -1,0 +1,52 @@
+{
+  "id": "decocraft_spring_horses",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_spring_horses",
+    "fallback": "Decocraft Spring Horses"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spring_horse_blue"
+      }
+    ]
+  }
+}

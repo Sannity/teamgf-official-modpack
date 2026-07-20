@@ -1,0 +1,35 @@
+{
+  "id": "veridium",
+  "name": {
+    "translate": "collapsible_groups.group.veridium",
+    "fallback": "Veridium"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:cut_veridium_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_veridium_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_veridium_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_veridium_brick_slab"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/veridium"
+      },
+      {
+        "block_tag": "create:stone_type/veridium"
+      }
+    ]
+  }
+}

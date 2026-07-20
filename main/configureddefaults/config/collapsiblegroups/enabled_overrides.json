@@ -1,0 +1,7 @@
+{
+  "overrides": {
+    "__default_mcw_paths_wooden_paths": false,
+    "__default_potions": false,
+    "__default_splash_potions": false
+  }
+}

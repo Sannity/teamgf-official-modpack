@@ -1,0 +1,180 @@
+{
+  "id": "decocraft_diner_counters",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_diner_counters",
+    "fallback": "Decocraft Diner Counters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_edge_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_counter_corner_black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "scorchia",
+  "name": {
+    "translate": "collapsible_groups.group.scorchia",
+    "fallback": "Scorchia"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "create:cut_scorchia_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_scorchia_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_scorchia_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_scorchia_brick_slab"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/scorchia"
+      },
+      {
+        "block_tag": "create:stone_type/scorchia"
+      }
+    ]
+  }
+}

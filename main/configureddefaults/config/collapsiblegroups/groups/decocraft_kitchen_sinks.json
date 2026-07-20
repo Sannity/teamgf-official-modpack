@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_kitchen_sinks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_kitchen_sinks",
+    "fallback": "Decocraft Kitchen Sinks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_sink_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_sink_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_sink_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_sink_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:kitchen_sink_black"
+      }
+    ]
+  }
+}

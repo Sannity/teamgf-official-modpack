@@ -1,0 +1,12 @@
+{
+  "id": "disks",
+  "name": {
+    "translate": "collapsible_groups.group.disks",
+    "fallback": "Disks"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "computercraft:disks"
+  }
+}

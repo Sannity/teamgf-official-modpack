@@ -1,0 +1,28 @@
+{
+  "id": "compacting_drawers",
+  "name": {
+    "translate": "collapsible_groups.group.compacting_drawers",
+    "fallback": "Compacting Drawers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "functionalstorage:framed_simple_compacting_drawer"
+      },
+      {
+        "type": "item",
+        "id": "functionalstorage:simple_compacting_drawer"
+      },
+      {
+        "type": "item",
+        "id": "functionalstorage:compacting_framed_drawer"
+      },
+      {
+        "type": "item",
+        "id": "functionalstorage:compacting_drawer"
+      }
+    ]
+  }
+}

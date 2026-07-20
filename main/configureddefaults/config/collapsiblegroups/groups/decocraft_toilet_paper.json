@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_toilet_paper",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_toilet_paper",
+    "fallback": "Decocraft Toilet Paper"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:toilet_paper_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_paper_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_paper_rosegold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toilet_paper_black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_round_sinks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_round_sinks",
+    "fallback": "Decocraft Round Sinks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:round_sink_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:round_sink_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:round_sink_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:round_sink_black"
+      }
+    ]
+  }
+}

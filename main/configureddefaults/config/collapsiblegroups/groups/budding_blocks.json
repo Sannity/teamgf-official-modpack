@@ -1,0 +1,11 @@
+{
+  "id": "budding_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.budding_blocks",
+    "fallback": "Budding Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "c:budding_blocks"
+  }
+}

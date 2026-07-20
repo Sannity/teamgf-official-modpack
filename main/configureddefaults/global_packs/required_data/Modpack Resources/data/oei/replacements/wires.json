@@ -1,0 +1,20 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:wire_copper"
+    ],
+    "resultItems": "modern_industrialization:copper_wire"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:wire_electrum"
+    ],
+    "resultItems": "modern_industrialization:electrum_wire"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:wire_aluminum"
+    ],
+    "resultItems": "modern_industrialization:aluminum_wire"
+  }
+]

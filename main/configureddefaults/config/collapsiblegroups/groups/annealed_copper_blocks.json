@@ -1,0 +1,11 @@
+{
+  "id": "annealed_copper_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.annealed_copper_blocks",
+    "fallback": "Annealed Copper Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/annealed_copper"
+  }
+}

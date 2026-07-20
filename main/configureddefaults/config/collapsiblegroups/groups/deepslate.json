@@ -1,0 +1,116 @@
+{
+  "id": "deepslate",
+  "name": {
+    "translate": "collapsible_groups.group.deepslate",
+    "fallback": "Deepslate"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:chiseled_deepslate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_deepslate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_deepslate_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_deepslate_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_deepslate_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cracked_deepslate_bricks"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_tiles"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cracked_deepslate_tiles"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_tile_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_tile_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:deepslate_tile_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:reinforced_deepslate"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_deepslate_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_deepslate_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_deepslate_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_deepslate_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cobbled_deepslate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cobbled_deepslate_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cobbled_deepslate_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:cobbled_deepslate_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:infested_deepslate"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/deepslate"
+      }
+    ]
+  }
+}

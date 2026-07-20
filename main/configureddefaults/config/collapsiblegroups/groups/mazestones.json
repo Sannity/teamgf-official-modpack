@@ -1,0 +1,21 @@
+{
+  "id": "mazestones",
+  "name": {
+    "translate": "collapsible_groups.group.mazestones",
+    "fallback": "Mazestones"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "block_tag": "stonezone:twilightforest/mazestone"
+      },
+      {
+        "block_tag": "twilightforest:mazestone"
+      },
+      {
+        "block_tag": "twilightforest:stone_type/mazestone"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "candelabras",
+  "name": {
+    "translate": "collapsible_groups.group.candelabras",
+    "fallback": "Candelabras"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "witchery:candelabras"
+  }
+}

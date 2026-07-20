@@ -1,0 +1,13 @@
+name = "One Enough Item"
+filename = "oneenoughitem-neoforge-1.21.1-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1acb64060602f5a9c7397224832d1ef75f9146b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7939114
+project-id = 1312660

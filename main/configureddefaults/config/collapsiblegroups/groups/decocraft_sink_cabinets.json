@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_sink_cabinets",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_sink_cabinets",
+    "fallback": "Decocraft Sink Cabinets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_cabinet_black"
+      }
+    ]
+  }
+}

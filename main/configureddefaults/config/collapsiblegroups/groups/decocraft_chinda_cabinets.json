@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_chinda_cabinets",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_chinda_cabinets",
+    "fallback": "Decocraft Chinda Cabinets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:china_cabinet_black"
+      }
+    ]
+  }
+}

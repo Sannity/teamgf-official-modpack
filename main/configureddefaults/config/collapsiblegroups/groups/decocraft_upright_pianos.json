@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_upright_pianos",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_upright_pianos",
+    "fallback": "Decocraft Upright Pianos"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:piano_upright_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:piano_upright_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:piano_upright_spruce"
+      }
+    ]
+  }
+}

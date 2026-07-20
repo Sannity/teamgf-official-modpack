@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_round_mirrors",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_round_mirrors",
+    "fallback": "Decocraft Round Mirrors"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:round_mirror_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:round_mirror_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:round_mirror_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:round_mirror_black"
+      }
+    ]
+  }
+}

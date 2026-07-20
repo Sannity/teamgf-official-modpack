@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_flat_seat_backs",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_flat_seat_backs",
+    "fallback": "Bibliocraft Flat Seat Backs"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:seat_backs/flat"
+  }
+}

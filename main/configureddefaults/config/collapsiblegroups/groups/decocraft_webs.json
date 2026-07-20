@@ -1,0 +1,52 @@
+{
+  "id": "decocraft_webs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_webs",
+    "fallback": "Decocraft Webs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:web_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:web_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:web_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:web_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:web_5"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:web_6"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spider_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spider_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spider_and_eggs_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:spider_and_eggs_2"
+      }
+    ]
+  }
+}

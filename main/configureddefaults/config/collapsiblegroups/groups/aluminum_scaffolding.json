@@ -1,0 +1,48 @@
+{
+  "id": "aluminum_scaffolding",
+  "name": {
+    "translate": "collapsible_groups.group.aluminum_scaffolding",
+    "fallback": "Aluminum Scaffolding"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:alu_scaffolding_standard"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_alu_scaffolding_standard"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_alu_scaffolding_standard"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:alu_scaffolding_grate_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_alu_scaffolding_grate_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_alu_scaffolding_grate_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:alu_scaffolding_wooden_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_alu_scaffolding_wooden_top"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_alu_scaffolding_wooden_top"
+      }
+    ]
+  }
+}

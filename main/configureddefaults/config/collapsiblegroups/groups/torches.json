@@ -1,0 +1,48 @@
+{
+  "id": "torches",
+  "name": {
+    "translate": "collapsible_groups.group.torches",
+    "fallback": "Torches"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:torch"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:soul_torch"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_torch"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_soul_torch"
+      },
+      {
+        "type": "item",
+        "id": "projecte:interdiction_torch"
+      },
+      {
+        "type": "item",
+        "id": "framedblocks:framed_redstone_torch"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:redstone_torch"
+      },
+      {
+        "type": "item",
+        "id": "silentgear:stone_torch"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:magnum_torch"
+      }
+    ]
+  }
+}

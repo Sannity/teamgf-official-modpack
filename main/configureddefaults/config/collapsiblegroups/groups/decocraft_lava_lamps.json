@@ -1,0 +1,56 @@
+{
+  "id": "decocraft_lava_lamps",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_lava_lamps",
+    "fallback": "Decocraft Lava Lamps"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lava_lamp_purple"
+      }
+    ]
+  }
+}

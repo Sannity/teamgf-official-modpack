@@ -1,0 +1,11 @@
+{
+  "id": "tanks",
+  "name": {
+    "translate": "collapsible_groups.group.tanks",
+    "fallback": "Tanks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:tanks"
+  }
+}

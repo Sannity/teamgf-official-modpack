@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_rocking_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_rocking_chairs",
+    "fallback": "Decocraft Rocking Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:rocking_chair_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rocking_chair_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rocking_chair_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rocking_chair_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rocking_chair_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rocking_chair_white"
+      }
+    ]
+  }
+}

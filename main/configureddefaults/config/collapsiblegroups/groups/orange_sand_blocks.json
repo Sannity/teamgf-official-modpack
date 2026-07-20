@@ -1,0 +1,62 @@
+{
+  "id": "orange_sand_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.orange_sand_blocks",
+    "fallback": "Orange Sand Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "biomesoplenty:orange_sand"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:orange_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:cut_orange_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:cut_orange_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:chiseled_orange_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:smooth_orange_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:smooth_orange_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:smooth_orange_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:orange_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:orange_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "biomesoplenty:orange_sandstone_wall"
+      },
+      {
+        "block_tag": "stonezone:biomesoplenty/orange_sandstone"
+      },
+      {
+        "block_tag": "biomesoplenty:stone_type/orange_sandstone"
+      }
+    ]
+  }
+}

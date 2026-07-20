@@ -1,0 +1,56 @@
+{
+  "id": "andesite",
+  "name": {
+    "translate": "collapsible_groups.group.andesite",
+    "fallback": "Andesite"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:andesite_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:andesite_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:andesite_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_andesite"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_andesite_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_andesite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_andesite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_andesite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_andesite_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_andesite_brick_slab"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/andesite"
+      }
+    ]
+  }
+}

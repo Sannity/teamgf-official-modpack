@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_toasters",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_toasters",
+    "fallback": "Decocraft Toasters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:toaster_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toaster_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toaster_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toaster_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toaster_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toaster_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:toaster_black"
+      }
+    ]
+  }
+}

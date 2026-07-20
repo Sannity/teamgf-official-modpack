@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_sink_clutter",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_sink_clutter",
+    "fallback": "Decocraft Sink Clutter"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:sink_clutter_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_clutter_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_clutter_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sink_clutter_black"
+      }
+    ]
+  }
+}

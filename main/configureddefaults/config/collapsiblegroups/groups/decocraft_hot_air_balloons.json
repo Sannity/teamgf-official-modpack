@@ -1,0 +1,84 @@
+{
+  "id": "decocraft_hot_air_balloons",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_hot_air_balloons",
+    "fallback": "Decocraft Hot Air Balloons"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_p_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_berry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:hot_air_balloon_purple"
+      }
+    ]
+  }
+}

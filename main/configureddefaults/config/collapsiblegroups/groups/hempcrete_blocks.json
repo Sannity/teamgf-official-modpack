@@ -1,0 +1,56 @@
+{
+  "id": "hempcrete_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.hempcrete_blocks",
+    "fallback": "Hempcrete Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:hempcrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:hempcrete_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:hempcrete_brick_cracked"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:hempcrete_chiseled"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:hempcrete_pillar"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_hempcrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_hempcrete_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_hempcrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_hempcrete_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:wall_hempcrete"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:wall_hempcrete_brick"
+      }
+    ]
+  }
+}

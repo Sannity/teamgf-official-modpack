@@ -1,0 +1,88 @@
+{
+  "id": "decocraft_couch_rights",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_couch_rights",
+    "fallback": "Decocraft Couch Rights"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_ocean_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_dark_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_cream"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_leather_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:couch_right_leather_brown"
+      }
+    ]
+  }
+}

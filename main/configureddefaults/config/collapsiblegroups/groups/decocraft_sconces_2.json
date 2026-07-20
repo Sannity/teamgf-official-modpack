@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_sconces_2",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_sconces_2",
+    "fallback": "Decocraft Sconces 2"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:sconce_2_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sconce_2_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sconce_2_brass"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sconce_2_rose_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:sconce_2_black"
+      }
+    ]
+  }
+}

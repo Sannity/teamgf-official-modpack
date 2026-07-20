@@ -1,0 +1,20 @@
+{
+  "id": "decocraft_potted_christmas_trees",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_potted_christmas_trees",
+    "fallback": "Decocraft Potted Christmas Trees"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:potted_christmas_tree_flipbook"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:potted_christmas_tree_white_flipbook"
+      }
+    ]
+  }
+}

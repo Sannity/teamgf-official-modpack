@@ -1,0 +1,12 @@
+{
+  "id": "ominous_potions",
+  "name": {
+    "translate": "collapsible_groups.group.ominous_potions",
+    "fallback": "Ominous Potions"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "c:drinks/ominous"
+  }
+}

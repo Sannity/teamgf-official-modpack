@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_chairs_2",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_chairs_2",
+    "fallback": "Decocraft Chairs 2"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_white_alt"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:chair_2_black"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "beryllium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.beryllium_blocks",
+    "fallback": "Beryllium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/beryllium"
+  }
+}

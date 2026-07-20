@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_book_stacks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_book_stacks",
+    "fallback": "Decocraft Book Stacks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:book_stack_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:book_stack_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:book_stack_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:book_stack_4"
+      }
+    ]
+  }
+}

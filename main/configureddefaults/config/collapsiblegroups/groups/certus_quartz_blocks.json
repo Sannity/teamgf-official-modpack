@@ -1,0 +1,119 @@
+{
+  "id": "certus_quartz_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.certus_quartz_blocks",
+    "fallback": "Certus Quartz Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2:cut_quartz_block"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_quartz_block"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_bricks"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_pillar"
+      },
+      {
+        "type": "item",
+        "id": "ae2:chiseled_quartz_block"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:cut_quartz_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_quartz_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:chiseled_quartz_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_pillar_stairs"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:cut_quartz_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_quartz_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:chiseled_quartz_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_pillar_wall"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:cut_quartz_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:smooth_quartz_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:chiseled_quartz_slab"
+      },
+      {
+        "type": "item",
+        "id": "ae2:quartz_pillar_slab"
+      },
+      {
+        "type": "item",
+        "tag": "c:storage_blocks/certus_quartz"
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "gemsrealm"
+          },
+          {
+            "block_tag": "ae2:crystal_type/quartz"
+          }
+        ]
+      }
+    ]
+  }
+}

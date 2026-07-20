@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_jellies",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_jellies",
+    "fallback": "Decocraft Jellies"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:jelly_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jelly_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jelly_pineapple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jelly_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jelly_blueberry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jelly_grape"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jelly_razzleberry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jelly_rainbow"
+      }
+    ]
+  }
+}

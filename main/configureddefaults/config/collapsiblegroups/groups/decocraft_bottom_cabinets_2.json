@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_bottom_cabinets_2",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bottom_cabinets_2",
+    "fallback": "Decocraft Bottom Cabinets 2"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bottom_cabinet_2_black"
+      }
+    ]
+  }
+}

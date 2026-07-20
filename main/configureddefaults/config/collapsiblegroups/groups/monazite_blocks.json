@@ -1,0 +1,11 @@
+{
+  "id": "monazite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.monazite_blocks",
+    "fallback": "Monazite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:dust_type/monazite"
+  }
+}

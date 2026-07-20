@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_clothes_racks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_clothes_racks",
+    "fallback": "Decocraft Clothes Racks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:clothes_rack_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:clothes_rack_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:clothes_rack_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:clothes_rack_3_alt"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:clothes_rack_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:clothes_rack_5"
+      }
+    ]
+  }
+}

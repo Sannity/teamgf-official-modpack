@@ -1,0 +1,11 @@
+{
+  "id": "lead_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.lead_blocks",
+    "fallback": "Lead Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/lead"
+  }
+}

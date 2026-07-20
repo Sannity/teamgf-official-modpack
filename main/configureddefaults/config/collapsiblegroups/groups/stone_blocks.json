@@ -1,0 +1,44 @@
+{
+  "id": "stone_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.stone_blocks",
+    "fallback": "Stone Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:stone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stone_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stone_button"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_stone"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:smooth_stone_slab"
+      },
+      {
+        "type": "item",
+        "id": "enderio:silent_stone_pressure_plate"
+      }
+    ]
+  }
+}

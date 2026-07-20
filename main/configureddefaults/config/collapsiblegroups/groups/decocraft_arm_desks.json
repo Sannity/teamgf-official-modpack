@@ -1,0 +1,72 @@
+{
+  "id": "decocraft_arm_desks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_arm_desks",
+    "fallback": "Decocraft Arm Desks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arm_desk_black"
+      }
+    ]
+  }
+}

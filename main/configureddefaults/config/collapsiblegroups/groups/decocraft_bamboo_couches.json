@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_bamboo_couches",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bamboo_couches",
+    "fallback": "Decocraft Bamboo Couches"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_couch_left_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_couch_left_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_couch_middle_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_couch_middle_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_couch_right_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bamboo_couch_right_yellow"
+      }
+    ]
+  }
+}

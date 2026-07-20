@@ -1,0 +1,11 @@
+{
+  "id": "redstone_alloy_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.redstone_alloy_blocks",
+    "fallback": "Redstone Alloy Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "enderio:metal_type/redstone_alloy"
+  }
+}

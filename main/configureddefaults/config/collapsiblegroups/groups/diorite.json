@@ -1,0 +1,56 @@
+{
+  "id": "diorite",
+  "name": {
+    "translate": "collapsible_groups.group.diorite",
+    "fallback": "Diorite"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:diorite_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:diorite_slab"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:diorite_wall"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_diorite"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_diorite_stairs"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:polished_diorite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_diorite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:polished_cut_diorite_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:cut_diorite_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "create:small_diorite_brick_slab"
+      },
+      {
+        "type": "item",
+        "tag": "create:stone_types/diorite"
+      }
+    ]
+  }
+}

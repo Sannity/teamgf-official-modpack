@@ -1,0 +1,172 @@
+{
+  "id": "decocraft_modular_desks",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_modular_desks",
+    "fallback": "Decocraft Modular Desks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_plank_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_right_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_left_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_drawers_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:modular_desk_storage_black"
+      }
+    ]
+  }
+}

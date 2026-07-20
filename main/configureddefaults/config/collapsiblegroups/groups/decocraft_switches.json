@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_switches",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_switches",
+    "fallback": "Decocraft Switches"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:switch_red_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:switch_purple_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:switch_pink_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:switch_green_blue"
+      }
+    ]
+  }
+}

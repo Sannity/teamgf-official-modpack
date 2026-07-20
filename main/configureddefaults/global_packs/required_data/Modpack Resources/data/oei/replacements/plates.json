@@ -1,0 +1,56 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:plate_copper"
+    ],
+    "resultItems": "modern_industrialization:copper_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_iron"
+    ],
+    "resultItems": "modern_industrialization:iron_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_gold"
+    ],
+    "resultItems": "modern_industrialization:gold_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_lead"
+    ],
+    "resultItems": "modern_industrialization:lead_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_silver"
+    ],
+    "resultItems": "modern_industrialization:silver_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_nickel"
+    ],
+    "resultItems": "modern_industrialization:nickel_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_electrum"
+    ],
+    "resultItems": "modern_industrialization:electrum_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_steel"
+    ],
+    "resultItems": "modern_industrialization:steel_plate"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:plate_aluminum"
+    ],
+    "resultItems": "modern_industrialization:aluminum_plate"
+  }
+]

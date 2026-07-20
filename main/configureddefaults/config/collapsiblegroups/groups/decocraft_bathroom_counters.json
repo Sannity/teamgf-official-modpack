@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_bathroom_counters",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_bathroom_counters",
+    "fallback": "Decocraft Bathroom Counters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:bathroom_counter_white"
+      }
+    ]
+  }
+}

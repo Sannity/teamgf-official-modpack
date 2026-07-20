@@ -1,0 +1,72 @@
+{
+  "id": "resturant_tables_1",
+  "name": {
+    "translate": "collapsible_groups.group.resturant_tables_1",
+    "fallback": "Resturant Tables 1"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:restaurant_table_1_black"
+      }
+    ]
+  }
+}

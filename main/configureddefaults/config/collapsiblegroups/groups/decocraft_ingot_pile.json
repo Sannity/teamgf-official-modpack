@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_ingot_pile",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_ingot_pile",
+    "fallback": "Decocraft Ingot Piles"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:ingot_pile_gold"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ingot_pile_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ingot_pile_copper"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ingot_pile_iron"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ingot_pile_netherite"
+      }
+    ]
+  }
+}

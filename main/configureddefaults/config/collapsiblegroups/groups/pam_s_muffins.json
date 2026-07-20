@@ -1,0 +1,56 @@
+{
+  "id": "pam_s_muffins",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_muffins",
+    "fallback": "Pam\u0027s Muffins"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chocolatemuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:carrotmuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:pumpkinmuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:caramelmuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:applemuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:chorusmuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:glowberrymuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:melonmuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:sweetberrymuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:honeymuffinitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2fantasy:slimemuffinitem"
+      }
+    ]
+  }
+}

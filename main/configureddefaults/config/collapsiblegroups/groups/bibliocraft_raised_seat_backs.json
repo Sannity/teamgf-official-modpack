@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_raised_seat_backs",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_raised_seat_backs",
+    "fallback": "Bibliocraft Raised Seat Backs"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:seat_backs/raised"
+  }
+}

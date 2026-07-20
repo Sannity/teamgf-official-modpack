@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_lounge_chairs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_lounge_chairs",
+    "fallback": "Decocraft Lounge Chairs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:lounge_chair_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lounge_chair_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lounge_chair_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lounge_chair_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:lounge_chair_white"
+      }
+    ]
+  }
+}

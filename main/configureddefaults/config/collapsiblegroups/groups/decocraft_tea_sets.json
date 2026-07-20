@@ -1,0 +1,40 @@
+{
+  "id": "decocraft_tea_sets",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_tea_sets",
+    "fallback": "Decocraft Tea Sets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:tea_set_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tea_set_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tea_set_mint"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tea_set_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tea_set_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tea_set_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tea_set_lavender"
+      }
+    ]
+  }
+}

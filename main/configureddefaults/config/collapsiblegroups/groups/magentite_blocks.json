@@ -1,0 +1,11 @@
+{
+  "id": "magentite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.magentite_blocks",
+    "fallback": "Magentite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "bigreactors:metal_type/magentite"
+  }
+}

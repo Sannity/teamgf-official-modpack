@@ -1,0 +1,36 @@
+{
+  "id": "clinker_bricks",
+  "name": {
+    "translate": "collapsible_groups.group.clinker_bricks",
+    "fallback": "Clinker Bricks"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:clinker_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:clinker_brick_sill"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:clinker_brick_quoin"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:slab_clinker_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:stairs_clinker_brick"
+      },
+      {
+        "type": "item",
+        "id": "immersiveengineering:wall_clinker_brick"
+      }
+    ]
+  }
+}

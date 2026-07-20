@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_cherry_blossoms",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_cherry_blossoms",
+    "fallback": "Decocraft Cherry Blossoms"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:cherry_blossom_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cherry_blossom_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cherry_blossom_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:cherry_blossom_white"
+      }
+    ]
+  }
+}

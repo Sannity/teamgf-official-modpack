@@ -1,0 +1,28 @@
+{
+  "id": "decocraft_grills",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_grills",
+    "fallback": "Decocraft Grills"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:grill_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:grill_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:grill_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:grill_black"
+      }
+    ]
+  }
+}

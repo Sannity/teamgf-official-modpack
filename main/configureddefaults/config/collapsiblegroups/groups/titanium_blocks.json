@@ -1,0 +1,11 @@
+{
+  "id": "titanium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.titanium_blocks",
+    "fallback": "Titanium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/titanium"
+  }
+}

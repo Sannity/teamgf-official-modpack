@@ -1,0 +1,13 @@
+name = "Just Another Witchery Remake"
+filename = "witchery-0.4.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a988adcb98903736d80b76f248a1e9e7fa60a625"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8415122
+project-id = 1125946

@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_barrels",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_barrels",
+    "fallback": "Decocraft Barrels"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:barrel"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barrel_carrots"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barrel_potatoes"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barrel_apples_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barrel_apples_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barrel_apples_golden"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barrel_apples_mix"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:barrel_horizontal"
+      }
+    ]
+  }
+}

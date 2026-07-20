@@ -1,0 +1,40 @@
+{
+  "id": "stack_upgrades",
+  "name": {
+    "translate": "collapsible_groups.group.stack_upgrades",
+    "fallback": "Stack Upgrades"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_upgrade_tier_1"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_upgrade_tier_1_plus"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_upgrade_tier_2"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_upgrade_tier_3"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_upgrade_tier_4"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_upgrade_tier_5"
+      },
+      {
+        "type": "item",
+        "id": "sophisticatedstorage:stack_upgrade_omega_tier"
+      }
+    ]
+  }
+}

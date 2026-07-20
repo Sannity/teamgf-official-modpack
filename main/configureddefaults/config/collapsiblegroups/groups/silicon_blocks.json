@@ -1,0 +1,11 @@
+{
+  "id": "silicon_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.silicon_blocks",
+    "fallback": "Silicon Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/silicon"
+  }
+}

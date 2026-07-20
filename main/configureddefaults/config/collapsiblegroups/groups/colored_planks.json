@@ -1,0 +1,189 @@
+{
+  "id": "colored_planks",
+  "name": {
+    "translate": "collapsible_groups.group.colored_planks",
+    "fallback": "Colored Planks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "excessive_utilities:paintbrush_planks"
+      },
+      {
+        "not": {
+          "any": [
+            {
+              "type": "item",
+              "id": "minecraft:oak_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:spruce_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:birch_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:jungle_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:acacia_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:dark_oak_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:mangrove_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:cherry_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:bamboo_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:crimson_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:warped_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:fir_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:pine_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:maple_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:redwood_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:mahogany_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:jacaranda_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:palm_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:willow_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:dead_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:magic_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:umbran_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:hellbark_planks"
+            },
+            {
+              "type": "item",
+              "id": "biomesoplenty:empyreal_planks"
+            },
+            {
+              "type": "item",
+              "id": "excessive_utilities:magical_planks"
+            },
+            {
+              "type": "item",
+              "id": "immersiveengineering:fiberboard"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:twilight_oak_planks"
+            },
+            {
+              "type": "item",
+              "id": "witchery:hawthorn_planks"
+            },
+            {
+              "type": "item",
+              "id": "witchery:alder_planks"
+            },
+            {
+              "type": "item",
+              "id": "witchery:rowan_planks"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:infested_towerwood"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:towerwood"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:cracked_towerwood"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:mossy_towerwood"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:sorting_planks"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:mining_planks"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:transformation_planks"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:time_planks"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:dark_planks"
+            },
+            {
+              "type": "item",
+              "id": "minecraft:mangrove_planks"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:mangrove_planks"
+            },
+            {
+              "type": "item",
+              "id": "twilightforest:canopy_planks"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

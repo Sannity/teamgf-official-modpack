@@ -1,0 +1,44 @@
+{
+  "id": "copper_bulbs",
+  "name": {
+    "translate": "collapsible_groups.group.copper_bulbs",
+    "fallback": "Copper Bulbs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:copper_bulb"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:exposed_copper_bulb"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:weathered_copper_bulb"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:oxidized_copper_bulb"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_copper_bulb"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_exposed_copper_bulb"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_weathered_copper_bulb"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:waxed_oxidized_copper_bulb"
+      }
+    ]
+  }
+}

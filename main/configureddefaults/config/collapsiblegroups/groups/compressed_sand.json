@@ -1,0 +1,76 @@
+{
+  "id": "compressed_sand",
+  "name": {
+    "translate": "collapsible_groups.group.compressed_sand",
+    "fallback": "Compressed Sand"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_16"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_15"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_14"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_13"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_12"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_11"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_10"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_9"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_8"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_7"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_6"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_5"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_4"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_3"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_2"
+      },
+      {
+        "type": "item",
+        "id": "excessive_utilities:compressed_sand_1"
+      }
+    ]
+  }
+}

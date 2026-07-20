@@ -1,0 +1,56 @@
+{
+  "id": "decocraft_beach_towels",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_beach_towels",
+    "fallback": "Decocraft Beach Towels"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_rainbow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:beach_towel_magenta"
+      }
+    ]
+  }
+}

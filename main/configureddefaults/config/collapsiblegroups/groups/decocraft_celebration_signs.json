@@ -1,0 +1,36 @@
+{
+  "id": "decocraft_celebration_signs",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_celebration_signs",
+    "fallback": "Decocraft Celebration Signs"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:happy_easter"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:happy_spring"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:happy_birthday"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:happy_halloween"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:happy_hanukkah"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:merry_christmas"
+      }
+    ]
+  }
+}

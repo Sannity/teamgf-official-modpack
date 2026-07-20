@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_jack_o_lanterns",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_jack_o_lanterns",
+    "fallback": "Decocraft Jack O\u0027 Lanterns"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:jack_o_lantern_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jack_o_lantern_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jack_o_lantern_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jack_o_lantern_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jack_o_lantern_trio"
+      }
+    ]
+  }
+}

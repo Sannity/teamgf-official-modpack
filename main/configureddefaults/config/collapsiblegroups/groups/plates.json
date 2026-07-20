@@ -1,0 +1,12 @@
+{
+  "id": "plates",
+  "name": {
+    "translate": "collapsible_groups.group.plates",
+    "fallback": "Plates"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "c:plates"
+  }
+}

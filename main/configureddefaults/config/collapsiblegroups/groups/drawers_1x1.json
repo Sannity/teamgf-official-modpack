@@ -1,0 +1,12 @@
+{
+  "id": "drawers_1x1",
+  "name": {
+    "translate": "collapsible_groups.group.drawers_1x1",
+    "fallback": "Drawers 1x1"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "functionalstorage:drawer_1x1"
+  }
+}

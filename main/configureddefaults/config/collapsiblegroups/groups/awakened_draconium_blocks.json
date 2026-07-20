@@ -1,0 +1,11 @@
+{
+  "id": "awakened_draconium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.awakened_draconium_blocks",
+    "fallback": "Awakened Draconium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "draconicevolution:metal_type/awakened_draconium"
+  }
+}

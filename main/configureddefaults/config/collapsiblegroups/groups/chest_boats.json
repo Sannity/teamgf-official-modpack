@@ -1,0 +1,12 @@
+{
+  "id": "chest_boats",
+  "name": {
+    "translate": "collapsible_groups.group.chest_boats",
+    "fallback": "Chest Boats"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "minecraft:chest_boats"
+  }
+}

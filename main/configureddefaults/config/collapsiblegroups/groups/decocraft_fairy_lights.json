@@ -1,0 +1,64 @@
+{
+  "id": "decocraft_fairy_lights",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_fairy_lights",
+    "fallback": "Decocraft Fairy Lights"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_ocean"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_seahorse"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_pufferfish"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_clownfish"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_ghosts"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_pumpkins"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_bats"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_hearts_white_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_hearts_white_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_hearts_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_hearts_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_hearts_red_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fairy_lights_clovers"
+      }
+    ]
+  }
+}

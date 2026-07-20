@@ -1,0 +1,12 @@
+{
+  "id": "alchemical_bags",
+  "name": {
+    "translate": "collapsible_groups.group.alchemical_bags",
+    "fallback": "Alchemical Bags"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "projecte:alchemical_bags"
+  }
+}

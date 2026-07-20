@@ -1,0 +1,36 @@
+{
+  "id": "pam_s_vegtables",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_vegtables",
+    "fallback": "Pam\u0027s Vegtables"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2crops"
+          },
+          {
+            "type": "item",
+            "tag": "c:vegetables"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "pamhc2trees"
+          },
+          {
+            "type": "item",
+            "tag": "c:vegetables"
+          }
+        ]
+      }
+    ]
+  }
+}

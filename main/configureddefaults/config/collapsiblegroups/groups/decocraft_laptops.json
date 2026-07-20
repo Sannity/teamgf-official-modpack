@@ -1,0 +1,24 @@
+{
+  "id": "decocraft_laptops",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_laptops",
+    "fallback": "Decocraft Laptops"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:laptop_pink"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:laptop_silver"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:laptop_black"
+      }
+    ]
+  }
+}

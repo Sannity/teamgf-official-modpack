@@ -1,0 +1,20 @@
+{
+  "id": "addons_efficiency",
+  "name": {
+    "translate": "collapsible_groups.group.addons_efficiency",
+    "fallback": "Addons: Efficiency"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:efficiency_addon_tier_1\",\"components\":{\"titanium:augments\":{\"Efficiency\":0.9}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:efficiency_addon_tier_2\",\"components\":{\"titanium:augments\":{\"Efficiency\":0.8}}}"
+      }
+    ]
+  }
+}

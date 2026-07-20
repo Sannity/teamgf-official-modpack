@@ -1,0 +1,12 @@
+{
+  "id": "valve_handles",
+  "name": {
+    "translate": "collapsible_groups.group.valve_handles",
+    "fallback": "Valve Handles"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "create:valve_handles"
+  }
+}

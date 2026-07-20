@@ -1,0 +1,32 @@
+{
+  "id": "decocraft_wreaths",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_wreaths",
+    "fallback": "Decocraft Wreaths"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:wreath_1"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wreath_2"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wreath_3"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wreath_4"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:wreath_5"
+      }
+    ]
+  }
+}

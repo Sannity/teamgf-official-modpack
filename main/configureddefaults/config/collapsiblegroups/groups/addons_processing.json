@@ -1,0 +1,20 @@
+{
+  "id": "addons_processing",
+  "name": {
+    "translate": "collapsible_groups.group.addons_processing",
+    "fallback": "Addons: Processing"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:processing_addon_tier_1\",\"components\":{\"titanium:augments\":{\"Processing\":2.0}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"industrialforegoing:processing_addon_tier_2\",\"components\":{\"titanium:augments\":{\"Processing\":3.0}}}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "id": "pam_s_sandwiches",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_sandwiches",
+    "fallback": "Pam\u0027s Sandwiches"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blackberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:blueberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cactusfruitjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:candleberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cranberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:elderberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:huckleberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:juniperberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mulberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:raspberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cantaloupejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:greengrapejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:kiwijellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pineapplejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:applejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:orangejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peachjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pearjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:plumjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pawpawjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soursopjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:apricotjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bananajellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:datejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:dragonfruitjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:figjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapefruitjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mangojellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:papayajellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:persimmonjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:pomegranatejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:starfruitjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:breadfruitjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:jackfruitjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:guavajellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lycheejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:passionfruitjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rambutanjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:tamarindjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gooseberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:durianjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:limejellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sweetberryjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:melonjellysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basicchickensandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basicporksandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basicfishsandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basicmuttonsandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:basicrabbitsandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bolognasandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:friedbolognasandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:groiledcheesesandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hamandcheesesandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hamsweetpicklesandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:honeysandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:leafychickensandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:leafyfishsandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:meatloafsandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:toastsandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:loxbagelsandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:peanutbutterbananasandwichitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grilledcheesevegemitetoastitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledcheeseandhamitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:grilledcheeseitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:toastedwesternitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bltitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:epicbltitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:footlongitem"
+      }
+    ]
+  }
+}

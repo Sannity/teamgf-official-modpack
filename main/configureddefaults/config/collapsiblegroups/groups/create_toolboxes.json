@@ -1,0 +1,12 @@
+{
+  "id": "create_toolboxes",
+  "name": {
+    "translate": "collapsible_groups.group.create_toolboxes",
+    "fallback": "Create Toolboxes"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "create:toolboxes"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "decocraft_posters",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_posters",
+    "fallback": "Decocraft Posters"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:close_encounters"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:rocky_horror_picture_show"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:watchmen"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:back_to_the_future"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ghostbusters"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jaws"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:the_exorcist"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:tron"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:fargo"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:the_nightmare_before_christmas"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:akira"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:children_of_the_corn"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:arachnophobia"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:starwars"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:empire_strikes_back"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:batman"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:alien"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:mib"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:et"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:return_of_the_jedi"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:jurassic_park"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:planet_of_the_apes"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:the_thing"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:burger_shark"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "decocraft_stools_3",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_stools_3",
+    "fallback": "Decocraft Stools 3"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_white_alt"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:stool_3_black"
+      }
+    ]
+  }
+}

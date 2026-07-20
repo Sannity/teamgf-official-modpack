@@ -1,0 +1,80 @@
+{
+  "id": "condiments_sauces",
+  "name": {
+    "translate": "collapsible_groups.group.condiments_sauces",
+    "fallback": "Condiments \u0026 Sauces"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hotsauceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:soysauceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:bbqsauceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:hoisinsauceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:oystersauceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cranberrysauceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sweetandsoursauceitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:relishitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:ketchupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mustarditem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:sesameoilitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:saladdressingitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mushroomketchupitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:mushroomoilitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:cookingoilitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodcore:mayonaiseitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:salsaitem"
+      }
+    ]
+  }
+}

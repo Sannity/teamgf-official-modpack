@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_ceiling_fans",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_ceiling_fans",
+    "fallback": "Decocraft Ceiling Fans"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_cherry"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:ceiling_fan_white"
+      }
+    ]
+  }
+}

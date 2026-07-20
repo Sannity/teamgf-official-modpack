@@ -1,0 +1,44 @@
+{
+  "id": "decocraft_top_cabinet_outers",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_top_cabinet_outers",
+    "fallback": "Decocraft Top Cabinet Outers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_birch"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_oak"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_palm"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_spruce"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_ebony"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_white"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:top_cabinet_corner_outer_cherry"
+      }
+    ]
+  }
+}

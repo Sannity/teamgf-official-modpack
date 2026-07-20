@@ -1,0 +1,24 @@
+{
+  "id": "spatial_storage_cells",
+  "name": {
+    "translate": "collapsible_groups.group.spatial_storage_cells",
+    "fallback": "Spatial Storage Cells"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "ae2:spatial_storage_cell_2"
+      },
+      {
+        "type": "item",
+        "id": "ae2:spatial_storage_cell_16"
+      },
+      {
+        "type": "item",
+        "id": "ae2:spatial_storage_cell_128"
+      }
+    ]
+  }
+}

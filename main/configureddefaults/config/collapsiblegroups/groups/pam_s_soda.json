@@ -1,0 +1,48 @@
+{
+  "id": "pam_s_soda",
+  "name": {
+    "translate": "collapsible_groups.group.pam_s_soda",
+    "fallback": "Pam\u0027s Soda"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:rootbeersodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:strawberrysodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:orangesodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:lemonlimesodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapesodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:grapefruitsodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:gingersodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:colasodaitem"
+      },
+      {
+        "type": "item",
+        "id": "pamhc2foodextended:cherrysodaitem"
+      }
+    ]
+  }
+}

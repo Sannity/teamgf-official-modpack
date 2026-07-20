@@ -1,0 +1,11 @@
+{
+  "id": "cupronickel_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.cupronickel_blocks",
+    "fallback": "Cupronickel Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "modern_industrialization:metal_type/cupronickel"
+  }
+}

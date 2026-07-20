@@ -1,0 +1,57 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_aluminum"
+    ],
+    "resultItems": "modern_industrialization:aluminum_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_lead"
+    ],
+    "resultItems": "modern_industrialization:lead_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_silver",
+      "projectred_exploration:silver_ingot"
+    ],
+    "resultItems": "modern_industrialization:silver_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_nickel"
+    ],
+    "resultItems": "modern_industrialization:nickel_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_nickel"
+    ],
+    "resultItems": "modern_industrialization:nickel_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_uranium"
+    ],
+    "resultItems": "modern_industrialization:uranium_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_electrum"
+    ],
+    "resultItems": "modern_industrialization:electrum_ingot"
+  },
+  {
+    "matchItems": [
+      "immersiveengineering:ingot_steel"
+    ],
+    "resultItems": "modern_industrialization:steel_ingot"
+  },
+  {
+    "matchItems": [
+      "projectred_exploration:tin_ingot"
+    ],
+    "resultItems": "modern_industrialization:tin_ingot"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "bibliocraft_small_seat_backs",
+  "name": {
+    "translate": "collapsible_groups.group.bibliocraft_small_seat_backs",
+    "fallback": "Bibliocraft Small Seat Backs"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "bibliocraft:seat_backs/small"
+  }
+}

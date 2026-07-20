@@ -1,0 +1,68 @@
+{
+  "id": "decocraft_diner_stool",
+  "name": {
+    "translate": "collapsible_groups.group.decocraft_diner_stool",
+    "fallback": "Decocraft Diner Stool"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_red"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_orange"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_yellow"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_lime"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_green"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_cyan"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_light_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_blue"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_purple"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_magenta"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_light_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_gray"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_black"
+      },
+      {
+        "type": "item",
+        "id": "decocraft:diner_stool_pink"
+      }
+    ]
+  }
+}
