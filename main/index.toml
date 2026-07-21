@@ -3058,6 +3058,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/customnpcs-unofficial.pw.toml"
+hash = "cac782b6e0e7d4940c3b9b47ff68709e04c6665137a1aed51e43a4bd0467b1da"
+metafile = true
+
+[[files]]
 file = "mods/decocraft.pw.toml"
 hash = "36c3b5e1f475a7ac6c791a79eb52bec92fabbfd2e4c159dcf1eaef1f73d26625"
 metafile = true
