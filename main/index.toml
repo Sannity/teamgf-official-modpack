@@ -3258,6 +3258,11 @@ hash = "f6bcf591a91c87fe02187642c7311ce08ed9d0d997be0fb5befc41b7fb61b868"
 metafile = true
 
 [[files]]
+file = "mods/growthcraft-community-edition.pw.toml"
+hash = "13b782430af00b909b69dbb13c3b2efb237a00db74337afce6650cff2b17e872"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "9163b1128300a4a9e8a021276fb16544d7e0e7e85f776dc3f59c1a54ec22e598"
 metafile = true
