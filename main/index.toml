@@ -3608,6 +3608,11 @@ hash = "839e60d3150e7caa7ebe2ab0cadd37ba31b8d8dcc687fc8fc888a76faba5dd00"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage-in-motion.pw.toml"
+hash = "076cad643d361ccdde7047154faaa7c759b336d7619f304741d08f6c67cc710a"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "65c820470d4b0cbe7442a4af9e01ad4b7a9af4a6858c661c3acb8e283a19f748"
 metafile = true
