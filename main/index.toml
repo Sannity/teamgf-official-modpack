@@ -3238,6 +3238,11 @@ hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
 
 [[files]]
+file = "mods/jamd.pw.toml"
+hash = "d79e4f41f50658be56d750bc32f3be1033c35cd9597bc599c89bc3fda7a54e82"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "60744684868ba43cf41588d45412a78b95f64b2ec553b5ed627330e322952697"
 metafile = true
@@ -3620,6 +3625,11 @@ metafile = true
 [[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "6bbe0fd74040f8db69cba3099d283aa53c638423f50365e4d2352763576a257d"
+metafile = true
+
+[[files]]
+file = "mods/trenzalore.pw.toml"
+hash = "97b31515b4ea9f529c8d41770bc4e584321929b014bd5ab460905114de17492b"
 metafile = true
 
 [[files]]
