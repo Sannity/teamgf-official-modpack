@@ -2884,6 +2884,11 @@ hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "81a0b529e89d4b9a370b931ed93f2c643b8a6187cefbe548d02ce6dbf6ce05d6"
+metafile = true
+
+[[files]]
 file = "mods/adapted-mobs.pw.toml"
 hash = "65aef9d6589962e432f04933d521addcda1358a51cba3deda3a431f9c6c2d050"
 metafile = true
