@@ -3108,6 +3108,11 @@ hash = "bc1d52bd43eace5fe032e8815df90323adcc82ab765d382d5d4a536eee3a0f06"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "9f6b261565c185ab137b1f4ceceec488e4d6d262b14ef3349c4a88afdac958ae"
+metafile = true
+
+[[files]]
 file = "mods/easy-homes.pw.toml"
 hash = "778c13bdce089b95196920e4de9410327996ab32fda624dd49b6a50ffbb508ac"
 metafile = true
