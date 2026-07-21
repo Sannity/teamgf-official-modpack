@@ -1,0 +1,13 @@
+name = "Adapted Mobs"
+filename = "AdaptedMobs-neoforge-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da5c4403a74d525507f83e6d7fcbbd43c1f11170"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8441863
+project-id = 632429

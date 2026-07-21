@@ -2884,6 +2884,11 @@ hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
 metafile = true
 
 [[files]]
+file = "mods/adapted-mobs.pw.toml"
+hash = "65aef9d6589962e432f04933d521addcda1358a51cba3deda3a431f9c6c2d050"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "0effc5a9a5a90e1db4b9843a282669bca912a4f28b746222ff8a95b07ae63f97"
 metafile = true
@@ -3468,6 +3473,11 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
+metafile = true
+
+[[files]]
 file = "mods/player-plates.pw.toml"
 hash = "3e3ad76fd7ffcd558a78dd44356cf324609dae85e9d61d2201591e3fb77b7f6a"
 metafile = true
@@ -3739,6 +3749,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "2f6b9a34215c8de94688f29f06f436754b54b868934d85a170e2fb9f272770b9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
