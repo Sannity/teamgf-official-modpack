@@ -2919,6 +2919,11 @@ hash = "4d06b7fda1ba765537302422814077798d271d62cc38923d0d819571149c8a9d"
 metafile = true
 
 [[files]]
+file = "mods/amber-lib.pw.toml"
+hash = "75448be2bc33a31b4ac18180863e04d2e0eff5cff91177b9e4530aa08513e448"
+metafile = true
+
+[[files]]
 file = "mods/aperture-innovations.pw.toml"
 hash = "f6375f0929448c0ded29b7543445bc6599672fe98b2065f4ef454e4ff74337ec"
 metafile = true
@@ -3730,6 +3735,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
+
+[[files]]
+file = "mods/torch-toss.pw.toml"
+hash = "27f8977fdf4b9cf144af1d4539182fe26a4e0fcc1a1d8320a5d325d4aa886220"
 metafile = true
 
 [[files]]

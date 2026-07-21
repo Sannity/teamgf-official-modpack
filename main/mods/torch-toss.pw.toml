@@ -1,0 +1,13 @@
+name = "Torch Toss"
+filename = "torchtoss-neoforge-1.21.1-1.2.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01bd8a74bf30fa4c3931a7a4fa04c6ac1485d135"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6196946
+project-id = 1191803
