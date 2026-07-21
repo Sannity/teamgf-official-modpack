@@ -1,0 +1,13 @@
+name = "Litematica Tool (Forge and Fabric)"
+filename = "LitematicaTool-neoforge-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "196645d8d8a048a855c8c606006aa585016be41f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7751731
+project-id = 494413
