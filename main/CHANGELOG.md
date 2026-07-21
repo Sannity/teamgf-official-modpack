@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.4](https://github.com/Sannity/teamgf-official-modpack/compare/main-v3.0.3...main-v3.0.4) (2026-07-21)
+
+
+### ♻ Bug Fixes
+
+* **main:** correct CurseForge export manifest (NeoForge modLoaders) ([188ad0c](https://github.com/Sannity/teamgf-official-modpack/commit/188ad0c62661f323b432b22ede05ef210aec4015))
+
 ## [3.0.3](https://github.com/Sannity/teamgf-official-modpack/compare/main-v3.0.2...main-v3.0.3) (2026-07-20)
 
 
