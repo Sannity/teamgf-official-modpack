@@ -3029,6 +3029,11 @@ hash = "31f85df0a8afd2220b60bd083f3033085e12d4c472a69c975fe4b12dc94ba411"
 metafile = true
 
 [[files]]
+file = "mods/camoflauge-blocks.pw.toml"
+hash = "090786e4d7e056fb23593df339dcbd923e6dc3a7c56e9dfc73c95b4f4131fb54"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "87285fe8cbdea7f92729fbd52d3a665da1ef33897697c652f1707746a415c7cc"
 metafile = true
