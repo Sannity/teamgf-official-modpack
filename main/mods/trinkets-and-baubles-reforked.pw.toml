@@ -1,0 +1,13 @@
+name = "Trinkets and Baubles Reforked"
+filename = "trinketsandbaubles-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c45f21e2eebf3e418770bafec60862ad771ef03f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6396982
+project-id = 1220248

@@ -3808,6 +3808,11 @@ hash = "97b31515b4ea9f529c8d41770bc4e584321929b014bd5ab460905114de17492b"
 metafile = true
 
 [[files]]
+file = "mods/trinkets-and-baubles-reforked.pw.toml"
+hash = "effe4982889c3aab817a66f3bdef8ae0a22a01c4c3adcec466d9999051bf2d8c"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
