@@ -3093,6 +3093,11 @@ hash = "778c13bdce089b95196920e4de9410327996ab32fda624dd49b6a50ffbb508ac"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft-forge.pw.toml"
+hash = "41da9deeec5e9e6f3369f890a9f459d3dae3edf59c7072cb7c5dd26b953bf7d7"
+metafile = true
+
+[[files]]
 file = "mods/ender-io.pw.toml"
 hash = "e708542c2961ddde88d10084a6f67bfd6fbd413af67fcded5fe05a9027e0df07"
 metafile = true
