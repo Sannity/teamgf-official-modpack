@@ -3428,6 +3428,11 @@ hash = "1e7a69de13ee96b512350358c746a7b3bf67b07bc532fe5b26f7b3b3f7ee8117"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "14a344db4da97ac6d8963ff9983e29b8d19ed0b431beef21c008e0da9b6a4c41"
+metafile = true
+
+[[files]]
 file = "mods/missing-mods-checker.pw.toml"
 hash = "55fd16cf7dbb9644872f07daf871dceca8b343e4f17d0496cbcc007a430355aa"
 metafile = true
@@ -3805,6 +3810,11 @@ metafile = true
 [[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "6bbe0fd74040f8db69cba3099d283aa53c638423f50365e4d2352763576a257d"
+metafile = true
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "e1dea83477cdedb5de2012ed81e30962a8c21abbff45f57a3d2e5efb606b5245"
 metafile = true
 
 [[files]]
