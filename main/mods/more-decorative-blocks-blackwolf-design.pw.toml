@@ -1,0 +1,13 @@
+name = "More Decorative Blocks - BlackWolf Design"
+filename = "MoreDecorativeBlocks-neoforge-1.21.1-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "824d7b847e18fff1e8c2ac24d0c80b823779e651"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5824729
+project-id = 670914

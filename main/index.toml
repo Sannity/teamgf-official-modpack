@@ -2964,6 +2964,11 @@ hash = "f6f723c2d15da3b36a2c29408deb914f6c4bdbe4a20aa652f3f07642011fce8e"
 metafile = true
 
 [[files]]
+file = "mods/blackwolf-library.pw.toml"
+hash = "494085aa69b507bfc95cdad935a5eb005740de59c0052d0ac0bed1405fbab7b8"
+metafile = true
+
+[[files]]
 file = "mods/borderless.pw.toml"
 hash = "513ba49ef3319ad94cc1e10af4314c774aaccf6b485beaecf79ecd2b3227d0a4"
 metafile = true
@@ -3380,6 +3385,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "4cfd1812bc27fc5f94b9cd112b956e6c128c12ef83e8ba32edb25fea6cf7dd78"
+metafile = true
+
+[[files]]
+file = "mods/more-decorative-blocks-blackwolf-design.pw.toml"
+hash = "04c443e9333991ab380e698e2aa33a6517810b52e96f7beecbed29137d68a972"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Blackwolf Library"
+filename = "BlackwolfLibrary-neoforge-1.21.1-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f6e78d8d8cace403c4bb83efbe1a77bf2773594"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5717066
+project-id = 855057
