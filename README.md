@@ -22,7 +22,7 @@ Check out our website for more links to our socials: [https://teamgf.org/](https
 
 teamGF has been around since 2002, it started with Halo for the Original Xbox with a bunch of friends and family just playing video games together. 15-20 of us friends who play games and share our lives together. Back then, we had LAN Parties with tons of games and fun. The time had come where we are looking to expand.
 
-Around 2015 the community rallied hard around Minecraft on Forge 1.7.10, with this custom modpack made for the server. The Minecraft server lingered until 2019 but the people have never left the teamGF community, just moved onto other games/niches and this pack was never updated.
+In the early 2010s we originaly ran an [FTB Unleashed 1.1.7](https://forum.feed-the-beast.com/threads/teamgf-gaming-ftb-unleashed-1-1-7-survival-server-ts3-bukkit-50-slots.20822/) whitelist server on MC 1.5.2. Around 2015 the community rallied hard around Minecraft on Forge 1.7.10, with this custom modpack made for the server. The Minecraft server lingered until 2019 but the people have never left the teamGF community, just moved onto other games/niches and this pack was never updated.
 
 Fast forward a decade and now we are in 2026, I, Sannity, have never stopped working on modpacks for personal use. I decided to take a real shot at updating this kitchen sink modpack to 1.21.1 while keeping as close to the original 1.7.10 mods as I possibly can. However, a decade is a long time, many mods are impossible to find a modern alternative for so where I cannot I will attempt to find a port, or some spiritual successor. [View Mappings](https://docs.google.com/spreadsheets/d/1VP9DTjUj4YGVTdoAcEX7rxPIk4TbbDaOBIS1xdetvQA/edit?gid=0#gid=0&fvid=1601302154)
 
