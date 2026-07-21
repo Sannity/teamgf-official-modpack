@@ -3353,6 +3353,11 @@ hash = "55fd16cf7dbb9644872f07daf871dceca8b343e4f17d0496cbcc007a430355aa"
 metafile = true
 
 [[files]]
+file = "mods/mob-dismemberment-fabric-neoforge.pw.toml"
+hash = "65fda46ea8cb8d3a267b3f6a2720c0b73c16bcdbd2668656481de1985a29d5fe"
+metafile = true
+
+[[files]]
 file = "mods/mod-menu-neoforge-edition.pw.toml"
 hash = "9f18a709b7834e52436d19e5e7fe051fdf1d1d6dad6632ce5415c6f5a707ce74"
 metafile = true

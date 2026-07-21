@@ -1,0 +1,13 @@
+name = "Mob Dismemberment (Fabric & NeoForge)"
+filename = "mobdismembermentneoforge-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc3be7a9be8ca2b1ec224f568ba1ff75d47d0b0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8447374
+project-id = 1510502
