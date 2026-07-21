@@ -1,0 +1,13 @@
+name = "Random Things Returns"
+filename = "randomthings-5.1.11-neo.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d48e048173b86beee25d86ace33786adcda8e5a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8106223
+project-id = 1317296

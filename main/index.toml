@@ -3628,6 +3628,11 @@ hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
 
 [[files]]
+file = "mods/random-things-returns.pw.toml"
+hash = "c599fde5e712602dd40f5aece4feee59725831a0933b45ff432e8ec45ba7f52e"
+metafile = true
+
+[[files]]
 file = "mods/re-avaritia.pw.toml"
 hash = "b2acd79557c30c148b583e33ecf2a362381c3d6da3eac8401e0d50271eeecfdf"
 metafile = true
