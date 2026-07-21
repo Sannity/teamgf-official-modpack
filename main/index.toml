@@ -3028,6 +3028,11 @@ hash = "0c5947bf5c0c9d589e3b341285840a2233d2dc32cb050d994ddb65fae68c65c7"
 metafile = true
 
 [[files]]
+file = "mods/chococraft.pw.toml"
+hash = "b244b6e7f52d3124bebbcf2ca89780ee50d777c8ad89f3cab1f1cecdfaec10a8"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
