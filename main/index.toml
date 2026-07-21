@@ -2964,6 +2964,11 @@ hash = "c913f2cef7388786d02824ba6000c41608785be74fbc6f04704bef18f7cc73c6"
 metafile = true
 
 [[files]]
+file = "mods/better-foliage-renewed.pw.toml"
+hash = "62a4c812fdf9ae0ad6dc176b9fab29e709cdbfe1c0aca0fc5287926083f3bac5"
+metafile = true
+
+[[files]]
 file = "mods/bibliobiomes-legacy.pw.toml"
 hash = "2bbe7ed0a5b6fe914a1cf3bfae797b960aab05a0c480fa9d250eb63cbc35e2c4"
 metafile = true

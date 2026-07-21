@@ -1,0 +1,13 @@
+name = "Better Foliage Renewed"
+filename = "BetterFoliageRenewed-NeoForge-1.21-6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f2a13903ddf2e5dc469837272eec0fd1ccc4f7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5651620
+project-id = 470013
