@@ -1,0 +1,13 @@
+name = "Balkon's WeaponMod: Legacy"
+filename = "weaponmod-neoforge-1.21-1.24.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d9370659df86ca2b028143c581e5d293653ca51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8260435
+project-id = 1033985

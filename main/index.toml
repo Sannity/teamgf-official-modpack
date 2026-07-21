@@ -2949,6 +2949,11 @@ hash = "e02c1bebc6dd082ba2ce23eae85972841b0762e1481faf20bd1b901b67f49d66"
 metafile = true
 
 [[files]]
+file = "mods/balkons-weaponmod-legacy.pw.toml"
+hash = "f8d7447e05ded862874764f9c09c05180ef9a2c68d312a2ebc3784f23ae48fcd"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
 metafile = true
