@@ -3128,6 +3128,11 @@ hash = "70293834fba52c61375da45eeab9d2f4ca7a617e527316eb7ae31d2e77a250e1"
 metafile = true
 
 [[files]]
+file = "mods/extrabuttons.pw.toml"
+hash = "b66aafb078d7ab129884e621d794a9b8c9551979fb0fc582ea8dc11400b98549"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "a3d47e3c301ed2359820c2083dcddec8240a5d692a016c42a74eecc1193772e1"
 metafile = true

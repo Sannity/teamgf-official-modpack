@@ -1,0 +1,13 @@
+name = "ExtraButtons"
+filename = "Extra Buttons-neoforge-1.21-9.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2d03b5c770de63df24aba7ce3901020522dd8218"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5667421
+project-id = 60991
