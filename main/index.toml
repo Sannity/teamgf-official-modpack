@@ -3098,6 +3098,11 @@ hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
+file = "mods/create-powered-jukebox.pw.toml"
+hash = "268a951a586e7217c8018d6f4ccbfc991f0954031eb8dd56ab0372fa287d1919"
+metafile = true
+
+[[files]]
 file = "mods/create-springs.pw.toml"
 hash = "00d32ac03028fcca8747527a11198e14f8a4ded147f7c323f1047cd308523e9c"
 metafile = true

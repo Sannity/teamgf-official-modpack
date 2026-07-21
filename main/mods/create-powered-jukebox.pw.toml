@@ -1,0 +1,13 @@
+name = "Create: Powered Jukebox"
+filename = "powerjukebox-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cdf7e7b33762f49aa2c55ed45187243466693bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8429112
+project-id = 1600886
