@@ -1,0 +1,13 @@
+name = "Back Tools (Fabric & NeoForge)"
+filename = "backtoolsneoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61e988a0b9a059f8c201b47a0559c58ffe0a6659"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7893643
+project-id = 1507549
