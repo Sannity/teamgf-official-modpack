@@ -1,4 +1,14 @@
-![Maintop](https://i.imgur.com/m2mKMMy.png)
+<!--
+Source - https://stackoverflow.com/a/70200610
+Posted by Giorgos Xou, modified by community. See post 'Timeline' for change history
+Retrieved 2026-07-20, License - CC BY-SA 4.0
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/teamgf_logo_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/teamgf_logo_black.png">
+  <img alt="team Good Friends logo" src="assets/teamgf_logo.png">
+</picture>
 
 # Welcome to teamGF!
 
