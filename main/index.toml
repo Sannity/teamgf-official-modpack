@@ -3468,6 +3468,11 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
+file = "mods/player-plates.pw.toml"
+hash = "3e3ad76fd7ffcd558a78dd44356cf324609dae85e9d61d2201591e3fb77b7f6a"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "bb53e2c30a71e477476f8964b9a8c5294207969659c755b5c9993bca94139385"
 metafile = true

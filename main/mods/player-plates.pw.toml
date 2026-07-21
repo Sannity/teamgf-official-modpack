@@ -1,0 +1,13 @@
+name = "Player Plates (Obsidian Plates)"
+filename = "playerplates-neoforge-21.1.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "574b953c9ff8cc1eef0aeba6f368f32fb2f8270a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5711182
+project-id = 311645
