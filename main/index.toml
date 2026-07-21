@@ -3383,6 +3383,11 @@ hash = "898f95ce4f3e844456f53bcde4a32d6d223741fe0310caa98c041cedf1bc4138"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "48b50d6d0ecf3a648f059eaa8d15fbda6608d78036a4697f40bf16d6862ddbab"
+metafile = true
+
+[[files]]
 file = "mods/oelib.pw.toml"
 hash = "35636592b69d888d7d778a85b3f7dbf3803beba25a9a1927f4cc71386dbe502a"
 metafile = true
