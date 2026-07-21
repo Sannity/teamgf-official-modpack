@@ -1,0 +1,13 @@
+name = "Clear Water"
+filename = "clearwater-neoforge-1.21-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e95c82a455cdb9a3795fd7b17cfff03feb06b4ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5966530
+project-id = 286098

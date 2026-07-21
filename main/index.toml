@@ -2998,6 +2998,11 @@ hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]
+file = "mods/clear-water.pw.toml"
+hash = "03e74a3055eaefb4e865d14d5ed1f0e8c9a879037f1bddb29d2e7c7b91133816"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
