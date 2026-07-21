@@ -2894,6 +2894,11 @@ hash = "456a0babaee386899b88481cfe1c81423ab34e50f7d55c8c0f235878a8454324"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
+metafile = true
+
+[[files]]
 file = "mods/ae-additions-extra-cells-2-fork.pw.toml"
 hash = "3d8bea02fe4ed53f32f87faa6f5c824b11de171affc092dfeab885d13e15ff5b"
 metafile = true
