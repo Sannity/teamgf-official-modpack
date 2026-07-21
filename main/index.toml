@@ -3433,6 +3433,11 @@ hash = "48b50d6d0ecf3a648f059eaa8d15fbda6608d78036a4697f40bf16d6862ddbab"
 metafile = true
 
 [[files]]
+file = "mods/neosync.pw.toml"
+hash = "6217df5d4091e3096cfa0621100276463f80a1f4cd8842eb9be5deae8486c3ab"
+metafile = true
+
+[[files]]
 file = "mods/oelib.pw.toml"
 hash = "35636592b69d888d7d778a85b3f7dbf3803beba25a9a1927f4cc71386dbe502a"
 metafile = true
