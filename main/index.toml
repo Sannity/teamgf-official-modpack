@@ -3758,6 +3758,11 @@ hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
 
 [[files]]
+file = "mods/verseworks.pw.toml"
+hash = "b9e99329c63d7f3a4f221ec74e37b7fb59f9f37fda7a690795360d9205a45951"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "e2d2260741f435459f98861cb6fce32b00af5762c15daab8704eb5a0b8c33003"
 metafile = true
