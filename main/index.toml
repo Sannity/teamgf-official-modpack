@@ -3718,6 +3718,11 @@ hash = "192cbdfa7da7a80e6a74e441d75dec5bca5349acbf423942ba1849e99365f812"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "dc7140923a01338926a9bea3708b12ddc2599c1bb6c52b5dc624dbdcdde9385e"
+metafile = true
+
+[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "65817dfe09e05ad62e3c92afdadd987dc9342c1503db303ca47e493152d20109"
 metafile = true
