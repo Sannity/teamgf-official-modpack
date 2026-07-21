@@ -1,0 +1,13 @@
+name = "Wormhole (Portals)"
+filename = "wormhole-1.1.16-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c065a7d5d4375fa004849e01f3f3137bb760733f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5634961
+project-id = 396803
