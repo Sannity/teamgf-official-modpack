@@ -1,0 +1,13 @@
+name = "Aquatic Breeding"
+filename = "fisheggs-1.0.2+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a15918a949017fa94ba1a8ce4ca6394480e4df6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7330264
+project-id = 1335339

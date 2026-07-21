@@ -2949,6 +2949,11 @@ hash = "fbbea448bb6a8bdab5d9f10fb5d27d177a0e7998fb4d797287f0a83b6f89e6d2"
 metafile = true
 
 [[files]]
+file = "mods/aquatic-breeding.pw.toml"
+hash = "d5920db7c32b57d8da1ddabc6de34081bb78f42efb8a40a3ae2b05310e47c8b9"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
