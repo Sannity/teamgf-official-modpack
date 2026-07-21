@@ -2959,6 +2959,11 @@ hash = "513ba49ef3319ad94cc1e10af4314c774aaccf6b485beaecf79ecd2b3227d0a4"
 metafile = true
 
 [[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "ca3e99ea3869887268a3e2ccd64f011a0a43c1fb831371873738bee9cc3ed63b"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "7904c140247e0d8a87231cf4d36718fc018e0f851dbec2517b673acdc25547df"
 metafile = true
