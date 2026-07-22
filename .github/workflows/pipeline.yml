@@ -78,7 +78,7 @@ jobs:
 
       - name: Perform Release with Release Please
         id: release-please
-        uses: google-github-actions/release-please-action@v3
+        uses: googleapis/release-please-action@v4
         with:
           monorepo-tags: true
           path: ${{ matrix.modpack }}
@@ -93,15 +93,6 @@ jobs:
             {"type":"chore","section":"⛭ Miscellaneous","hidden":true}]
 
 
-      - name: Parse tag from PR title
-        uses: actions-ecosystem/action-regex-match@v2
-        id: version
-        with:
-          text: ${{ fromJson(steps.release-please.outputs.pr).title }}
-          regex: '(?<=\s)(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?(?:\+([0-9A-Za-z-]+(?:\.[0-9A-Za-z-]+)*))?$'
-        if: ${{ steps.release-please.outputs.pr != '' }}
-
-
       - name: Check Out Git Repository
         uses: actions/checkout@v4
         with:
@@ -111,7 +102,7 @@ jobs:
       - name: Bump Version
         uses: ./.github/actions/bump-pack
         with:
-          release-tag: ${{ steps.version.outputs.match }}
+          release-tag: ${{ steps.release-please.outputs.tag_name }}
           modpack: ${{ matrix.modpack }}
           branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
         if: ${{ steps.release-please.outputs.pr != '' }}
