@@ -1,0 +1,13 @@
+name = "Improved Sign Editing"
+filename = "improvedsignediting-1.21.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4c9c00e4abd9333f4370ab12dc51fbde3ff7abd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6185676
+project-id = 952629

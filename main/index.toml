@@ -3328,6 +3328,11 @@ hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
 
 [[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "c2d1c7069acca2b3a9eb70bb09a0f08edb3f15828de9c24c4b266cc3ccb013f3"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "c307c6f682a2ddff8181191b1070bae08c11482eccef8ea3d0428ea63ac08d6e"
 metafile = true
