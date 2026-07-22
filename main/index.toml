@@ -3293,6 +3293,11 @@ hash = "f6bcf591a91c87fe02187642c7311ce08ed9d0d997be0fb5befc41b7fb61b868"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "964c0651a14e5aec6da78a6668c8cabc4dc1320910fc2852a998152a2ddad611"
+metafile = true
+
+[[files]]
 file = "mods/growthcraft-community-edition.pw.toml"
 hash = "13b782430af00b909b69dbb13c3b2efb237a00db74337afce6650cff2b17e872"
 metafile = true
