@@ -6,69 +6,15 @@ on:
       - main
 
 env:
-  pack-file: 'pack.toml'
+  MODPACK_PATH: 'main'
   default-release-modrinth: 'false'
   default-release-curseforge: 'true'
 
 
 jobs:
-
-  parse-current-modpacks:
-    name: Parse current modpacks to a list
-
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-
-
-    outputs:
-      modpack-folders: ${{ steps.list-modpacks.outputs.modpack-folders }}
-    
-    steps:
-
-      - name: Check Out Git Repository
-        uses: actions/checkout@v4
-
-      - name: List Modpacks
-        id: list-modpacks
-        run: |
-          modpackFolders=()
-          for folder in *; do
-            if [ -d "$folder" ]; then
-              if [ -e "$folder/${{ env.pack-file }}" ]; then
-                modpackFolders+=("$folder")
-              fi
-            fi
-          done
-          
-          echo "modpack-folders=$(jq --compact-output --null-input '$ARGS.positional' --args -- "${modpackFolders[@]}")" >> "$GITHUB_OUTPUT"
-
-
-      - name: Current detected modpacks
-        run: |
-          echo "::notice ::⚙ Current detected modpacks: ${{ steps.list-modpacks.outputs.modpack-folders }}"
-
   release-please:
-
-    needs:
-      - parse-current-modpacks
-  
-    if: ${{ (needs.parse-current-modpacks.outputs.modpack-folders) != '[]' }}
-
-    strategy:
-      fail-fast: false
-      matrix:
-        modpack: ${{ fromJson(needs.parse-current-modpacks.outputs.modpack-folders) }}
-
-    name: Handle Releases
-
+    name: Handle Release
     runs-on: ubuntu-latest
-
-    defaults:
-      run:
-        working-directory: ${{ matrix.modpack }}
-
     permissions:
       contents: write
       pull-requests: write
@@ -76,36 +22,21 @@ jobs:
 
     steps:      
       - name: Perform Release with Release Please
+        id: release-please
         uses: googleapis/release-please-action@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+        
       - name: Check Out Git Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-
-      - name: Bump Version
-        uses: ./.github/actions/bump-pack
-        with:
-          release-tag: ${{ steps.release-please.outputs[format('{0}--tag_name', matrix.modpack)] || steps.release-please.outputs[format('{0}--version', matrix.modpack)] }}
-          modpack: ${{ matrix.modpack }}
-          branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
-        if: ${{ steps.release-please.outputs.pr != '' }}
-
-
-      - name: Get Latest tag
-        id: tag
-        uses: WyriHaximus/github-action-get-previous-tag@v1
-        if: ${{ steps.release-please.outputs.releases_created }}
+        if: ${{ steps.release-please.outputs.releases_created == 'true' }}
 
       - name: Parse Pack File
         id: parse
         uses: ./.github/actions/parse
         with:
-          modpack: ${{ matrix.modpack }}
-        if: ${{ steps.release-please.outputs.releases_created }}
+          modpack: ${{ env.MODPACK_PATH }}
+        if: ${{ steps.release-please.outputs.releases_created == 'true' }}
 
       - name: Set Mod Vendors
         id: set-mod-vendors
@@ -113,25 +44,23 @@ jobs:
           [[ ! -z "${{ secrets.CURSEFORGE_TOKEN }}" && ! -z "${{ secrets.CURSEFORGE_ID }}" ]] && echo "curseforge=true" >> $GITHUB_OUTPUT || echo "curseforge=false" >> $GITHUB_OUTPUT
           [[ ! -z "${{ secrets.MODRINTH_TOKEN }}" && ! -z "${{ secrets.MODRINTH_ID }}" ]] && echo "modrinth=true" >> $GITHUB_OUTPUT || echo "modrinth=false" >> $GITHUB_OUTPUT
         shell: bash
-        if: ${{ steps.release-please.outputs.releases_created }}
-
+        if: ${{ steps.release-please.outputs.releases_created == 'true' }}
 
       - name: Build Modpack
         uses: ./.github/actions/build
         with:
-          modpack: ${{ matrix.modpack }}
-          release-tag: ${{ steps.tag.outputs.tag }}
+          modpack: ${{ env.MODPACK_PATH }}
+          release-tag: ${{ steps.release-please.outputs['main--tag_name'] }}
           build-modrinth: ${{ env.default-release-modrinth }}
           build-curse: ${{ env.default-release-curseforge }}
-        if: ${{ steps.release-please.outputs.releases_created }}
-
+        if: ${{ steps.release-please.outputs.releases_created == 'true' }}
 
       # --- Release
       - name: Release Modpack to Vendors
         uses: ./.github/actions/release
         with:
-          modpack: ${{ matrix.modpack }}
-          release-tag: ${{ steps.tag.outputs.tag }}
+          modpack: ${{ env.MODPACK_PATH }}
+          release-tag: ${{ steps.release-please.outputs['main--tag_name'] }}
           loader: ${{ steps.parse.outputs.loader }}
           game-version: ${{ steps.parse.outputs.game-version }}
           upload-modrinth: ${{ steps.set-mod-vendors.outputs.modrinth }}
@@ -141,5 +70,5 @@ jobs:
           CURSEFORGE_ID: ${{ secrets.CURSEFORGE_ID }}
           CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
         if: |
-          steps.release-please.outputs.releases_created &&
+          steps.release-please.outputs.releases_created == 'true' &&
           (steps.set-mod-vendors.outputs.modrinth || steps.set-mod-vendors.outputs.curseforge)
