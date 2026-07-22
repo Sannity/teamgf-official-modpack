@@ -11,5 +11,6 @@
   ],
   "packages": {
     ".": {}
-  }
+  },
+  "bootstrap-sha": "12433dba43e8355ab5cf82fbbedbecc0ffcb7beb"
 }
