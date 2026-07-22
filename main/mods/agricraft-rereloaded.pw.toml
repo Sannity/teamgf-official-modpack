@@ -1,13 +1,13 @@
 name = "AgriCraft ReReloaded"
-filename = "AgriCraft-neoforge-1.21.1-4.0.13.jar"
+filename = "AgriCraft-neoforge-1.21.1-4.0.15.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f41d0d2ee978e27061f7846bd9d43c259ac4dc7c"
+hash = "b2d101775f74be24f4a39092160def8f1cc8098b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8473901
+file-id = 8479415
 project-id = 1616052
