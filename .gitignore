@@ -7,5 +7,16 @@
 # Exclude .direnv
 .direnv
 
-# Eclude precommit hooks config
+# Exclude precommit hooks config
 .pre-commit-config.yaml
+
+srv/libraries
+srv/logs
+srv/world
+srv/banned-ips.json
+srv/banned-players.json
+srv/eula.txt
+srv/help.yml
+srv/ops.json
+srv/usercache.json
+srv/usernamecache.json
