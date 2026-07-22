@@ -3887,6 +3887,11 @@ file = "mods/wispwillow-1.3.3.jar"
 hash = "da6f9543ef7b670daede4a2f4e52389a54c9446909517d75bb0e6deeb57bb758"
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+metafile = true
+
+[[files]]
 file = "mods/wormhole-portals.pw.toml"
 hash = "2db20344c5d0e8656a93aca3360a73d27f657459ce5a23c21acce7451dced866"
 metafile = true
