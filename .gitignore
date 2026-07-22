@@ -10,13 +10,21 @@
 # Exclude precommit hooks config
 .pre-commit-config.yaml
 
-srv/libraries
-srv/logs
-srv/world
+# --- Server: generated / large / stateful ---
+srv/mods/
+srv/libraries/
+srv/world/
+srv/world_nether/
+srv/world_the_end/
+srv/logs/
+srv/crash-reports/
+srv/*.jar
+srv/defaultconfigs/
+srv/versions/
+srv/eula.txt
 srv/banned-ips.json
 srv/banned-players.json
-srv/eula.txt
-srv/help.yml
 srv/ops.json
+srv/whitelist.json
 srv/usercache.json
 srv/usernamecache.json
