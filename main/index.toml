@@ -3438,6 +3438,11 @@ hash = "14a344db4da97ac6d8963ff9983e29b8d19ed0b431beef21c008e0da9b6a4c41"
 metafile = true
 
 [[files]]
+file = "mods/minemenu.pw.toml"
+hash = "d82f3720870935745c8e8f9215f0aa111c853914a3958b01b0d7642ef56af1e7"
+metafile = true
+
+[[files]]
 file = "mods/missing-mods-checker.pw.toml"
 hash = "55fd16cf7dbb9644872f07daf871dceca8b343e4f17d0496cbcc007a430355aa"
 metafile = true
