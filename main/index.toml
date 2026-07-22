@@ -3393,6 +3393,11 @@ hash = "51270e58cdea58fb144129e0fc1f9d96f6d4fbead23513984e5eed745262f937"
 metafile = true
 
 [[files]]
+file = "mods/just-player-heads.pw.toml"
+hash = "afc369f96a2ecc7a8839b1265f74cf739d32001b890316df904dbc0adc97502a"
+metafile = true
+
+[[files]]
 file = "mods/kibe.pw.toml"
 hash = "beafa96a1fa5676fc9fd05b04ebe0753e475e7cd906dec0f6dd29c776abc8411"
 metafile = true
