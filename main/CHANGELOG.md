@@ -1,5 +1,21 @@
 # Changelog
 
+## 3.0.3 (2026-07-22)
+
+
+### Features
+
+* **main:** Fixed client mods for server installation ([d7a26ff](https://github.com/Sannity/teamgf-official-modpack/commit/d7a26ff517c19db4e28ce7df2e272e907211b4ae))
+* **main:** init packwiz and upload 3.0.2 files ([12433db](https://github.com/Sannity/teamgf-official-modpack/commit/12433dba43e8355ab5cf82fbbedbecc0ffcb7beb))
+
+
+### Bug Fixes
+
+* env and inputs are weird ([6d2c767](https://github.com/Sannity/teamgf-official-modpack/commit/6d2c767f2e67d5c5fa5e204e5005d469933d7583))
+* **main:** add pack description and publish 3.0.3 ([6a777b3](https://github.com/Sannity/teamgf-official-modpack/commit/6a777b3b738f9c3272a0e213c61f231d5899f6fa))
+* **main:** correct CurseForge export manifest (NeoForge modLoaders) ([188ad0c](https://github.com/Sannity/teamgf-official-modpack/commit/188ad0c62661f323b432b22ede05ef210aec4015))
+* **packwiz:** move .packwizignore ([d4ae999](https://github.com/Sannity/teamgf-official-modpack/commit/d4ae999b6f0e9791ed6f0aafefeb84ab5af94b0d))
+
 ## [3.0.6](https://github.com/Sannity/teamgf-official-modpack/compare/main-v3.0.5...main-v3.0.6) (2026-07-22)
 
 
