@@ -102,7 +102,7 @@ jobs:
       - name: Bump Version
         uses: ./.github/actions/bump-pack
         with:
-          release-tag: ${{ steps.release-please.outputs.tag_name }}
+          release-tag: ${{ steps.release-please.outputs[format('{0}--tag_name', matrix.modpack)] || steps.release-please.outputs[format('{0}--version', matrix.modpack)] }}
           modpack: ${{ matrix.modpack }}
           branch: ${{ fromJson(steps.release-please.outputs.pr).headBranchName }}
         if: ${{ steps.release-please.outputs.pr != '' }}
