@@ -3228,6 +3228,11 @@ hash = "04112db8cc0255891c0054989255a8b95a37e97d610d8eae6d6cc12ed734cc55"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
+metafile = true
+
+[[files]]
 file = "mods/fastquit-forge.pw.toml"
 hash = "6ae0b7f76137107984cc8a6264f4cc97c8fa46fd91ca5d630fed87675e853c54"
 metafile = true
@@ -3410,11 +3415,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
-metafile = true
-
-[[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "76806236c79f5437953100c618c15aaba2c4e349e29d83113286bb808c687683"
 metafile = true
 
 [[files]]
