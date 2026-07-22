@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/Sannity/teamgf-official-modpack/compare/v3.1.0...v3.2.0) (2026-07-22)
+
+
+### Features
+
+* Swap leaf decay mods ([a0140b0](https://github.com/Sannity/teamgf-official-modpack/commit/a0140b04849cff42d1acf4760f9b9fbf17dbfa32))
+
 ## [3.0.6](https://github.com/Sannity/teamgf-official-modpack/compare/main-v3.0.5...main-v3.0.6) (2026-07-22)
 
 
