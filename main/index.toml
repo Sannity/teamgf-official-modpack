@@ -2984,6 +2984,11 @@ hash = "62a4c812fdf9ae0ad6dc176b9fab29e709cdbfe1c0aca0fc5287926083f3bac5"
 metafile = true
 
 [[files]]
+file = "mods/betterblockz.pw.toml"
+hash = "771899387b456984d3930eb7ebbd4d31109371ca6155e32550e06090eb361cee"
+metafile = true
+
+[[files]]
 file = "mods/bibliobiomes-legacy.pw.toml"
 hash = "2bbe7ed0a5b6fe914a1cf3bfae797b960aab05a0c480fa9d250eb63cbc35e2c4"
 metafile = true
@@ -3894,11 +3899,6 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "2f6b9a34215c8de94688f29f06f436754b54b868934d85a170e2fb9f272770b9"
-metafile = true
-
-[[files]]
-file = "mods/xtones-reworked.pw.toml"
-hash = "1132414db9ee9b2e8222ab4322fd25740b69b4c8757b42b77a31b6efa7b88376"
 metafile = true
 
 [[files]]

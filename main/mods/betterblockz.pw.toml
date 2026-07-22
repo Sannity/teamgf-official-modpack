@@ -1,0 +1,13 @@
+name = "BetterBlockZ"
+filename = "betterblockz-0.2.9-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "859aede566bf73e0bd65e3a498aeca32f9a24525"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8077446
+project-id = 1361873
