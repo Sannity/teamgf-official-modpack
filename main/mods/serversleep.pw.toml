@@ -1,6 +1,6 @@
 name = "ServerSleep"
 filename = "serversleep-mod.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

@@ -3734,7 +3734,7 @@ metafile = true
 
 [[files]]
 file = "mods/serversleep.pw.toml"
-hash = "8b48afbc59910ff33ab7709e6127d709c8bb09b474e48508a28795e742f974bf"
+hash = "f33d4a5b7d66af9dae66a67ecd7bc69078b786931652de9ee7e681c440fe3508"
 metafile = true
 
 [[files]]
