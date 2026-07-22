@@ -13,6 +13,11 @@
 # --- Server: generated / large / stateful ---
 srv/mods/
 srv/libraries/
+srv/configureddefaults/
+# Exclude ALL configs
+srv/config/*
+# But allow specific configs to be included in the repo
+# Example: !srv/config/config.yml
 srv/world/
 srv/world_nether/
 srv/world_the_end/
@@ -27,4 +32,10 @@ srv/banned-players.json
 srv/ops.json
 srv/whitelist.json
 srv/usercache.json
-srv/usernamecache.json
+srv/server.properties
+srv/.mixin.out
+srv/backups
+srv/dynamic-data-pack-cache
+srv/global_packs
+srv/database.db*
+srv/neoforge-installer.jar.log

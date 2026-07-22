@@ -1,6 +1,6 @@
 name = "Collapsible Groups (JEI)"
 filename = "collapsible_groups-neoforge-1.21.1-1.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

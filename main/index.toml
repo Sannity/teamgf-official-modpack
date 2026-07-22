@@ -2980,7 +2980,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-foliage-renewed.pw.toml"
-hash = "62a4c812fdf9ae0ad6dc176b9fab29e709cdbfe1c0aca0fc5287926083f3bac5"
+hash = "6c25bbb999a04008462782ee4f1350ac4f907e2c5aad37e4cff324e4efdc77c0"
 metafile = true
 
 [[files]]
@@ -3015,7 +3015,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless.pw.toml"
-hash = "513ba49ef3319ad94cc1e10af4314c774aaccf6b485beaecf79ecd2b3227d0a4"
+hash = "e30d4fa1f4f60479ee63f2d85947bb12b6bfe888124d79ee0f16390ec1710ab8"
 metafile = true
 
 [[files]]
@@ -3084,7 +3084,7 @@ metafile = true
 
 [[files]]
 file = "mods/collapsible-groups.pw.toml"
-hash = "73f2993c6cf5f889fecfe594ed29651286a55aafb8ebe85e077c9650b9ed1866"
+hash = "9dc7f6907e61cbc0a17a5b1e296e7e2e6c8331a4d495321e7fdad3cbf7a97c89"
 metafile = true
 
 [[files]]
@@ -3129,7 +3129,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "b4995cc89bc05e874b7e5fb399cfe76629ea83ed45e9bdac91a73bf57fb06b16"
+hash = "0c339cd72f47c5397b69a3a8cc3dd979d872196f756712bd54c5796e467e58b6"
 metafile = true
 
 [[files]]
@@ -3224,12 +3224,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "dc4686bed086fa566a0146be599134e6617dbd7b893a1e2ef70fe5a8e90c7559"
+hash = "04112db8cc0255891c0054989255a8b95a37e97d610d8eae6d6cc12ed734cc55"
 metafile = true
 
 [[files]]
 file = "mods/fastquit-forge.pw.toml"
-hash = "6f7f7f864aaa59189404730938579177c9dba21d07817a87742438d7d2674d66"
+hash = "6ae0b7f76137107984cc8a6264f4cc97c8fa46fd91ca5d630fed87675e853c54"
 metafile = true
 
 [[files]]
@@ -3344,7 +3344,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
@@ -3454,7 +3454,7 @@ metafile = true
 
 [[files]]
 file = "mods/minemenu.pw.toml"
-hash = "d82f3720870935745c8e8f9215f0aa111c853914a3958b01b0d7642ef56af1e7"
+hash = "e1213816722297e4747d993122e27a001126f722e7f8022bd2b8b5ab8b6bcf91"
 metafile = true
 
 [[files]]
@@ -3469,12 +3469,12 @@ metafile = true
 
 [[files]]
 file = "mods/mod-menu-neoforge-edition.pw.toml"
-hash = "9f18a709b7834e52436d19e5e7fe051fdf1d1d6dad6632ce5415c6f5a707ce74"
+hash = "092e47346a288a93eb69d50b235eb4b5a1ea449599045b8abd037388943bca0a"
 metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
+hash = "de97e04da7383f948463a2c2dd73884a474a9b20a64591061dd27cd0bc8988c2"
 metafile = true
 
 [[files]]
@@ -3669,7 +3669,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8f47f534372061308021b082fe67802a0bb6cb323e1dbbeb911c461b4cfe0518"
+hash = "9a8c2546447303b4dde1862ef1e358a1728f60845e029e9ca6ddaa622b618b53"
 metafile = true
 
 [[files]]
@@ -3769,12 +3769,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "65817dfe09e05ad62e3c92afdadd987dc9342c1503db303ca47e493152d20109"
+hash = "dcec987e7e4842b5a7744a59b6666fa15ef7e3dae93a140cba7b3da449cb0e6d"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
+hash = "3d615c32683131c6a98a7da16c28263c5ca5cf50e4f33029e8c72c3558bb362c"
 metafile = true
 
 [[files]]
@@ -3809,7 +3809,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
+hash = "cf4e5f63253b423171e41bbe4a55891a48cbabd9cb029952f7c8df70d74553b7"
 metafile = true
 
 [[files]]
@@ -3898,17 +3898,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
-hash = "9e786f3bb7ecf3a96cf865830c2cf6e4cf860dfc0372c668be5ca85147f3026a"
+hash = "b71d8037ca73bb75bb169818a5b48b0125527119e9029407f34d30c0d9a946e9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
+hash = "cb214059678b43fbfcc7266cc1345cdf577afbc1a0b7baeeecf284ea10b02269"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
+hash = "4fdab0d580a8e20ef23d74513e1f5ddbb46e56d379a6fabab9e5d4bbf9846329"
 metafile = true
 
 [[files]]
