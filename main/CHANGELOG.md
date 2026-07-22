@@ -1,5 +1,36 @@
 # Changelog
 
+## [3.0.6](https://github.com/Sannity/teamgf-official-modpack/compare/main-v3.0.5...main-v3.0.6) (2026-07-22)
+
+
+### ☀ Modpack Changes
+
+* **main/actually-harvest:** Add Actually Harvest ([d4a0775](https://github.com/Sannity/teamgf-official-modpack/commit/d4a077581ddb24aa1eaa8bba5cc343120c687a9c))
+* **main/appleskin:** Add AppleSkin ([0b7ed10](https://github.com/Sannity/teamgf-official-modpack/commit/0b7ed103bab85b9b45dc925c4eaeb112e3a0c242))
+* **main/aquaculture:** Add Aquaculture ([6ee30fa](https://github.com/Sannity/teamgf-official-modpack/commit/6ee30fa49327bcd4dd8d2024e4a617cbeef85b0e))
+* **main/aquatic-breeding:** Add fish breeding ([dafb9f7](https://github.com/Sannity/teamgf-official-modpack/commit/dafb9f71571633039a42addcf1509198bd287f46))
+* **main/balkons-weaponmod-legacy:** Add Balkon's WeaponMod: Legacy ([a2bb4b0](https://github.com/Sannity/teamgf-official-modpack/commit/a2bb4b0852fb6bfcc057d00a72fa4ab80f72068d))
+* **main/better-foliage-renewed:** Add Better Foliage ([ec5f064](https://github.com/Sannity/teamgf-official-modpack/commit/ec5f064d93708031a3a2cb609bd2d44d49ed837d))
+* **main/betterblockz:** Replaced xtones reworked with betterblockz ([6804f0b](https://github.com/Sannity/teamgf-official-modpack/commit/6804f0b5baf9d0ca22b277847b206ceb46d5a2ad))
+* **main/camo-blocks-mod:** Add Camo Blocks ([4fbf0f0](https://github.com/Sannity/teamgf-official-modpack/commit/4fbf0f042c82d11dc1e7a30334c9b7344b0f2f69))
+* **main/chococraft:** Add Chococraft ([dcbf5a3](https://github.com/Sannity/teamgf-official-modpack/commit/dcbf5a34460d36fb660b8532e22d07f88289abb2))
+* **main/create-powered-jukebox:** Add Create: Powered Jukebox ([a760038](https://github.com/Sannity/teamgf-official-modpack/commit/a760038350ea0f083c1ba13021b55c3f41c5266f))
+* **main/fishing-bobber-detector:** Add Fishing Bobber Detector for Create ([30f9046](https://github.com/Sannity/teamgf-official-modpack/commit/30f904655b8509e35c5c12576b62d92341687833))
+* **main/grieflogger:** Add Grief Logger ([3c80b23](https://github.com/Sannity/teamgf-official-modpack/commit/3c80b2389e83c64066b7f35f7dbdd18cf4227374))
+* **main/growthcraft-community-edition:** Add GrowthCraft ([8cf1a22](https://github.com/Sannity/teamgf-official-modpack/commit/8cf1a22efc59cdf3e50b621361e8e465f555d36b))
+* **main/improved-sign-editing:** Add Improved Sign Editing ([067d2ec](https://github.com/Sannity/teamgf-official-modpack/commit/067d2ec20671ee3eade2c730c70cf56d343dae2f))
+* **main/modmenu:** Add Mod Menu ([33446f2](https://github.com/Sannity/teamgf-official-modpack/commit/33446f2c6d950ce4eb8466afbe7440e06b54ad35))
+* **main/random-things-returns:** Add Random Things ([e941768](https://github.com/Sannity/teamgf-official-modpack/commit/e941768a5df03f9e8c04cf5d79b8d8172026d806))
+* **main/security-craft:** Add Security Craft ([5138f33](https://github.com/Sannity/teamgf-official-modpack/commit/5138f33c35429f318f7e2e202c902c0b5a17e4f4))
+* **main/small-ships:** Add Small Ships ([10407e1](https://github.com/Sannity/teamgf-official-modpack/commit/10407e1065f6f9cf00b266b3507eaf24374ff4bf))
+* **main/sophisticated-backpacks:** Add Sophisticated Backpacks ([59a94b1](https://github.com/Sannity/teamgf-official-modpack/commit/59a94b16e007264d95aacf00ec6c05760871619a))
+* **main/transport-simulator-official-vehicle-set:** Add Immersive Vehicles Set ([b69762e](https://github.com/Sannity/teamgf-official-modpack/commit/b69762ef3c90da0a92e2865009ca9648f718c48f))
+* **main/trinkets-and-baubles-reforked:** Add Trinkets and Baubles ([d26f53a](https://github.com/Sannity/teamgf-official-modpack/commit/d26f53a877a0b7b745b184c45f1d0010bc20700a))
+* **main/verseworks:** Add Verseworks ([e29a5c5](https://github.com/Sannity/teamgf-official-modpack/commit/e29a5c5b11a4ba650875e08dcb9c71d96b9adb1e))
+* **main/worldedit:** Add World Edit ([2e3bb44](https://github.com/Sannity/teamgf-official-modpack/commit/2e3bb447f7e5afcc64af0bfb55d9d2ec855b8cec))
+* **main/wormhole-portals:** add Wormhole (Portals) ([54c9682](https://github.com/Sannity/teamgf-official-modpack/commit/54c9682aaff966809500e887b0a042cafc61271a))
+* **reliquary-reincarnations:** Add Reliquary Reincarnations ([c878ee3](https://github.com/Sannity/teamgf-official-modpack/commit/c878ee3bf56678252d0ea8cbed12c24b3a723906))
+
 ## [3.0.5](https://github.com/Sannity/teamgf-official-modpack/compare/main-v3.0.4...main-v3.0.5) (2026-07-21)
 
 
