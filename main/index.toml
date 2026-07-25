@@ -18,11 +18,11 @@ hash = "aa340ffbcee87e64d0a201b5a1c8687a3cd4fbf369187c0ac77304b365a1a4c3"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/enabled_overrides.json"
-hash = "bb7c18060ba17dcae806d154c237e8479e1365306b1ee9185ca5926a81858a74"
+hash = "99db44da3c2c15f3f614e1f025b1d9834e477f47b3d90c6ddf12fc550237adac"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/expand_state.json"
-hash = "2ff7fa6a3148762105d05f1c843ef44ce57f8e3ed6945412d913f80685f69c8a"
+hash = "b6f5cc0c83f0a283ebb38f85171306a6a009514bacecd6b84e6681dfda0ec5fc"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/addons_efficiency.json"
@@ -49,6 +49,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/advanced_turtles.json
 hash = "a897bbcc45be2a613096d795d59672b2932f09e01caf647e09fb75ff27787ebb"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/agon_blocks.json"
+hash = "1a96a0a9051a1da3fb95260c3b0c06643b2c5a047b4bdf7cc0835f4c79557a2c"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/agricraft_seeds.json"
 hash = "43afee210bc6b024c077146e7236195179e40a42c18590103456722be33bd81e"
 
@@ -65,6 +69,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/aluminum_scaffolding.
 hash = "991a87fa4706ff6321c608c98b7b91d3b497d7f77626bb68c028c4a96d21475e"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/amber_core_blocks.json"
+hash = "2965ede2912eb87f44acee45dad33456b19e44cd4861565d138e2711d36bd814"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/andesite.json"
 hash = "f9c0e6882d71a5387827faa3be09b7541e4a3b8dd7c6f65484cfbf0788bdee64"
 
@@ -77,6 +85,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/antimony_blocks.json"
 hash = "f2b0637f8af39c62a518b534c8711af2cc0f9ef6468d911a08d6225a16d96f17"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/armz_blocks.json"
+hash = "f776aa35bec3536e73b7c469630be02dbd6ca9606a810d035d8cdd55836dac0b"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/astralite_blocks.json"
 hash = "0bae219aa7484058c75fd82a355c89b4b7accffbfabe8dd980b6a1d4af3d2011"
 
@@ -85,8 +97,20 @@ file = "configureddefaults/config/collapsiblegroups/groups/asurine.json"
 hash = "28dff83ddbb381f81ebfbfd1adb0f3a5a8cd1c850eb5cd68acb7c1c0371b1938"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/aurora_blocks.json"
+hash = "ed91aa802b9728b9eb652689529a660ace4bbc1178d1d21172655f3bf96aad28"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/awakened_draconium_blocks.json"
 hash = "94304a1eb1d59ae6c2b4e0baa05a3db6afa834cf49be0543d4a486b833b5d3e3"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/awakened_supremium_blocks.json"
+hash = "7030a0c2990919c5da12edc1fc21b77ec19b0d38cea6a5b5d6a8e1bcd14acb77"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/azur_blocks.json"
+hash = "33f5c38d0c8e6f182fbd576a709231de96e5099bbe5a50a562c8ff4fb889b77f"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/azure_electrum_blocks.json"
@@ -99,6 +123,10 @@ hash = "d5ed53d8c209c04654d9dc7a79e5a8227dd6c709493a89a6bf488e2e69a3cb86"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/backpacks.json"
 hash = "021b1831df7774093765b66d2ac2a81535778fd2884390218e97f8cf613463c7"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/backpacks_2.json"
+hash = "b041c553e0908c1a6187a153dfeac55a4b94fbebf2e177309c76bcc45f97c884"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/bamboo_armchairs.json"
@@ -245,6 +273,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/bibliocraft_typewrite
 hash = "3ae8be68c1f9f7ba3e539669902c5d187263a7876f423abff3aee75e4f7f25dd"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/bitt_blocks.json"
+hash = "9998c78de86750866ff469be7ef4a3158e23db34b64240e8927b81f62bd75ed6"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/black_sand_blocks.json"
 hash = "6288289fa3f5d77d5daf7a5d86660935722708414d618ce7903ad52a3c795b74"
 
@@ -297,6 +329,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/bricks.json"
 hash = "ae64acb77ac99d1f3d8b096a16bc1e122611f7f7d76152a6980db95f9458d8ab"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/briggs.json"
+hash = "90ad04c5e9f9439df9efa9ae3b8797ac44425794e2bd631c6f809fb206ceacd4"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/brimstone_blocks.json"
 hash = "9a6d38e4ba05384608be841d552287df9ed5a313d85a19167b8a08bd242e6f21"
 
@@ -306,7 +342,7 @@ hash = "447b51d96c9815dde01b310deadd3826c3de1da6d063b3caf82b3bdd60a5be7e"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/buckets_of_fish.json"
-hash = "497ac1ea729f0cf7cc04b2f2308d83a0c0159ead68c26b867e2ea13eadd874fe"
+hash = "a4266ca65ce635fb4beaaa5ab7f2980379dd51b1a2352d0ffbeabc8897a92ea9"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/budding_blocks.json"
@@ -317,12 +353,16 @@ file = "configureddefaults/config/collapsiblegroups/groups/buds.json"
 hash = "7b05245886c370587665895f8342e268dce150675a93ee67ee7d09ad04074bc7"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/bullets.json"
+hash = "d0846f173cf653f0bdc6804d65be635fd6bc517d829c4f78c45e0cc1eb756251"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/bundled_cables.json"
 hash = "e05dbcd25221e35deaab8e0aa2b313c1d75b0cb9c2de5ac0ef1ce82eac0afe64"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/buttons.json"
-hash = "e228b03c78be2f5ee74bf14ec9a6e2040d9e7cd84f5abe117a90dd8fe363317e"
+hash = "aebd18820e67facddb58fcbeebca6b99873dbcd8e97b092772aaf8ec6061ca19"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/cage_lights.json"
@@ -383,6 +423,10 @@ hash = "ce5dd27a46f8bb54b1aa230f06c15b009d2dade4f5796f290b807b3d92cd582f"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/cobblestone_generators.json"
 hash = "5807f9ab342b758ee3915e59add2892428588d570c60dfd784878fcb378170ae"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/cogs.json"
+hash = "2931cd813fa180896bb3f9b655703c9efec3821816a6996f8e47b02fd300f81a"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/coils.json"
@@ -541,6 +585,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/crafting_storages.jso
 hash = "eaa106c0bed02969868c5dacf541030cd4425a1297b803f4a40bd48dc11aea9d"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/cray_blocks.json"
+hash = "9cefbe560e144f546cac6b9217525b945ea49b69d462213286ecd83dda712a0f"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/create_potions.json"
 hash = "bcf73c2eb2772d2347b38eec3af0a49c50fbbc3cdecd74b72e0a908785b604f2"
 
@@ -555,6 +603,10 @@ hash = "5c2f1284cb39093af57646f1f1ea323ff2f3e735a303fe21ab6d355fa02aa18d"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/crimson_iron_blocks.json"
 hash = "9752cc315f6fa66beb1e395762b0659c1bf9e5612cfa30428cc577441188b901"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/crimson_slate_blocks.json"
+hash = "4353d8409ef6464cb2edd5aec5cacc9fdd18095f4eb345208777685fd46792a6"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/crimson_steel_blocks.json"
@@ -583,6 +635,22 @@ hash = "066756968345f8e8c4d2eb553f0e9ff7f608e920eb2a40e4dfe1815bd67f2465"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/cyanite_blocks.json"
 hash = "5e8a5cb787930fbceb02f1b9051ded6d18b74a80923e95ce0f3eaa299f163a01"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/cyber_light_blocks.json"
+hash = "13635c82d4025f0efc3a675612f4efa9cf288054edee18524e1f25bc9bd1d29c"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/cyber_light_blocks_2.json"
+hash = "1eb194144a3e2f328dcbb9cc4ab79db2e3e033916e7d0e93a5588f94e2a1938a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/cyberlight_blocks.json"
+hash = "7b0c2a8de428021cfe38ff17378902ef8259f2f900b0df39159d957994393fb4"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/cyberlight_cycle_blocks.json"
+hash = "9bae238104b7072bef6a08fb5e06199858a3557e91763cddf000337e32c6d1e6"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/dark_prismarine_blocks.json"
@@ -1653,8 +1721,16 @@ file = "configureddefaults/config/collapsiblegroups/groups/diamond_chests.json"
 hash = "fce0ddd5daeefd97f1c7ad719fd0ffcdfe3f304c8667e527af00466e14507a39"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/diamond_frame_platform_blocks.json"
+hash = "b30deb03c7d62423fd5f9522ed13965221dfa2a6dd330f2b9a1fcaf4e19b879b"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/diorite.json"
 hash = "571d8812c0803e73aff0758112a9004de3ea401e7a85533c927f59d0bd5c957c"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/dirt_blocks.json"
+hash = "60726e04754eeac6c4cf60cf052459b92a8f2602c34a3b6253013a584292c993"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/disks.json"
@@ -1667,6 +1743,10 @@ hash = "dbb9da05eeaf2dbeb78c662d3e27399844cea49a2672f9c9bfbc17f8986fb164"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/draconium_blocks.json"
 hash = "117903eb07154b12fb273eec5b710481307e289c9d8890fc47d2052f7f9f3062"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/drakkars.json"
+hash = "e6de0dbfb5c1765cc44e51c00c5017154235ff21fd81d774c100a5404c5cd3bc"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/drawers_1x1.json"
@@ -1695,6 +1775,10 @@ hash = "301cb83b7f639c16b776c3468bc6ff2cb2f4e42f31a3febdc99a410f3345199a"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/dyes.json"
 hash = "310a4d047a0c02b918387fef2f8777fb2bac4cb093033c56c3cebc56daebf72a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/eclipse_blocks.json"
+hash = "693a28d4869c0ca4d31a1ce86b8e780a9e76ff9ab526d7395aa2ac8cd231dfec"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/electrum_blocks.json"
@@ -1734,7 +1818,7 @@ hash = "ab1801c5b18d977d9abccf4ef70a4f9703e939c62af0daaa75e089b1393fdc97"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/fences.json"
-hash = "b3e0255b4c8a70bee2c4c9cf060e674f45bb4d2e4e6edf696986c41fe56f833e"
+hash = "be64bfe2c5bb5e89062c3a137d6aedc55e8e5cd296d7c9139fbf3915f4bdaf41"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/fiery_blocks.json"
@@ -1757,6 +1841,14 @@ file = "configureddefaults/config/collapsiblegroups/groups/fluix_blocks.json"
 hash = "595a11d436e02854213133f2e5c5f3dbc100c3ebec3c74baa120d2de99710389"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/forge_copper_blocks.json"
+hash = "8a2d58cfcd265cd6badd9d293ef4a8aeac405818cb2bfb914ae418d49ea24fc0"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/fort_blocks.json"
+hash = "a8f309d8c9db2bb554ed74d9789a5475faf35a4da9e356194496fe16f50657fe"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/framed_bundled_cables.json"
 hash = "877b3c0033e71a0330e77af1747a8110a6fe19515b2e95889f289846a795ab13"
 
@@ -1771,6 +1863,10 @@ hash = "ded34fffb5617d28854b682c0c3a0d1c8e574c9734ae26f25b927e424bddb3b7"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/framed_rail_slopes.json"
 hash = "1b915f406adb5d0f3219be1e27b2d93c6d0643f774c08638cd135ee2f5c49ea8"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/galleys.json"
+hash = "df9195c8d9c5996b64b7b9ec80ff92f72ab3ede6c9e00a96b69281ebbeb7f0de"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/gliders.json"
@@ -1789,6 +1885,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/gold_chests.json"
 hash = "1314cc6447a1e89c8e352f3e7718a0bb02b7f82a240f81e5bc2461300e95cabd"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/gold_frame_platform_blocks.json"
+hash = "eda7efdf18a819371d70855337739793987cab36fc56251ab80fd7039570ac1e"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/gold_tier_upgrades.json"
 hash = "d96c479dd889c040b835e3e1c9f5d978d76f3e6def15c2fec93d0b2ac489e23c"
 
@@ -1801,8 +1901,16 @@ file = "configureddefaults/config/collapsiblegroups/groups/graphite_blocks.json"
 hash = "8d45d83e91ad872ab44fdab4d0f8283aeb4518209240d98767e67bfc5f6d4bdf"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/growthcraft_salt_blocks.json"
+hash = "cb39de9d4f09bee74cd74563517864cdd5685a43b425258767dfd1951e7f4d31"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/hanging_signs.json"
 hash = "b15718dc0682a92981da98bb0a73ceeda3c2bac4d0f2169adb0ccdb251cc6a89"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/hazard_blockz.json"
+hash = "3ae544ac09b9355b99d17f390de1e5d4a1dfc98a8035c624098fd864b3a9bdac"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/he_mox_blocks.json"
@@ -1829,8 +1937,16 @@ file = "configureddefaults/config/collapsiblegroups/groups/illumars.json"
 hash = "16a3b569c11ce9515cf731fd9b45abf65f56943833b3f258db49cae629a54b6f"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/imperium_blocks.json"
+hash = "9de30d804dabbf000bd16e12fc25d8b9140997b349acb79d507829bd6381ee28"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/inanite_blocks.json"
 hash = "235e533e2015b995590c505c805b42f451e511cf419bbb056f3960ea5e3d7474"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/inferium_blocks.json"
+hash = "4a438b9fab5c52a2a25d61059eb77e187a3dfbde2839d32aa9260424d823d2df"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/infinity_backpack.json"
@@ -1905,12 +2021,20 @@ file = "configureddefaults/config/collapsiblegroups/groups/iron_chests.json"
 hash = "59fae50346d5024067d69290eef2b79a0d25b312c8425ce524e5fb37ec9d04d9"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/iron_slate_blocks.json"
+hash = "fe72155e45c5f0824305060b8c549ebf9c9f7fad5daa395eb7e1a78fa0a76ec0"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/iron_tier_upgrades.json"
 hash = "60a50ed0888b7fbcc3d5d65f8703af79296722a58d2d011108d9a58b306f084d"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/ironwood_blocks.json"
 hash = "ba0d69c047d3153eed3324919d8fdd083bd4a0960e49171d2f40a04a98ba0303"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/iszm_blocks.json"
+hash = "bbb6cabc32a5ba19e2dd8e6b2daf4f473b44fc8fcbd87613fa1f0a712610522c"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/item_cells.json"
@@ -1921,6 +2045,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/jars.json"
 hash = "c95676f2412bf90f67689eafc2c7ea6918751b41c7de2eef1022175d013fcf46"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/jelt_blocks.json"
+hash = "08dba0bd24b8ca484c3c39fcfaf8048fd3be57349da2dd286c82c2b5d7d67dd3"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/kanthal_blocks.json"
 hash = "3d4b50370f4d9c1ac5acbe08bd915dd7d8a09080f802af7e98dd458c04cfed94"
 
@@ -1929,8 +2057,36 @@ file = "configureddefaults/config/collapsiblegroups/groups/knightmetal_blocks.js
 hash = "4719b608f048580f7790d548548e7ba83fd1def43557fd1c8c712b845f75fd0f"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/korp_blocks.json"
+hash = "495112267898f2b7f6f4fe018c8f0f4264fc640635d0f348e13b2d22e3c96dd4"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/kryp_blocks.json"
+hash = "d109fd6f212eeeff3017f496df1582ff3654d713b4710b703d237b0d6f6556bc"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/lab_link_blocks.json"
+hash = "c270b7764945fedecbf853e2b411a313cec36e7dcdc06fea0c55e6c50e3690c7"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/ladders.json"
 hash = "419bcb47ac6fbce239ec03e0fea83df1b60ee7d9b5c7683e5294cf61d8d5ab78"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/lairdecay_blocks.json"
+hash = "6ea5de83e6c1fbc9758559102e017324d05c4705e5796fdf5d3ee2cb8a617987"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/lairflesh_blocks.json"
+hash = "699b4fda63f5d5fc969d0dc2f59757b50624205af558f9dbdee15d3cf764769c"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/lairhusk_blocks.json"
+hash = "977a9bf12388fbd0023a1ae934fe7071617afc52835309541fcb71f9f57fbd1b"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/lairstain_blocks.json"
+hash = "5cc4b54f608cf336f754f469011419d0e78d90e798552a90b35d660f973e704f"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/lanterns.json"
@@ -1939,6 +2095,10 @@ hash = "070702a2a420c43e1a15374873cbe9fe30f111b049d1a90791cc10d89a77b20e"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/lapis_caelestis.json"
 hash = "e419fec9907612b740476e22e247ad48450d75aa6bf305472103a7f0bbe097fe"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/lave_blocks.json"
+hash = "d426fe9b91ff73e4cd40abe0333cbb4b7dfe2114c2233e11c6b50550bf506456"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/le_mox_blocks.json"
@@ -1955,6 +2115,10 @@ hash = "9f754c8168716cd72fb1a9612986be1fcfd061deb4c3e34cc083565453ad5481"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/leaves.json"
 hash = "c54afc4f891d9c794b8b5bc9a171951d7378c0d9875c02b0df356b07b6495901"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/liar_blood_blocks.json"
+hash = "bbb15e35729c9d0d946a246b84d1849a45080467f3f7918f6647a75d683fbe95"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/limestone.json"
@@ -2057,8 +2221,32 @@ file = "configureddefaults/config/collapsiblegroups/groups/limited_netherite_bar
 hash = "d478a30a08e1d95be5d6ec1b1dab11e3ab1201db313f167cefc37481595cc65b"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/logs.json"
+hash = "d32e316dceeb076f9455635f63d6a00ae66634ac3dcab9769b64860c93c21f84"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/ludicrite_blocks.json"
 hash = "5f62b317e4bd253937d3cebb338d64181c034a30bfa5c04731ea9fc5a8ddf34e"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/luxe_copper_blocks.json"
+hash = "e24376f73ec9f42ce95c5c236017ffbd4630b25cca47a65ebcc6ece4962a2714"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/luxe_diamond_blocks.json"
+hash = "6b2d77dc0f699a41b3b9b4a9f3c6d453e716336b762d9016e376a9a1adb2513d"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/luxe_gold_blocks.json"
+hash = "79bc6162ab09a2f3c89c5d014a08f113c8318f5ea7c9cdcb7e97b18499f17d8d"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/luxe_iron_blocks.json"
+hash = "7bbc8223b8ae39d57a29ec1c4c28aca24568b89ce31f1cc53a7882c3d377c99c"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/magazines.json"
+hash = "aaa6333f1ba20ef6dde28c42979afdc58e4797c356a614d271b1621c13050ae1"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/magentite_blocks.json"
@@ -2081,6 +2269,34 @@ file = "configureddefaults/config/collapsiblegroups/groups/metal_bars.json"
 hash = "63125a9fe59d4fad7c4d0a7f57b9b726ef5728ec1dbeeb501207689b1607f87b"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/metalzone_copper_blocks.json"
+hash = "929b4084fff5df8b6c9e22e7f04f586db2104856c7d8c3817d330bb029d0c811"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/metalzone_iron_blocks.json"
+hash = "387e919b07c2b239d4b5374a94257699f5f348a546ad99f2447f769ec5f4a297"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/metalzone_rustycopper_blocks.json"
+hash = "66c79a93d88e2f8e64159fbc24b22892541997a18c324619aebc052cca5edf72"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/metalzone_rustyiron_blocks.json"
+hash = "dfdd1e956ff0a7796f7936cb046f41b3c82801e071d5f958c21419a0cc921429"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mint_blocks.json"
+hash = "b5f318366d787616af14fc2ddadef90f9adacd267321766b3661f33e7dea4628"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mob_charm_fragments.json"
+hash = "e6a1b89f10e86fd2bdd5fa2f25d3eeb69f2ad3936ca66a535dd8fbda05e57c56"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mob_charms.json"
+hash = "01cf7a3838d6e3ddf28826d00b3b90789356bca9092252d3a09ec60dbd78339b"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/modern_industrialization_fluid_pipes.json"
 hash = "2c6c5d48e7d97bb3c8cbed3b26f1fc22638f87b2aedb916050432a3ae9b94d76"
 
@@ -2101,8 +2317,120 @@ file = "configureddefaults/config/collapsiblegroups/groups/monazite_blocks.json"
 hash = "36ac505bf4620f5c5f422c5da8ee6ce33bf85bac9735c525085597582e55a753"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_basins.json"
+hash = "12c2a4cf2182d40446fbcbd519c10323ce71cc17db27e936f524fdac6b63ffde"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_baths.json"
+hash = "a74e0f91e0818a0feeff04efd240860f1c74dbcbff33d8394003d78c6439ee9d"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_cabinets.json"
+hash = "c14441b29773136ca9e3f9d3c7aa3d55d1a753adcece5f0d32287892f266afa7"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_chairs.json"
+hash = "8ad99f9b3bf3e1a82976d54cd4c9a126c50ef67af8194579f5709cf06726c5c9"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_coolers.json"
+hash = "507fb93b4c9d9a2edb5992b04d183d3a9e8c1873b3b274a901edf040e58ff1d3"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_crates.json"
+hash = "274021edc1e8adc3f36cbeec44955a23638d93e72c830af745362c91ff2d3aed"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_cutting_boards.json"
+hash = "27fd156e7aac3bcdc43ab3578d0c8ded8f29a91696126f6c64d1eae40f2b778f"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_dark_ceiling_fans.json"
+hash = "106456e402900189cd8e17793368f61cba5a913f31e5481d4c9631cea559d475"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_desks.json"
+hash = "db72052f37c4b62909d6fba63ce7879912b661a4523c0d79b47dbd218adc10b8"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_drawers.json"
+hash = "a3ea816861332fb642f9d286ab07fef4ff79ad177d37c2ae7fb0500f45cc59ce"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_grill.json"
+hash = "015ff2f3ef1043fbb5e77afadfd1a0c986b3226119acc69b7d02d30506d74bc6"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_hedges.json"
+hash = "44c2dc8c2e5972c39a33e7bf2db523bcd7a9d5a14994f981323cdc8a17c236c4"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_kitchen_cabinetries.json"
+hash = "45ad732550ac31e80660646a5a86351a2a6ede02ab1a88de40c6579bc03e8571"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_kitchen_drawers.json"
+hash = "4ff332677ed9e623b62cc66f7f56016efa69ddc92979d21df25c2044378156ea"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_kitchen_sinks.json"
+hash = "6741f810ee215c472964acc5623e11258bc188d6acd703bc552d6696714c7f5b"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_kitchen_storage_cabinets.json"
+hash = "238462dd88577e2958141af8a47fcdca0c8388988d4bf65947f9c936732fc931"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_lamps.json"
+hash = "7509be7f7e39e11534ac7fcf7814cef47fcd5142c900e1772b65e4dbb6d69dd9"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_light_ceiling_fans.json"
+hash = "0c1e65fe451920c1503686fb7c776e75dec9a9f3c56f900ddc0b1002df629313"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_mailboxes.json"
+hash = "d45df80a76d3946335dc1f1b4e1a3c9e6656c95e95f1971279c30f91de864a4a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_sofas.json"
+hash = "d4534c99e0e8b80f9867fe5f0623b23a110e47accb5a16edf4a08d0ee7ed42be"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_stepping_stones.json"
+hash = "daec90b1ea8058c0e035c7a1c18708e76ad53d99d2a80f894aa015d36d5703cd"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_stools.json"
+hash = "24901c644feb5222104e1daff54b6389ec4ec8b761f006f2a7c8e136fed6cbdf"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_storage_cabinets.json"
+hash = "c94dfdad905cf3a8b21df806d33e4ff13b5d4902b6b58e5464569c159ed37021"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_storage_jars.json"
+hash = "edd5bccb15bf112005e44d16bf17afb8302e65af6ae06148dad4523b31d615c2"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_tables.json"
+hash = "c23a7413b429dfc520e93f71928cfe827766baaee5640cf230ab52fd082307c0"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_toilets.json"
+hash = "0abda3c57e279bb989bf6b56fe24d5f30976c069d9cfe44799fadbf7f2d74bdd"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/mrcrayfish_s_trampoline.json"
+hash = "720e0269bd4c182fa62727b434cbcacb06aa30a415dc26f3624de9c57264321e"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/mud_blocks.json"
 hash = "6d96d631e14ee493039bb666cba5052e9db9f491571b76425fc0eacbb9af6160"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/myst_blocks.json"
+hash = "feb7b294acded021860d9fe0376375179141b952b1bef7ef1166322933e56c81"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/nagastones.json"
@@ -2111,6 +2439,10 @@ hash = "54747f3a2030cc73983c99e5e78932d57de6119dea84d1e842f1f50c0c950e62"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/neodymium_blocks.json"
 hash = "5849ed3cb8fff776dee5bcf08d02040bbfc3f5b36152cd54132908dd4d8bc2df"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/neptinium_blocks.json"
+hash = "5c1651cbc62c91b8e67bd38f14b4adc3d9c5e4ea785f2f8caee9b5a17491dca2"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/nether_brick_blocks.json"
@@ -2139,6 +2471,10 @@ hash = "b0a0d6056e61350afa1aec298a7e55af754cd4a6c5b5075ebfb45e884f29db9f"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/nuggets.json"
 hash = "a66cd53f719d133ea6ee49f20011561d0d907922b04f29d5ce74f3097a649e05"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/number_blocks.json"
+hash = "652bfdae765f2669d06a5c8096f9ab4a4a3f26dd079c264b4086fb7925875fd7"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/ochrum.json"
@@ -2289,6 +2625,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/pam_s_yogurt.json"
 hash = "4322dd3a61e494695f41f38b74743c26d36f0a29bb3205f4d051ff7bbf8e34f7"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/planks.json"
+hash = "61cfd34308bcd09f67eba74006346007de874d63abaf8bbc9b0d58c377da49cb"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/plates.json"
 hash = "57427866fe57b339e4445968ec521adf23f552e90d183cb533287917429ba89e"
 
@@ -2313,16 +2653,20 @@ file = "configureddefaults/config/collapsiblegroups/groups/portable_item_cells.j
 hash = "becc08908948d9024ce1069361c6a20284250cbe8fa12203a3e908c8fce4df04"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/portstones.json"
+hash = "88b4723055aa2d43abe0963e80a38b914f61709185ecb4b3ccd5a7a34837c6bc"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/postboxes.json"
 hash = "7cbe148ab9558f8940b63aeffe1ef34e4433cb184da54d87b9a959ec7aecee47"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/potion_buckets.json"
-hash = "acf6ab7a9b225f999d2f526da25dd5231320ccd43961e308d959cb009309137e"
+hash = "46c82aa4163073efe5cba42c9789d640d6b655291c91eea8e748e7145b81f097"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/potions_copy.json"
-hash = "20b55f28612dcee6c64f3c41802e1f4f116d473a79e84a46d9e4037bc6bdd517"
+hash = "fc064c5ba5c8047b2de63d6b1b7b2c35112a7ff929042d3c3c80ad4cadbfa3af"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/pressure_plates.json"
@@ -2331,6 +2675,14 @@ hash = "1b70550c63db5454307f759f95c08bd20a2abba2b8c9bdbd12e6d0f4a7267146"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/prismarine_blocks.json"
 hash = "ca0e12b9c4eff5368eab3bc0c276266ec6f40132b94c1a55842725015af100c6"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/prosperity_blocks.json"
+hash = "7e29ccc0fd5aa00ef4781c74ccdac0e0fe83f940fb4e31a054bd47fa33d2540a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/prudentium_blocks.json"
+hash = "4ef5317840b213de5b2de0a12ddf0885c804431f2682ed8ff0946034143c7c59"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/pulsating_alloy_blocks.json"
@@ -2345,6 +2697,18 @@ file = "configureddefaults/config/collapsiblegroups/groups/quartz_blocks.json"
 hash = "d7cca3aa398950617dd68d812d1288593f35a6188425439a694c193a3e00703c"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/reactor_1_blocks.json"
+hash = "87d6246b39874c8b3eb0697d8867e9c25ab3021b831c7e24f62d0faec77b866c"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/reactor_7_blocks.json"
+hash = "ef969fedb66a7d49eb7e5de2c76d665f450745042891ec18d32a12b1559ea028"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/reactor_blocks.json"
+hash = "e74c2607ed9bfe002106c6368e2b6f37e5a646d09743815a927e79d8e026bc3d"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/red_nether_brick_blocks.json"
 hash = "24356644b4fe776d956d1b18743b14c96b36e2a150248a53d950a2fe5648f963"
 
@@ -2355,6 +2719,10 @@ hash = "0b27b6ca3006a6caea5c1d503a26087dff55ec56ec1c4f038581dea75f96d2d8"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/redstone_alloy_blocks.json"
 hash = "1c1e0c052652a3d062722e3baab8af480df1fea967c917b6c4a53b4102d2da4a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/reed_blocks.json"
+hash = "90dfe53304711d6e05123dcfc39f5babc439d4c8a8200a68fa574b5284547a6d"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/resetting_levers.json"
@@ -2397,8 +2765,16 @@ file = "configureddefaults/config/collapsiblegroups/groups/seats.json"
 hash = "d177fb005a3b53e4b2984322c1c1bb942077079302fc229ccbf2b870cdabdc6d"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/sepctre_blocks.json"
+hash = "6ff13f87de69c08712808e00fc72fefba9c6e2f61da4043e45827a87a171f0e0"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/shaders.json"
 hash = "6b645aeffbf057d1b074d7dce7de7fdb48214f12191ff8db3ad8cec56db1a02f"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/sharestones.json"
+hash = "44288f63f0c213d72edf878887d74f1a33791e6e8dad4a79bbcc5bbee1baf04d"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/sheetmetal_blocks.json"
@@ -2453,6 +2829,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/soularium_blocks.json
 hash = "78bb09961031808387ad398ce6b0723d399efdf90597948a7d42f4d7a57ac988"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/soulium_blocks.json"
+hash = "27137c86c5d21f674ac1f047d55260b92f42336a31ec9f84ceb99ee927e41ed3"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/spacial_components.json"
 hash = "fef3201f6a8830e6732eb09b21d551b0c1269a4c0e1b3689e6db71286640b184"
 
@@ -2462,7 +2842,7 @@ hash = "6af0ff15d7dd87f0071110b8b11152e3935a7c5f9d33c1016fa2183c5a9c4c9d"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/spawn_eggs.json"
-hash = "22b4082818758a4a586e66a79161de057c746c39abaa235915a8fe4c4782eccb"
+hash = "5761d38528011d5833463707d3e709bfab67970b0658d2a32fb7934f18a6acbd"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/spawners.json"
@@ -2470,7 +2850,7 @@ hash = "051e2060ac360d93dd4a8e9b0fa8c6c2ee88a5cc21ccc1db10c0d1d7532244b1"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/splash_potions_copy.json"
-hash = "dedac9bdcfb68cd79c22184abcfbd2c17201f505a8518de054283bf7f952fac9"
+hash = "9d956d91dd459ef0c8c491f5788675a326ee4f2fd9314a9f398fa68dbf99e74d"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/stack_downgrades.json"
@@ -2498,11 +2878,15 @@ hash = "96e456808824e6d9899ce0909ace47165aab37ee43a69c7b677e8e6c24bbbdf8"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/stone_blocks.json"
-hash = "f24a28e862f0a8c2ab983295e7f9d27da406f7d7d291c94392981a9185491be7"
+hash = "a6cb8555bf6ce5262d8e0734463519335004923b4804b4f49dad3e742cf5011a"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/stone_bricks.json"
 hash = "66adeac8d1bbfa64eb38bc699c8a060562ca7055a5e14b263107107e213bfda9"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/storage_boats.json"
+hash = "b9467d64160755f4adb793e6ae033878a9098a7ab9b8da6dfdc35b49fc09db15"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/storage_components.json"
@@ -2511,6 +2895,10 @@ hash = "247ece316d59fd8f4c96a9a7fa08aea597b674ec78e7324091f28262c81cebf1"
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/storage_connectors.json"
 hash = "9cc965a67768c4312cbb2bcdf88c7e1c1e078455d0a82e4d3eac9658ac0150ba"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/stripped_logs.json"
+hash = "2649e5ce473f986649c2aea826ae01dd836af2a2a519b826da5e1afa2549d82f"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/sulfur_blocks.json"
@@ -2525,12 +2913,28 @@ file = "configureddefaults/config/collapsiblegroups/groups/super_storage_compone
 hash = "f293725535038ef78e60f04d0028dcda90e569084cd06f3f32730f8b4989739c"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/supremium_blocks.json"
+hash = "72429f361a320a7b2f0418204a2de7411907fa1631456f8c2207c64dabfd55a7"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/suspicious_stews.json"
 hash = "d09866da8ee9bfcebfedd05b8bace2cfdf840a0da4e5f17c2e4b7c01a4259e9c"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/sync_blocks.json"
+hash = "d726317ed12e91d38221fd2aa4832b3ac459b8dbfde14092a88a4e141949f8be"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/synth_alloy_blocks.json"
+hash = "c643f9b17aef283cade7f075a1abf04030f4542c29800d631fc0b821853ffb1d"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/table_cloths.json"
 hash = "6ad4884a745e4962e831676b5c358f75a69111f59de2f03cf101fa90213e60ba"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/tank_blocks.json"
+hash = "aef4b6fe753774cde13c2e1944d7ecffa826d4a00eb61ef4f9e0aea179348b52"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/tanks.json"
@@ -2541,6 +2945,10 @@ file = "configureddefaults/config/collapsiblegroups/groups/templates.json"
 hash = "58831804664ba2ac85100aa63107f9d375b9c15fc794ee5e75d79c01190a31cb"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/tertium_blocks.json"
+hash = "199d015cc2fbbaf8449d8845320d6accf70fcbe01fd97319229a64128b8b1ce5"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/thrusters.json"
 hash = "5cdbcaab021662d28e33019ad77958ad9be55dbd2382723e82149492310f47a0"
 
@@ -2549,12 +2957,24 @@ file = "configureddefaults/config/collapsiblegroups/groups/tin_blocks.json"
 hash = "75936d19421dbe8fbb161d44e768cd0659462047dcd33a94d599772bbbf94e0e"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/tintedglass_blocks.json"
+hash = "9ff5c05b6827451cb62c8b33b23c28e73527e8ec0aef2107bf146d8cef73059a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/tipped_arrows_copy.json"
+hash = "c6f3d3b08d98c935ea71ebf6c8abec5e6ad5ed5caa4bdc6aa0ee72bc815b2378"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/titanium_blocks.json"
 hash = "f71f2119177c5de981b3392fb7c6fa2573ed28e36107e779ea532e8aab094490"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/torches.json"
 hash = "ff24cebd5c65a95f2ae94f6775e097f295048dcc65be9a64436096f6f9d63f98"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/transmuter_blocks.json"
+hash = "79fe43ada74eef76cc89e21c09f1243096bbaa3016dd037aa905caeaf78dfedf"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/trapdoors.json"
@@ -2589,12 +3009,28 @@ file = "configureddefaults/config/collapsiblegroups/groups/valve_handles.json"
 hash = "b3a9babb97f87ea3cdc9d21175fea7e47ae366474bb2d51c4b090199552d1e9c"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/vect_blocks.json"
+hash = "f5f14341345dcb339a9b030cecd1dfa7b22f7c078fb6b113cf409cc2665322c9"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/vena_blocks.json"
+hash = "daa1d029e2ad3ff00f0b45bfb6cb606c8cc839d88310f20de94623b2385e2aa2"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/veridium.json"
 hash = "d5f27c03136fd763167f66241c7e04ce24a1f1b7a3eca9f0f24d86b5f25a7fe8"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/vibrant_alloy_blocks.json"
 hash = "c8575f984ea77e8c5ab049f7c99098161192aba6a6af7b482cf1d57beddd84af"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/wax_buckets.json"
+hash = "9d7b113739ca62d3d4a9e17e2e385f5ca2787d1b1e0d4ebae35ef1da43047917"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/waystones.json"
+hash = "122fb949f8bc9497cbd647e718bbe0ed827cd7723fc60330c2d6d3edbd8a0510"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/white_sand_blocks.json"
@@ -2609,6 +3045,14 @@ file = "configureddefaults/config/collapsiblegroups/groups/windows.json"
 hash = "2f06c14893f569294c350f8156167791f18510026328981aeff346f6f2140322"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/wooden_slabs.json"
+hash = "ddc539e82a46d4d79b8b60ba69dca4e31dd68760c824fb4210c2de4e30dc5896"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/wooden_stairs.json"
+hash = "a3008f5bbb1fe8b6965a4f3410350288f0736b7ce909f005f912d3a2dd4eecf8"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/yellorium_blocks.json"
 hash = "9dfc790c0c08bd875e17f0e37d23db13b07685c86da294200f6ff338651381c8"
 
@@ -2617,8 +3061,152 @@ file = "configureddefaults/config/collapsiblegroups/groups/yttrium_blocks.json"
 hash = "b76162b381508a81ed6dcf1b53d1cd79aaaa795e32339b6b6156530c7ee6371b"
 
 [[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zane_blocks.json"
+hash = "606915b86ce7492a9925ff6597fab190870328847ed1bd13eb562bded8a9e2ac"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_black_blocks.json"
+hash = "bba6c1e018442b2c80f5c08bcfb93507a36c4c4ee018dc9c0bbaf590f4183217"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_blue_blocks.json"
+hash = "d0058c5493df609ca99fab55588bab8ee5f76547d5be4d8a9ec74526feeb74fe"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_brown_blocks.json"
+hash = "15cb5919b1130507162b96443e50deea41ce5ba62ac120cc2ca5fc037ddf5314"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_cyan_blocks.json"
+hash = "1530a875cb9ad1f313bb5fffc0e223fcb5020ff032e837b35394150ecadb976b"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_gray_blocks.json"
+hash = "f3df112cff168ce60c2a1b9824b79d5e2392efd0a2293d5e04b7828485320716"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_green_blocks.json"
+hash = "f694163e82cbfe301188d020f67d82a9c5e3f28a9419c81978c1c15da0364a04"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_light_blue_blocks.json"
+hash = "95e64615d06114e1472c2be98a714c4acd67d88d8b041566bdd0aa715745ac8a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_light_gray_blocks.json"
+hash = "d808167023cc18482f5fd508cbfcaea0fc6121580c667215b1f978223c2924fb"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_lime_blocks.json"
+hash = "56c76333cc62cacbac093d3ce7e173e0198cc22db58061fe07a05dfa88d2bbe3"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_magenta_blocks.json"
+hash = "9a3880a70952a9d68fef876ac2e7488fbb00431df30514d5b393b0c59ca32b6d"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_orange_blocks.json"
+hash = "d7bef5701c35a877b0980e2395f75c92ec7815abfefcb589a16c3830fd77df94"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_pink_blocks.json"
+hash = "bb2ebcb63d195c85ed29b81a8fe7416a2ec107a83bbaf506bc930f4c1c7c43c9"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_purple_blocks.json"
+hash = "037d26307bbaf024f11b072c63e7a0249705d2f5902de8290ab2919d36cf7def"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_red_blocks.json"
+hash = "fb8882e16d4eacfb6df29a9c7d2f00775b595049659be62e211f1b7e2627676d"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_white_blocks.json"
+hash = "9c90da4654aa5bffe88a94e43feadce55826433369243f0b0286cb41e8111859"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeno_yellow_blocks.json"
+hash = "6367b84c2038808e020f580297377f40b4ae5d1b18a2c4228da58767be70c9d3"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zenohex_blocks.json"
+hash = "c5d37b7075ffd4415240fcb61b08bde7c2ade851dc4c9ceaf13e159d90d003bf"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_black_blocks.json"
+hash = "9485d0388e3214a33e86186282ae7d80500bfb8e00489a692386f6f3aafc075d"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_blue_blocks.json"
+hash = "f9622664cd5f927f41ed592c44d2060b7b05b5eaca4c64bcfd8bf8ebb69d8656"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_brown_blocks.json"
+hash = "61ce2119be2af8fdbe634402032421ebf6ad6684c3a61c060e45b6b8fb749ff4"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_cyan_blocks.json"
+hash = "d18147d6b70e5e2faf30b76a24846f1c428e29d1e17e449d1d4e2464fdf2afcb"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_gray_blocks.json"
+hash = "18ecb5266ab58b86c9d98533f47de73a7b70cbc7a57789a0a945dd592993970e"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_green_blocks.json"
+hash = "7f404dd246be14cf6c67cb64075fd80685beab5e5abbe8e7f33f6a0726f53614"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_light_blue_blocks.json"
+hash = "20e3c9102d5af4e73489dcb3c01058e04cf88e4ba7354f7250e4c0b5ee896c86"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_light_gray_blocks.json"
+hash = "ee0f699f87d52c539afbec4f26627fdecd7bc3380499923fc3076dd35318a0f7"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_lime_blocks.json"
+hash = "9cf81bca5cce920244a579ece7e8f4338db21b5a9f7927c9c345dc6c496871b5"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_magenta_blocks.json"
+hash = "ca344fab05a964163a61b587dec059f13599537a883fa9190b712ea4cacbe880"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_orange_blocks.json"
+hash = "ac5823a7d1b67ddc74607fa5b32e45150148b5864a85cd7335ca437c6593c26b"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_pink_blocks.json"
+hash = "32a7509466f44ccd2529a46bdb64bef625d5cd4e930f6ed6ff41e60f76be7911"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_purple_blocks.json"
+hash = "557047df73ce451739a1001012d9111249c7f02ab588e13956299d80a694d28a"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_red_blocks.json"
+hash = "6761516392cadc71a77f6163bfbc0cd61d158830c336ab7b31e90bdf8bcf1847"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_white_blocks.json"
+hash = "cb64ca8c33034dd65b9f6f5d292639d26e2afeebfb0528c250d3f0df9710d9f3"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zeon_yellow_blocks.json"
+hash = "7b4e9f6211ea4233d40e26654f0122a9bd11f32c0fcc7037930a6269728c43df"
+
+[[files]]
 file = "configureddefaults/config/collapsiblegroups/groups/zinc_blocks.json"
 hash = "4254dfbc843345dda0dc11be858fa5ffb2abbece707831e6dab39a1998a8bdbf"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/zoea_blocks.json"
+hash = "0a353b7effa5645065b0df26702944e34ee2b6143e6328ebdbb1f7139b7a2d41"
+
+[[files]]
+file = "configureddefaults/config/collapsiblegroups/groups/ztyl_blocks.json"
+hash = "7e58e55fcfb8c62433f3637f4445ee3e75ae3eabb7823e11d05283d003d89641"
 
 [[files]]
 file = "configureddefaults/config/collapsiblegroups/lang/en_us.json"
@@ -2641,6 +3229,38 @@ file = "configureddefaults/config/fancymenu/assets/teamgf/images/Minecraft.png"
 hash = "3a4d498508f48eed7f594a9d4ae80cc43473b7c9831178aaeab9b575b32915f0"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/Minecraft.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/button.png"
+hash = "0a2e159360200a39e0c7e9c0db0e6aa034ba4e1f8d99698c004084b5ba6e94cb"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/button.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/teamgf_logo_white_shadow.png"
+hash = "c60c1aa65f0b01a30f6c5b383a42e277aa2ec1a966da995a548bf85110563c98"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/teamgf_logo_white_shadow.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/teamgf_logo_white_shadow.png:Zone.Identifier:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/tgf_button.png"
+hash = "71eea0d51e16323967149c17a1d36e2d0e0d64481f52d27e51b43a82afb99a1a"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/assets/teamgf/images/tgf_button_small.png"
+hash = "5117f052d89cb0b718d96567d95e66dc50724931127504a41d0ec5a69b929e9a"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -2649,12 +3269,16 @@ file = "configureddefaults/config/fancymenu/customizablemenus.txt"
 hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/customizablemenus.txt:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/customization/teamgf.txt"
-hash = "fff15cb561b13a9f46a289530a6e61c0a3f8133499ab7e7e7f6896d7177c3168"
+hash = "6e9166114c07af2510e6fb28091c9cc25a83be1260aa36dbcfffdffad3654f45"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "123c95070ae0ae5137115a6a7509f2370d78856193871c0046ae9938ecb8987e"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/legacy_checklist.txt"
@@ -2662,75 +3286,171 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/options.txt"
-hash = "1ed8901476f9f89782ed9195412fb586e97a81d0fd0639c7d1993abf7443e21e"
+hash = "fb7ea96fe261106863913135d895d42b3daadefc505f45827d150148f3f13226"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/panoramas/teamgf_pano/panorama/panorama_0.png"
+hash = "056d37e17f75b674c27cdee22a7b3dfa1c089358b8028eaa8209f2a24d39ee9e"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/panoramas/teamgf_pano/panorama/panorama_1.png"
+hash = "72f453023ea4d157b29bcfb4b3151ebe097d1fe560351c5f8ea52c4a34e80c05"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/panoramas/teamgf_pano/panorama/panorama_2.png"
+hash = "dd4ab2d055f2bf9d7712819650569500f16a84abb6d63d7942e66691faf9a2a0"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/panoramas/teamgf_pano/panorama/panorama_3.png"
+hash = "93386feff41ffec2dfb205a32ac5d6a035812a6caf191da851049530b4818468"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/panoramas/teamgf_pano/panorama/panorama_4.png"
+hash = "313ca9a3e171764e61da7e3b7235e56a535cc9a35b9e11a37607a497cfc7e3e0"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/panoramas/teamgf_pano/panorama/panorama_5.png"
+hash = "faf0e2a17e296b78cdd25b61f67c1181a61aac820341cd3fd8e94fdaeec4ac23"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/panoramas/teamgf_pano/properties.txt"
+hash = "a77d52147831796ce52b762144a2c70337ee90e039d030e755f3d2f4eeda9779"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/1.png"
 hash = "6e68eed830de8e838e1f7d50cdfb1cb641b95633a2e4b46671051c72b83a87e3"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/1.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/2.png"
 hash = "c184733b7e69dd14ed12401119ee0efcb8bce211cea1bdabd75aff9a20e7c4ca"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/2.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/3.png"
 hash = "933b5ce2419e72e734ac631475a377575c7571776c7825708fb592661eb52879"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/3.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/4.png"
 hash = "9ae60b37105baef68a0952a3fccf2c18951692786a6eced9f2ae8dee6f06dc6f"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/4.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/5.png"
 hash = "9acc6d124a9b4605e50d89cf1151338fd0e2a14733b4102332624a83ed901f2b"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/5.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/6.png"
 hash = "b30183084b16e063ad5f91b06ba2853aaff99a7168cfe76c0284e6b42175a82c"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/6.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/7.png"
 hash = "04550ff1a78577336025e700e868594b0300a7a6bd8b0a0c59b7c00ceb5f9782"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/7.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/8.png"
 hash = "7d43bc0702ee85ff7b8747728fde8b8545c8dc253c27b1c805a3aff317150d92"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/8.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/1.png"
 hash = "6e68eed830de8e838e1f7d50cdfb1cb641b95633a2e4b46671051c72b83a87e3"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/1.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/2.png"
 hash = "c184733b7e69dd14ed12401119ee0efcb8bce211cea1bdabd75aff9a20e7c4ca"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/2.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/3.png"
 hash = "933b5ce2419e72e734ac631475a377575c7571776c7825708fb592661eb52879"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/3.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/4.png"
 hash = "9ae60b37105baef68a0952a3fccf2c18951692786a6eced9f2ae8dee6f06dc6f"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/4.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/5.png"
 hash = "9acc6d124a9b4605e50d89cf1151338fd0e2a14733b4102332624a83ed901f2b"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/5.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/6.png"
 hash = "b30183084b16e063ad5f91b06ba2853aaff99a7168cfe76c0284e6b42175a82c"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/6.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/7.png"
 hash = "04550ff1a78577336025e700e868594b0300a7a6bd8b0a0c59b7c00ceb5f9782"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/7.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/8.png"
 hash = "7d43bc0702ee85ff7b8747728fde8b8545c8dc253c27b1c805a3aff317150d92"
 
 [[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/images/8.png:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
+
+[[files]]
 file = "configureddefaults/config/fancymenu/slideshows/teamgf/properties.txt"
 hash = "2a8ff528de63feb51adcf35d4c447d4c3ca9de4eb9a75843e68a09ff2a23e336"
+
+[[files]]
+file = "configureddefaults/config/fancymenu/slideshows/teamgf/properties.txt:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/ui_themes/cherry_blossom.json"
@@ -2867,6 +3587,14 @@ hash = "1cb0979a00f5aba4d2fcc834768ef389a25e93709ab5c05e5fa20c644bbb74f9"
 [[files]]
 file = "configureddefaults/global_packs/required_data/Modpack Resources/pack.mcmeta"
 hash = "1adc3bf0824abdbab08974345453d59905a74225ec36933ae50aa71d7324a46d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_resources/Modpack Resources/pack.mcmeta"
+hash = "747a50b5ff87bdc5eb6a1258f38e6633866764cf35595d56f33897ff642bcd4d"
+
+[[files]]
+file = "configureddefaults/global_packs/required_resources/Modpack Resources/pack.mcmeta:Zone.Identifier"
+hash = "b952d24cf701bc4e7a7d21e1ae85c611824e80579a89836c0cb49b193446ccfe"
 
 [[files]]
 file = "mods/aaron.pw.toml"
@@ -3268,6 +3996,11 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/fuelgoeshere.pw.toml"
+hash = "167e16c3a9bce43fa315af831930487448833b9c5a5f00676532df8a193e27b0"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "55c21e0159f5509b84d1e1fa42c2e478a3600c43007ede829cad5839aaa1b8da"
 metafile = true
@@ -3513,6 +4246,11 @@ hash = "d126f045e2cc43c9142ea4bcb2acec1917351fc6416eb71bf0bc8d32f7bfe69f"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "48b50d6d0ecf3a648f059eaa8d15fbda6608d78036a4697f40bf16d6862ddbab"
 metafile = true
@@ -3520,6 +4258,11 @@ metafile = true
 [[files]]
 file = "mods/neosync.pw.toml"
 hash = "6217df5d4091e3096cfa0621100276463f80a1f4cd8842eb9be5deae8486c3ab"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
 
 [[files]]
@@ -3743,6 +4486,11 @@ hash = "f33d4a5b7d66af9dae66a67ecd7bc69078b786931652de9ee7e681c440fe3508"
 metafile = true
 
 [[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear-jei.pw.toml"
 hash = "7963caf09500966ad67f1d39dfa6955d8ac20c2beb8a243e99634e83555888ed"
 metafile = true
@@ -3919,9 +4667,4 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
-metafile = true
-
-[[files]]
-file = "resourcepacks/skyliner-modern-font-pack.pw.toml"
-hash = "51eeb4a581f95b222751154b5cf8a51b1d8dc973af5fe97c85e68fa9feae5415"
 metafile = true

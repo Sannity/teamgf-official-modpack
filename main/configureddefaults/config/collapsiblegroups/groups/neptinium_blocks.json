@@ -1,11 +1,11 @@
 {
-  "id": "astralite_blocks",
+  "id": "neptunium_blocks",
   "name": {
-    "translate": "collapsible_groups.group.astralite_blocks",
-    "fallback": "Astralite Blocks"
+    "translate": "collapsible_groups.group.neptunium_blocks",
+    "fallback": "Neptunium Blocks"
   },
   "enabled": true,
   "filter": {
-    "block_tag": "wispwillow:metal_type/astralite"
+    "block_tag": "aquaculture:metal_type/neptunium"
   }
 }
