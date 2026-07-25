@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.3.0](https://github.com/Sannity/teamgf-official-modpack/compare/v3.2.0...v3.3.0) (2026-07-25)
+
+
+### Features
+
+* Started work on Menu ([73143ce](https://github.com/Sannity/teamgf-official-modpack/commit/73143ce1dbb9c3c3e60515cdbcb2154a148015ce))
+
+
+### Bug Fixes
+
+* duplicate group ([73143ce](https://github.com/Sannity/teamgf-official-modpack/commit/73143ce1dbb9c3c3e60515cdbcb2154a148015ce))
+
 ## [3.2.0](https://github.com/Sannity/teamgf-official-modpack/compare/v3.1.0...v3.2.0) (2026-07-22)
 
 
