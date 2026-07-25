@@ -1,0 +1,11 @@
+{
+  "id": "planks",
+  "name": {
+    "translate": "collapsible_groups.group.planks",
+    "fallback": "Planks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "minecraft:planks"
+  }
+}

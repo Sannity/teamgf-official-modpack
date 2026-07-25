@@ -1,0 +1,11 @@
+{
+  "id": "growthcraft_salt_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.growthcraft_salt_blocks",
+    "fallback": "Growthcraft Salt Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "growthcraft:gem_type/salt"
+  }
+}

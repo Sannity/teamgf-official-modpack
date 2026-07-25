@@ -1,0 +1,11 @@
+{
+  "id": "waystones",
+  "name": {
+    "translate": "collapsible_groups.group.waystones",
+    "fallback": "Waystones"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "waystones:waystones"
+  }
+}

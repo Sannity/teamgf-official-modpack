@@ -1,0 +1,19 @@
+{
+  "id": "ztyl_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.ztyl_blocks",
+    "fallback": "Ztyl Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "ztyl_blockz"
+      }
+    ]
+  }
+}

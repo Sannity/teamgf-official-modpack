@@ -6,7 +6,23 @@
   },
   "enabled": true,
   "filter": {
-    "type": "item",
-    "id": "immersiveengineering:potion_bucket"
+    "any": [
+      {
+        "type": "item",
+        "id": "immersiveengineering:potion_bucket"
+      },
+      {
+        "type": "item",
+        "id": "growthcraft_cellar:potion_ale_fluid_bucket"
+      },
+      {
+        "type": "item",
+        "id": "growthcraft_cellar:potion_lager_fluid_bucket"
+      },
+      {
+        "type": "item",
+        "id": "growthcraft_cellar:potion_wine_fluid_bucket"
+      }
+    ]
   }
 }

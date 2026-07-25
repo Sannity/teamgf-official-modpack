@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_toilets",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_toilets",
+    "fallback": "MrCrayfish\u0027s Toilets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "toilet"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "toilet"
+          }
+        ]
+      }
+    ]
+  }
+}

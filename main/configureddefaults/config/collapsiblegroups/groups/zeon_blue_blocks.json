@@ -1,0 +1,19 @@
+{
+  "id": "zeon_blue_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeon_blue_blocks",
+    "fallback": "Zeon Blue Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeon_blue"
+      }
+    ]
+  }
+}

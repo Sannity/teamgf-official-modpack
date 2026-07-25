@@ -46,6 +46,10 @@
       {
         "type": "item",
         "id": "witchery:brew_of_flowing_spirit"
+      },
+      {
+        "type": "item",
+        "id": "reliquary:splash_potion"
       }
     ]
   }

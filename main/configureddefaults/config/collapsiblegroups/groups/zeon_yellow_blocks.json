@@ -1,0 +1,19 @@
+{
+  "id": "zeon_yellow_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeon_yellow_blocks",
+    "fallback": "Zeon Yellow Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeon_yellow"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "zeno_orange_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeno_orange_blocks",
+    "fallback": "Zeno Orange Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeno_orange"
+      }
+    ]
+  }
+}

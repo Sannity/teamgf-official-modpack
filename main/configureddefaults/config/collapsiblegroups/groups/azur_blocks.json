@@ -1,0 +1,19 @@
+{
+  "id": "azur_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.azur_blocks",
+    "fallback": "Azur Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "azur_blockz"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "armz_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.armz_blocks",
+    "fallback": "Armz Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "armz"
+      }
+    ]
+  }
+}

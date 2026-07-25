@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_sofas",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_sofas",
+    "fallback": "MrCrayfish\u0027s Sofas"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "sofa"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "sofa"
+          }
+        ]
+      }
+    ]
+  }
+}

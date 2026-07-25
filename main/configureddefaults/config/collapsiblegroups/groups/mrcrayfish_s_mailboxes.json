@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_mailboxes",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_mailboxes",
+    "fallback": "MrCrayfish\u0027s Mailboxes"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "mail_box"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "mail_box"
+          }
+        ]
+      }
+    ]
+  }
+}

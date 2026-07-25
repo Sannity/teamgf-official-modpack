@@ -21,6 +21,17 @@
       },
       {
         "block_tag": "c:fences/wooden"
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "fence"
+          }
+        ]
       }
     ]
   }

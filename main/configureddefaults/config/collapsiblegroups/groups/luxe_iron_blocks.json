@@ -1,0 +1,19 @@
+{
+  "id": "luxe_iron_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.luxe_iron_blocks",
+    "fallback": "Luxe Iron Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "iron_blockz"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "wooden_stairs",
+  "name": {
+    "translate": "collapsible_groups.group.wooden_stairs",
+    "fallback": "Wooden Stairs"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "minecraft:wooden_stairs"
+  }
+}

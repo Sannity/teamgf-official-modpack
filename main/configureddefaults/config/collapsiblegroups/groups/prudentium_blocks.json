@@ -1,0 +1,11 @@
+{
+  "id": "prudentium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.prudentium_blocks",
+    "fallback": "Prudentium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "mysticalagriculture:metal_type/prudentium"
+  }
+}

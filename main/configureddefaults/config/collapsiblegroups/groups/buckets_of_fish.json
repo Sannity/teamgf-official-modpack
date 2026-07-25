@@ -6,7 +6,22 @@
   },
   "enabled": true,
   "filter": {
-    "type": "item",
-    "tag": "c:buckets/entity_water"
+    "any": [
+      {
+        "type": "item",
+        "tag": "c:buckets/entity_water"
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "aquaculture"
+          },
+          {
+            "item_path_contains": "bucket"
+          }
+        ]
+      }
+    ]
   }
 }

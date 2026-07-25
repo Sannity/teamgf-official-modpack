@@ -1,0 +1,19 @@
+{
+  "id": "zeon_gray_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeon_gray_blocks",
+    "fallback": "Zeon Gray Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeon_gray"
+      }
+    ]
+  }
+}

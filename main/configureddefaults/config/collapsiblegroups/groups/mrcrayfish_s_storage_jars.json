@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_storage_jars",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_storage_jars",
+    "fallback": "MrCrayfish\u0027s Storage Jars"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "storage_jar"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "storage_jar"
+          }
+        ]
+      }
+    ]
+  }
+}

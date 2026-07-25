@@ -1,0 +1,22 @@
+{
+  "id": "wax_buckets",
+  "name": {
+    "translate": "collapsible_groups.group.wax_buckets",
+    "fallback": "Wax Buckets"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "growthcraft_apiary"
+      },
+      {
+        "item_path_starts_with": "wax"
+      },
+      {
+        "item_path_ends_with": "bucket"
+      }
+    ]
+  }
+}

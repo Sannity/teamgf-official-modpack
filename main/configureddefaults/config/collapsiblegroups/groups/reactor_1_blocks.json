@@ -1,0 +1,19 @@
+{
+  "id": "reactor_1_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.reactor_1_blocks",
+    "fallback": "Reactor 1 Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "reactor_1"
+      }
+    ]
+  }
+}

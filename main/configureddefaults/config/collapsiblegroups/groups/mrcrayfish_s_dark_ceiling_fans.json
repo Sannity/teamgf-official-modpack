@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_dark_ceiling_fans",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_dark_ceiling_fans",
+    "fallback": "MrCrayfish\u0027s Dark Ceiling Fans"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "dark_ceiling_fan"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "dark_ceiling_fan"
+          }
+        ]
+      }
+    ]
+  }
+}

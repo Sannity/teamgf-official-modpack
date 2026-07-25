@@ -1,0 +1,11 @@
+{
+  "id": "awakened_supremium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.awakened_supremium_blocks",
+    "fallback": "Awakened Supremium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "mysticalagriculture:metal_type/awakened_supremium"
+  }
+}

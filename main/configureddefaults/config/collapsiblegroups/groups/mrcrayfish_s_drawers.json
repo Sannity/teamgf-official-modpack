@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_drawers",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_drawers",
+    "fallback": "MrCrayfish\u0027s Drawers"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "drawer"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "drawer"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -6,38 +6,13 @@
   },
   "enabled": true,
   "filter": {
-    "any": [
+    "all": [
       {
         "type": "item",
-        "id": "minecraft:stone"
+        "namespace": "betterblockz"
       },
       {
-        "type": "item",
-        "id": "minecraft:stone_stairs"
-      },
-      {
-        "type": "item",
-        "id": "minecraft:stone_slab"
-      },
-      {
-        "type": "item",
-        "id": "minecraft:stone_pressure_plate"
-      },
-      {
-        "type": "item",
-        "id": "minecraft:stone_button"
-      },
-      {
-        "type": "item",
-        "id": "minecraft:smooth_stone"
-      },
-      {
-        "type": "item",
-        "id": "minecraft:smooth_stone_slab"
-      },
-      {
-        "type": "item",
-        "id": "enderio:silent_stone_pressure_plate"
+        "item_path_starts_with": "stone"
       }
     ]
   }

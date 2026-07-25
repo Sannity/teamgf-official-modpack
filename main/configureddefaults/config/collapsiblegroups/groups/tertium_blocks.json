@@ -1,0 +1,11 @@
+{
+  "id": "tertium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.tertium_blocks",
+    "fallback": "Tertium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "mysticalagriculture:metal_type/tertium"
+  }
+}

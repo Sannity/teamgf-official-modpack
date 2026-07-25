@@ -1,0 +1,19 @@
+{
+  "id": "backpacks_2",
+  "name": {
+    "translate": "collapsible_groups.group.backpacks_2",
+    "fallback": "Backpacks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "sophisticatedbackpacks"
+      },
+      {
+        "item_path_ends_with": "backpack"
+      }
+    ]
+  }
+}

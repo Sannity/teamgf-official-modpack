@@ -1,0 +1,19 @@
+{
+  "id": "zeno_green_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeno_green_blocks",
+    "fallback": "Zeno Green Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeno_green"
+      }
+    ]
+  }
+}

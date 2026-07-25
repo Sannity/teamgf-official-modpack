@@ -1,0 +1,11 @@
+{
+  "id": "wooden_slabs",
+  "name": {
+    "translate": "collapsible_groups.group.wooden_slabs",
+    "fallback": "Wooden Slabs"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "minecraft:wooden_slabs"
+  }
+}

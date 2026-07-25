@@ -1,0 +1,11 @@
+{
+  "id": "supremium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.supremium_blocks",
+    "fallback": "Supremium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "mysticalagriculture:metal_type/supremium"
+  }
+}

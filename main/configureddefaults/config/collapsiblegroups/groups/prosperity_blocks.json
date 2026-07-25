@@ -1,0 +1,11 @@
+{
+  "id": "prosperity_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.prosperity_blocks",
+    "fallback": "Prosperity Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "wispwillow:mysticalagriculture/prosperity"
+  }
+}

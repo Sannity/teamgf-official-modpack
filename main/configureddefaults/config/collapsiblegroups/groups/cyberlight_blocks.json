@@ -1,0 +1,19 @@
+{
+  "id": "cyberlight_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.cyberlight_blocks",
+    "fallback": "Cyberlight Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "cyberlight"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gold_frame_platform_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.gold_frame_platform_blocks",
+    "fallback": "Gold Frame Platform Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "gold_frame_platform"
+      }
+    ]
+  }
+}

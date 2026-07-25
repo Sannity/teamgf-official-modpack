@@ -1,0 +1,11 @@
+{
+  "id": "soulium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.soulium_blocks",
+    "fallback": "Soulium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "mysticalagriculture:metal_type/soulium"
+  }
+}

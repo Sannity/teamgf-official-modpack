@@ -1,0 +1,18 @@
+{
+  "id": "stripped_logs",
+  "name": {
+    "translate": "collapsible_groups.group.stripped_logs",
+    "fallback": "Stripped Logs"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "block_tag": "minecraft:logs"
+      },
+      {
+        "item_path_starts_with": "stripped"
+      }
+    ]
+  }
+}

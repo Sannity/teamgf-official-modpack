@@ -29,10 +29,6 @@
       },
       {
         "type": "item",
-        "id": "witchery:brew_of_love"
-      },
-      {
-        "type": "item",
         "id": "witchery:redstone_soup"
       },
       {
@@ -66,6 +62,14 @@
       {
         "type": "item",
         "id": "witchery:taglock"
+      },
+      {
+        "type": "item",
+        "id": "reliquary:potion"
+      },
+      {
+        "type": "item",
+        "id": "reliquary:lingering_potion"
       }
     ]
   }

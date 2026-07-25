@@ -1,0 +1,19 @@
+{
+  "id": "metalzone_iron_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.metalzone_iron_blocks",
+    "fallback": "Metalzone Iron Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "metalzone_iron"
+      }
+    ]
+  }
+}

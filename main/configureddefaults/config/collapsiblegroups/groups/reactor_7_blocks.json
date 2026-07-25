@@ -1,0 +1,19 @@
+{
+  "id": "reactor_7_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.reactor_7_blocks",
+    "fallback": "Reactor 7 Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "reactor_7"
+      }
+    ]
+  }
+}

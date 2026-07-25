@@ -1,0 +1,19 @@
+{
+  "id": "lairdecay_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.lairdecay_blocks",
+    "fallback": "Lairdecay Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "lairdecay"
+      }
+    ]
+  }
+}

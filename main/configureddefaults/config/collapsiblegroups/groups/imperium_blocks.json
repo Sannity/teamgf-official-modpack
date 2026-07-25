@@ -1,0 +1,11 @@
+{
+  "id": "imperium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.imperium_blocks",
+    "fallback": "Imperium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "mysticalagriculture:metal_type/imperium"
+  }
+}

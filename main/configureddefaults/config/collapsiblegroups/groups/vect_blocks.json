@@ -1,0 +1,19 @@
+{
+  "id": "vect_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.vect_blocks",
+    "fallback": "Vect Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "vect_blockz"
+      }
+    ]
+  }
+}

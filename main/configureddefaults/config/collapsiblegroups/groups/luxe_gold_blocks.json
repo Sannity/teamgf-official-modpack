@@ -1,0 +1,19 @@
+{
+  "id": "luxe_gold_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.luxe_gold_blocks",
+    "fallback": "Luxe Gold Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "gold_blockz"
+      }
+    ]
+  }
+}

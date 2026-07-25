@@ -1,0 +1,19 @@
+{
+  "id": "kryp_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.kryp_blocks",
+    "fallback": "Kryp Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "kryp"
+      }
+    ]
+  }
+}

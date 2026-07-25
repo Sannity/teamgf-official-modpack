@@ -1,0 +1,11 @@
+{
+  "id": "sharestones",
+  "name": {
+    "translate": "collapsible_groups.group.sharestones",
+    "fallback": "Sharestones"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "waystones:sharestones"
+  }
+}

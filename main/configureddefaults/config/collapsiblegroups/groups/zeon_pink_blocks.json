@@ -1,0 +1,19 @@
+{
+  "id": "zeon_pink_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeon_pink_blocks",
+    "fallback": "Zeon Pink Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeon_pink"
+      }
+    ]
+  }
+}

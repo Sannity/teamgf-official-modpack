@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_grills",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_grills",
+    "fallback": "MrCrayfish\u0027s Grills"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "grill"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "grill"
+          }
+        ]
+      }
+    ]
+  }
+}

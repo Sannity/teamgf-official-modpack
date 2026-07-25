@@ -1,0 +1,19 @@
+{
+  "id": "aurora_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.aurora_blocks",
+    "fallback": "Aurora Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "aurora"
+      }
+    ]
+  }
+}

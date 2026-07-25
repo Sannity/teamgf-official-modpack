@@ -1,0 +1,19 @@
+{
+  "id": "fort_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.fort_blocks",
+    "fallback": "Fort Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "fort_blockz"
+      }
+    ]
+  }
+}

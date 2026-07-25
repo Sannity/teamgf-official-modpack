@@ -11,6 +11,17 @@
         "block_tag": "minecraft:buttons"
       },
       {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "extrabuttons"
+          },
+          {
+            "item_path_ends_with": "button"
+          }
+        ]
+      },
+      {
         "type": "item",
         "id": "framedblocks:framed_button"
       },
@@ -25,6 +36,10 @@
       {
         "type": "item",
         "id": "framedblocks:framed_large_stone_button"
+      },
+      {
+        "type": "item",
+        "id": "growthcraft_apples:apple_plank_button"
       }
     ]
   }

@@ -1,0 +1,12 @@
+{
+  "id": "mob_charms",
+  "name": {
+    "translate": "collapsible_groups.group.mob_charms",
+    "fallback": "Mob Charms"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "reliquary:mob_charm"
+  }
+}

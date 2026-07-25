@@ -1,0 +1,20 @@
+{
+  "id": "logs",
+  "name": {
+    "translate": "collapsible_groups.group.logs",
+    "fallback": "Logs"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "not": {
+          "item_path_starts_with": "stripped"
+        }
+      },
+      {
+        "block_tag": "minecraft:logs"
+      }
+    ]
+  }
+}

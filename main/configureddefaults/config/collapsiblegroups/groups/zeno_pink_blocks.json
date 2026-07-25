@@ -1,0 +1,19 @@
+{
+  "id": "zeno_pink_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeno_pink_blocks",
+    "fallback": "Zeno Pink Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeno_pink"
+      }
+    ]
+  }
+}

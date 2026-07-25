@@ -1,0 +1,19 @@
+{
+  "id": "bullets",
+  "name": {
+    "translate": "collapsible_groups.group.bullets",
+    "fallback": "Bullets"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "reliquary"
+      },
+      {
+        "item_path_contains": "bullet"
+      }
+    ]
+  }
+}

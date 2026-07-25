@@ -1,0 +1,12 @@
+{
+  "id": "drakkars",
+  "name": {
+    "translate": "collapsible_groups.group.drakkars",
+    "fallback": "Drakkars"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "smallships:drakkars"
+  }
+}

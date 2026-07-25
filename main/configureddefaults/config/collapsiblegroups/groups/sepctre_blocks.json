@@ -1,0 +1,11 @@
+{
+  "id": "spectre_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.spectre_blocks",
+    "fallback": "Spectre Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "randomthings:metal_type/spectre"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "briggs",
+  "name": {
+    "translate": "collapsible_groups.group.briggs",
+    "fallback": "Briggs"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "smallships:briggs"
+  }
+}

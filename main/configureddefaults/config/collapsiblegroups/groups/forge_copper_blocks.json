@@ -1,0 +1,11 @@
+{
+  "id": "forge_copper_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.forge_copper_blocks",
+    "fallback": "Forge Copper Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "item_path_starts_with": "forgecopper"
+  }
+}

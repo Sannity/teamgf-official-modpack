@@ -1,0 +1,19 @@
+{
+  "id": "jelt_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.jelt_blocks",
+    "fallback": "Jelt Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "jelt_blockz"
+      }
+    ]
+  }
+}

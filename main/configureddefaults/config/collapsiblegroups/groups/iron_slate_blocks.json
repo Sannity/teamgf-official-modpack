@@ -1,0 +1,11 @@
+{
+  "id": "iron_slate_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.iron_slate_blocks",
+    "fallback": "Iron Slate Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "item_path_starts_with": "ironslate"
+  }
+}

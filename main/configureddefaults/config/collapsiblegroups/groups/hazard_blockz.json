@@ -1,0 +1,19 @@
+{
+  "id": "hazard_blockz",
+  "name": {
+    "translate": "collapsible_groups.group.hazard_blockz",
+    "fallback": "Hazard BlockZ"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "hazard"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bitt_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.bitt_blocks",
+    "fallback": "Bitt Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "bitt_blockz"
+      }
+    ]
+  }
+}

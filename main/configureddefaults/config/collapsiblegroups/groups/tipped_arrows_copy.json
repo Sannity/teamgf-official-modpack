@@ -1,0 +1,28 @@
+{
+  "id": "tipped_arrows_copy",
+  "name": {
+    "translate": "collapsible_groups.group.tipped_arrows_copy",
+    "fallback": "Tipped Arrows Copy"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:tipped_arrow"
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "tag": "minecraft:arrows"
+          },
+          {
+            "type": "item",
+            "namespace": "reliquary"
+          }
+        ]
+      }
+    ]
+  }
+}

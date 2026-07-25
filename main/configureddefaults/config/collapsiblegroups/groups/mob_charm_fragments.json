@@ -1,0 +1,19 @@
+{
+  "id": "mob_charm_fragments",
+  "name": {
+    "translate": "collapsible_groups.group.mob_charm_fragments",
+    "fallback": "Mob Charm Fragments"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "reliquary"
+      },
+      {
+        "item_path_ends_with": "mob_charm_fragment"
+      }
+    ]
+  }
+}

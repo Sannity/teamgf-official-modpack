@@ -1,0 +1,19 @@
+{
+  "id": "myst_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.myst_blocks",
+    "fallback": "Myst Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "myst_blockz"
+      }
+    ]
+  }
+}

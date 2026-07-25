@@ -1,0 +1,11 @@
+{
+  "id": "astralite_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.astralite_blocks",
+    "fallback": "Astralite Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "wispwillow:metal_type/astralite"
+  }
+}

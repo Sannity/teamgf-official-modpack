@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_kitchen_cabinetries",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_kitchen_cabinetries",
+    "fallback": "MrCrayfish\u0027s Kitchen Cabinetries"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "kitchen_cabinetry"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "kitchen_cabinetry"
+          }
+        ]
+      }
+    ]
+  }
+}

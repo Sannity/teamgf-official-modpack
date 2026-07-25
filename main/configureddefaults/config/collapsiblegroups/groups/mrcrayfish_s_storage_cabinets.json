@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_storage_cabinets",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_storage_cabinets",
+    "fallback": "MrCrayfish\u0027s Storage Cabinets"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "storage_cabinet"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "storage_cabinet"
+          }
+        ]
+      }
+    ]
+  }
+}

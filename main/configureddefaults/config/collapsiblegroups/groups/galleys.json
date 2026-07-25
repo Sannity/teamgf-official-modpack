@@ -1,0 +1,12 @@
+{
+  "id": "galleys",
+  "name": {
+    "translate": "collapsible_groups.group.galleys",
+    "fallback": "Galleys"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "smallships:galleys"
+  }
+}

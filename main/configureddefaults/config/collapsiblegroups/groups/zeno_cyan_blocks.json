@@ -1,0 +1,19 @@
+{
+  "id": "zeno_cyan_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.zeno_cyan_blocks",
+    "fallback": "Zeno Cyan Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "all": [
+      {
+        "type": "item",
+        "namespace": "betterblockz"
+      },
+      {
+        "item_path_starts_with": "zeno_cyan"
+      }
+    ]
+  }
+}

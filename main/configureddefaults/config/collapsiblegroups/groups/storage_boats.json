@@ -1,0 +1,12 @@
+{
+  "id": "storage_boats",
+  "name": {
+    "translate": "collapsible_groups.group.storage_boats",
+    "fallback": "Storage Boats"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "id": "sophisticatedstorageinmotion:storage_boat"
+  }
+}

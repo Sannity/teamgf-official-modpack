@@ -1,0 +1,11 @@
+{
+  "id": "inferium_blocks",
+  "name": {
+    "translate": "collapsible_groups.group.inferium_blocks",
+    "fallback": "Inferium Blocks"
+  },
+  "enabled": true,
+  "filter": {
+    "block_tag": "mysticalagriculture:metal_type/inferium"
+  }
+}

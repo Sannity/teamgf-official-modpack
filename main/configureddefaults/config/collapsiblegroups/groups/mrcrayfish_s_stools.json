@@ -1,0 +1,34 @@
+{
+  "id": "mrcrayfish_s_stools",
+  "name": {
+    "translate": "collapsible_groups.group.mrcrayfish_s_stools",
+    "fallback": "MrCrayfish\u0027s Stools"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "refurbished_furniture"
+          },
+          {
+            "item_path_ends_with": "stool"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
+            "type": "item",
+            "namespace": "everycomp"
+          },
+          {
+            "item_path_ends_with": "stool"
+          }
+        ]
+      }
+    ]
+  }
+}

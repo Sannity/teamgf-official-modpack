@@ -638,6 +638,78 @@
       {
         "type": "item",
         "id": "witchery:death_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:flame_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:purple_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:red_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:pink_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:gold_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:black_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:white_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:blue_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:green_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "chococraft:yellow_chocobo_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "adaptedmobs:festive_creeper_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "adaptedmobs:support_creeper_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "adaptedmobs:rocket_creeper_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "aquaculture:box_turtle_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "aquaculture:arrau_turtle_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "aquaculture:starshell_turtle_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "verseworks:warped_creeper_spawn_egg"
+      },
+      {
+        "type": "item",
+        "id": "wispwillow:axolotl_familar_spawn_egg"
       }
     ]
   }

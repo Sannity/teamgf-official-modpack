@@ -1,0 +1,12 @@
+{
+  "id": "cogs",
+  "name": {
+    "translate": "collapsible_groups.group.cogs",
+    "fallback": "Cogs"
+  },
+  "enabled": true,
+  "filter": {
+    "type": "item",
+    "tag": "smallships:cogs"
+  }
+}
