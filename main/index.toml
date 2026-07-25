@@ -3920,3 +3920,8 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
+
+[[files]]
+file = "resourcepacks/skyliner-modern-font-pack.pw.toml"
+hash = "51eeb4a581f95b222751154b5cf8a51b1d8dc973af5fe97c85e68fa9feae5415"
+metafile = true

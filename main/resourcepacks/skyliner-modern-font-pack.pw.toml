@@ -1,0 +1,13 @@
+name = "Skyliner Modern Font Pack"
+filename = "Skyline_Modern_v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c08235dcd7ea413d1510ca94f5035a6748c7f1f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7143853
+project-id = 1371395
