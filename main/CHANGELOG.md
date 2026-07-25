@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.1](https://github.com/Sannity/teamgf-official-modpack/compare/v3.3.0...v3.3.1) (2026-07-25)
+
+
+### Bug Fixes
+
+* pack index ([1d6fb4b](https://github.com/Sannity/teamgf-official-modpack/commit/1d6fb4bb69df02f7a159a06d86c5f949206eeeab))
+
 ## [3.3.0](https://github.com/Sannity/teamgf-official-modpack/compare/v3.2.0...v3.3.0) (2026-07-25)
 
 
